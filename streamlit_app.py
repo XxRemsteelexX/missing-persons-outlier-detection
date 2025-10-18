@@ -356,10 +356,10 @@ def show_outliers(df_outliers):
 
     st.markdown("""
     **Methodology:** Standard Deviation (σ) based classification
-    - **RED**: >3σ (99.7%+ confidence - statistically impossible)
-    - **ORANGE**: >2σ (95%+ confidence - significant outlier)
-    - **YELLOW**: >1σ (68%+ confidence - moderate outlier)
-    - **GREEN**: <1σ (normal variation)
+    - 🔴 **RED**: >3σ (99.7%+ confidence - statistically impossible)
+    - 🟠 **ORANGE**: >2σ (95%+ confidence - significant outlier)
+    - 🟡 **YELLOW**: >1σ (68%+ confidence - moderate outlier)
+    - 🟢 **GREEN**: <1σ (normal variation)
     """)
 
     # Alert distribution
@@ -370,16 +370,16 @@ def show_outliers(df_outliers):
 
     with col1:
         red = alert_counts.get('RED', 0)
-        st.metric("RED Alerts", red, f"{red/total*100:.1f}%")
+        st.metric("🔴 RED Alerts", red, f"{red/total*100:.1f}%")
     with col2:
         orange = alert_counts.get('ORANGE', 0)
-        st.metric("ORANGE Alerts", orange, f"{orange/total*100:.1f}%")
+        st.metric("🟠 ORANGE Alerts", orange, f"{orange/total*100:.1f}%")
     with col3:
         yellow = alert_counts.get('YELLOW', 0)
-        st.metric("YELLOW Alerts", yellow, f"{yellow/total*100:.1f}%")
+        st.metric("🟡 YELLOW Alerts", yellow, f"{yellow/total*100:.1f}%")
     with col4:
         green = alert_counts.get('GREEN', 0)
-        st.metric("GREEN", green, f"{green/total*100:.1f}%")
+        st.metric("🟢 GREEN", green, f"{green/total*100:.1f}%")
 
     st.markdown("---")
 
@@ -576,7 +576,8 @@ def show_validation(df_outliers):
             with col2:
                 st.metric("Unidentified Bodies", int(row['bodies_count']), f"{row['bodies_sigma']:.2f}σ")
             with col3:
-                st.metric("Alert Level", row['alert'])
+                alert_emoji = {'RED': '🔴', 'ORANGE': '🟠', 'YELLOW': '🟡', 'GREEN': '🟢'}
+                st.metric("Alert Level", f"{alert_emoji.get(row['alert'], '')} {row['alert']}")
 
             if row['mp_sigma'] > 1 or row['bodies_sigma'] > 1:
                 st.success(f"**DETECTED** as statistical outlier!")
@@ -917,10 +918,10 @@ def show_stddev_heat_map(df_mp, df_bodies, df_outliers):
     # Legend
     st.markdown("""
     **Color Scale Interpretation:**
-    - **Green/Low** (<1σ): Normal variation
-    - **Yellow** (1-2σ): Moderate outlier - monitor
-    - **Orange** (2-3σ): Significant outlier - investigate
-    - **Red/High** (>3σ): Extreme outlier - urgent attention
+    - 🟢 **Green/Low** (<1σ): Normal variation
+    - 🟡 **Yellow** (1-2σ): Moderate outlier - monitor
+    - 🟠 **Orange** (2-3σ): Significant outlier - investigate
+    - 🔴 **Red/High** (>3σ): Extreme outlier - urgent attention
     """)
 
     # Top outliers table
