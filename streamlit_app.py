@@ -19,8 +19,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Paths
-DATA_DIR = "/home/yeblad/Desktop/Geospatial_Crime_Analysis/data"
+# Paths - use relative paths for portability
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 RAW_DIR = os.path.join(DATA_DIR, "raw")
 ANALYSIS_DIR = os.path.join(DATA_DIR, "analysis")
 
