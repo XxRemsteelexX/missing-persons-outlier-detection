@@ -1,0 +1,508 @@
+Case Number,DLC,Legal Last Name,Legal First Name,Missing Age,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+MP146293,06/18/2025,Johnson,Kenneth,63 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,07/25/2025
+MP122787,05/17/2024,Mahan,Harold,66 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,05/29/2024
+MP117768,01/20/2024,Sanders,Trinity,27 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP120768,11/29/2023,Allen,Madison,32 Years,Zachary,East Baton Rouge,LA,Female,White / Caucasian,06/27/2024
+MP114578,10/14/2023,Cottier,Stephen,52 Years,Hammond,Tangipahoa,LA,Male,White / Caucasian,01/13/2024
+MP119367,10/06/2023,Bazley,Armani,16 Years,Jefferson,Jefferson,LA,Female,Black / African American,04/03/2024
+MP117069,09/16/2023,Holland,Kevin,55 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,02/27/2024
+MP109141,08/23/2023,Oubre,Marcus,37 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,05/30/2025
+MP111358,08/16/2023,Tillman,Eddie,37 Years,Bridge City,Jefferson,LA,Male,White / Caucasian,10/10/2024
+MP108337,08/03/2023,McAlister,Charles,71 Years,Creole,Cameron,LA,Male,White / Caucasian,09/25/2023
+MP117229,07/14/2023,Anderson,Jeremy,38 Years,Mandeville,St. Tammany,LA,Male,White / Caucasian,03/01/2024
+MP120767,06/01/2023,White,Jon'al,32 Years,Grambling,Lincoln,LA,Male,Black / African American,09/03/2024
+MP103664,03/29/2023,Howard,Melissa,45 Years,Slidell,St. Tammany,LA,Female,White / Caucasian,03/21/2024
+MP105324,03/17/2023,Molaison,Wilbert,44 Years,Raceland,Lafourche,LA,Male,Black / African American,06/02/2025
+MP104950,03/08/2023,Reid,Juan,43 Years,Harvey,Jefferson,LA,Male,Black / African American,05/16/2025
+MP104052,03/07/2023,Albright,George,63 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,05/21/2025
+MP100978,02/26/2023,Bryant,Don’Tavia,31 Years,Bossier City,Bossier,LA,Male,Black / African American,06/21/2023
+MP103378,12/31/2022,Moore,Kimberly,43 Years,Ringgold,Bienville,LA,Female,Black / African American,06/02/2025
+MP104796,12/31/2022,Kelson,Tyrese,18 Years,Kenner,Jefferson,LA,Male,Black / African American,06/21/2023
+MP104265,12/24/2022,Giddens,James,27 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP104270,12/24/2022,David,John,37 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP104279,11/19/2022,Miller,George,64 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP103606,11/15/2022,McSpadden,Jean,58 Years,New Iberia,Iberia,LA,Female,White / Caucasian,05/21/2025
+MP98073,11/07/2022,Agee,Jessie,70 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP104277,10/30/2022,McCraney,Sevelia,38 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP104275,10/19/2022,Honea,Joshua,37 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP104278,10/18/2022,Richard,Zotanique,27 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP104266,10/17/2022,Bocanegra,Kaheri,25 Years,Baton Rouge,East Baton Rouge,LA,Female,Uncertain,06/18/2025
+MP104267,10/13/2022,Castro,Eduardo,30 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP104273,10/07/2022,Frank,Kendrick,35 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP101326,10/01/2022,"Mayo, Jr.",Sidney,40 Years,Eunice,St. Landry,LA,Male,Black / African American,03/14/2023
+MP97615,09/24/2022,Colwort,Ronald,84 Years,Arcadia,Bienville,LA,Male,White / Caucasian,11/29/2022
+MP104276,09/23/2022,Lampton,Chelsey,32 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP104280,09/04/2022,Roberson,Jim,42 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP98180,08/27/2022,Oubre,Ingrid,49 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP101161,08/27/2022,Robertson III,Billy,32 Years,Springhill,Webster,LA,Male,White / Caucasian,08/15/2025
+MP98154,08/24/2022,"Farlow, Jr.",Harold,44 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,08/15/2025
+MP95096,08/10/2022,Tomlinson IV,James,38 Years,Dubach,Lincoln,LA,Male,White / Caucasian,01/26/2023
+MP104645,06/20/2022,Diallo,Ibrahima,21 Years,Luling,St. Charles,LA,Male,Black / African American,06/16/2023
+MP98179,06/01/2022,Malone,Kevin,31 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP96129,05/28/2022,Allen,Jamie,41 Years,Harahan,Jefferson,LA,Female,White / Caucasian,01/12/2024
+MP91353,05/04/2022,Hale,Savannah,22 Years,Shreveport,Caddo,LA,Female,White / Caucasian,05/12/2022
+MP120547,03/30/2022,Moody,Cherrie,39 Years,Shreveport,Caddo,LA,Female,White / Caucasian,05/01/2024
+MP96504,03/29/2022,Melancon,Nathaniel,36 Years,Grand Coteau,St. Landry,LA,Male,Black / African American,01/26/2023
+MP130089,03/14/2022,Thompson,Darnisa,30 Years,Dubberly,Webster,LA,Female,Black / African American,03/28/2025
+MP89778,03/09/2022,Goodie,Ella,32 Years,Iowa,Calcasieu,LA,Female,Black / African American,06/21/2022
+MP102754,02/28/2022,Mendez Sosa,Michael,17 Years,Jefferson,Jefferson,LA,Male,Hispanic / Latino,04/21/2023
+MP108408,02/18/2022,Declouette,Deion,23 Years,Lafayette,Lafayette,LA,Male,Black / African American,05/15/2025
+MP105237,02/18/2022,Robertson,Eugene,61 Years,Lafayette,Lafayette,LA,Male,Black / African American,06/02/2025
+MP104553,02/16/2022,Hernandez,Fernando,38 Years,Metairie,Jefferson,LA,Male,Hispanic / Latino,06/14/2023
+MP104283,01/02/2022,Brandon,Lavorie,33 Years,Baker,East Baton Rouge,LA,Male,Black / African American,07/24/2025
+MP104054,01/01/2022,Williams,Jammie,32 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP98161,12/28/2021,Machuga,Fidelma,46 Years,Baton Rouge,East Baton Rouge,LA,Female,Hispanic / Latino,06/18/2025
+MP88467,12/22/2021,Journee,Krystle,39 Years,New Orleans,Orleans,LA,Female,Black / African American,07/30/2024
+MP98085,12/03/2021,Leftwick,Jerry,68 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP90394,11/17/2021,Peters,Christopher,25 Years,New Orleans,Orleans,LA,Male,Black / African American,04/08/2022
+MP98084,11/17/2021,Latimore,Ramon,29 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP98188,11/10/2021,Sterling,Katie,54 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP89477,11/03/2021,Thompson,Kindley,77 Years,Vivian,Caddo,LA,Male,Black / African American,01/17/2023
+MP105236,11/01/2021,Harrison,Kelly,42 Years,Lafayette,Lafayette,LA,Male,White / Caucasian,06/02/2025
+MP87365,10/27/2021,Matthews,Dominquie,36 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP87368,10/17/2021,Williams,Clem,31 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP98790,10/08/2021,Sikes,Daniel,46 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP87279,10/05/2021,Kinnerson III,Wilfred,36 Years,Opelousas,St. Landry,LA,Male,Black / African American,12/16/2021
+MP96970,10/01/2021,Pawlus,Jared,36 Years,New Orleans,Orleans,LA,Male,White / Caucasian,02/16/2023
+MP101354,09/01/2021,Pineda-Vega,Alexander,27 Years,LaPlace,St. John the Baptist,LA,Male,Hispanic / Latino,05/31/2024
+MP98178,08/30/2021,Sam,Reatha,60 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP87068,08/22/2021,Shampine,Carl,34 Years,Prairieville,Ascension,LA,Male,White / Caucasian,12/09/2021
+MP98077,08/10/2021,Brooks,Sharone,26 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP98163,08/10/2021,Morris,Oliver,23 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP85581,07/15/2021,Baudean,Ellis,4 Years,Marrero,Jefferson,LA,Male,White / Caucasian,07/25/2024
+MP87274,07/01/2021,Northcutt,Timothy,51 Years,Winnfield,Winn,LA,Male,White / Caucasian,01/12/2024
+MP135863,06/05/2021,Nixon,Javon,20 Years,Rapides,Rapides,LA,Male,Black / African American,02/28/2025
+MP84766,06/01/2021,Landry,Mary,43 Years,Morgan City,St. Mary,LA,Female,White / Caucasian,09/30/2021
+MP83356,05/30/2021,JOHNSON,MICHAEL,23 Years,Keithville,Caddo,LA,Male,White / Caucasian,07/05/2022
+MP90393,05/28/2021,Lafleur,Martha,75 Years,New Orleans,Orleans,LA,Female,White / Caucasian,04/08/2022
+MP89250,05/17/2021,Thomas,John,50 Years,New Orleans,Orleans,LA,Male,White / Caucasian,01/12/2024
+MP84817,05/10/2021,Queen,Tabitha,29 Years,Bastrop,Morehouse,LA,Female,Black / African American,06/01/2022
+MP85604,04/29/2021,Brown,Evans,40 Years,Gretna,Jefferson,LA,Male,Black / African American,08/09/2024
+MP81721,04/05/2021,Hawkins,Corey,27 Years,Kenner,Jefferson,LA,Male,Black / African American,06/30/2021
+MP84792,03/31/2021,Taylor,Valencia,23 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP81722,03/28/2021,Fields,Bruce,59 Years,St Rose,St. Charles,LA,Male,Black / African American,06/30/2021
+MP79540,03/20/2021,Crawford,Douglas,66 Years,Vinton,Calcasieu,LA,Male,White / Caucasian,03/27/2025
+MP111758,03/01/2021,Competente,Christopher,27 Years,Lafayette,Lafayette,LA,Male,Uncertain,05/30/2025
+MP103974,02/23/2021,Merle,Anand,24 Years,Gretna,Jefferson,LA,Male,White / Caucasian,05/31/2023
+MP78592,02/20/2021,Madison,Keith,46 Years,Greensburg,St. Helena,LA,Male,White / Caucasian,03/09/2021
+MP82975,02/01/2021,Scott,Kristopher,33 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,01/12/2024
+MP87265,01/29/2021,Allen,Georgia,56 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP77737,01/29/2021,Pauratore,Louis,84 Years,Covington,St. Tammany,LA,Male,White / Caucasian,07/21/2022
+MP87264,01/09/2021,Baskin,Richard,68 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP87263,01/08/2021,Bryan,William,51 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP82977,01/05/2021,"Fletschinger, Jr.",Bob,63 Years,Chalmette,St. Bernard,LA,Male,White / Caucasian,07/29/2025
+MP120707,01/04/2021,Angers,Skye,30 Years,Lafayette,Lafayette,LA,Female,White / Caucasian,05/14/2024
+MP84760,12/20/2020,Bachand,Carolyn,59 Years,Greenwood,Caddo,LA,Female,White / Caucasian,09/30/2021
+MP105065,12/01/2020,Domingue,Kristy,29 Years,Lafayette,Lafayette,LA,Female,White / Caucasian,06/30/2023
+MP82834,11/25/2020,Elder Jr.,Alex,51 Years,Rayville,Richland,LA,Male,Black / African American,05/13/2024
+MP104646,10/27/2020,Boring,Hunter,31 Years,Arabi,St. Bernard,LA,Male,White / Caucasian,09/04/2025
+MP75837,10/08/2020,Taplin,Ruby,34 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP75765,10/02/2020,Odum,Dennis,60 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP75769,09/22/2020,Forbes,Belinda,59 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP76081,09/08/2020,Watson,Shrita,38 Years,Mer Rouge,Morehouse,LA,Female,Black / African American,10/03/2022
+MP77239,09/07/2020,Tucker,Jonathan,22 Years,Hammond,Tangipahoa,LA,Male,Black / African American,01/12/2024
+MP78797,09/02/2020,Gibson,Sabrina,26 Years,New Iberia,Iberia,LA,Female,White / Caucasian,03/16/2021
+MP75830,08/31/2020,Jannette,James,73 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP75831,08/19/2020,Williams,Raven,17 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP94432,07/26/2020,Adams,Todd,37 Years,Lacombe,St. Tammany,LA,Male,White / Caucasian,08/18/2022
+MP83682,07/18/2020,Taylor,Jesse,32 Years,Keithville,Caddo,LA,Male,White / Caucasian,08/27/2021
+MP77452,06/29/2020,Fennell,Ethan,25 Years,New Orleans,Orleans,LA,Male,White / Caucasian,08/02/2022
+MP74685,06/15/2020,"Gibson, Jr",David,30 Years,Paulina,St. James,LA,Male,White / Caucasian,12/22/2020
+MP75774,04/28/2020,Brown,Christopher,39 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP72630,03/20/2020,Grantham,Gregory,45 Years,Alexandria,Rapides,LA,Male,White / Caucasian,08/12/2020
+MP70173,03/14/2020,Brewer,Christopher,31 Years,Kentwood,Tangipahoa,LA,Male,White / Caucasian,05/26/2021
+MP115052,03/02/2020,Barrilleaux,Brady,35 Years,Gray,Terrebonne,LA,Male,White / Caucasian,03/06/2024
+MP87278,03/01/2020,Green,Michael,35 Years,Winnfield,Winn,LA,Male,Black / African American,10/17/2022
+MP69958,02/28/2020,Aguilera,Danis,40 - 42 Years,Baton Rouge,East Baton Rouge,LA,Male,Uncertain,06/18/2025
+MP66329,02/14/2020,"Cox, Jr.",Adrian,20 Years,Natchitoches,Natchitoches,LA,Male,Black / African American,07/29/2020
+MP66345,02/11/2020,Martin,Jace,31 Years,Destrehen,St. Charles,LA,Male,White / Caucasian,03/11/2020
+MP75606,01/22/2020,Maisonneuve,Brandi,37 Years,French Settlement,Livingston,LA,Female,White / Caucasian,08/25/2021
+MP65284,01/21/2020,McCathran,Dorthy,40 Years,Vivian,Caddo,LA,Female,White / Caucasian,08/02/2022
+MP66236,01/07/2020,Thanh,Ba,61 Years,Baton Rouge,East Baton Rouge,LA,Female,Uncertain,06/18/2025
+MP64064,10/30/2019,Stracener,Bradley,30 Years,Leesville,Vernon,LA,Male,"White / Caucasian, American Indian / Alaska Native",07/20/2023
+MP74057,10/28/2019,Hamilton,Curtis,33 Years,New Orleans,Orleans,LA,Male,Black / African American,12/09/2021
+MP95479,10/28/2019,Washington,Henry,79 Years,Lacombe,St. Tammany,LA,Male,Black / African American,09/21/2022
+MP76377,09/18/2019,Davis,Keith,54 Years,Monroe,Ouachita,LA,Male,Black / African American,12/11/2020
+MP68025,08/06/2019,Mortimer,Jessica,31 Years,New Orleans,Orleans,LA,Female,White / Caucasian,10/19/2021
+MP96588,07/30/2019,Mack-Mariscal,Eriel,< 1 Year,New Orleans,Orleans,LA,Female,White / Caucasian,01/26/2023
+MP78803,07/28/2019,Ross Jr.,Robert,36 Years,Mansfield,De Soto,LA,Male,Black / African American,03/16/2021
+MP60171,07/08/2019,Stewart,David,52 Years,Houma,Terrebonne,LA,Male,Black / African American,06/27/2024
+MP58961,06/07/2019,Agbor,Marshall,37 Years,New Orleans,Orleans,LA,Male,Black / African American,07/25/2019
+MP65868,06/04/2019,Martin,Ryan,42 Years,Independence,Livingston,LA,Male,White / Caucasian,01/12/2024
+MP98176,05/19/2019,Richard,Tiffany,39 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP58962,05/07/2019,Murphy,Tracey,25 - 39 Years,New Orleans,Orleans,LA,Female,White / Caucasian,07/25/2019
+MP65033,05/07/2019,Grayer,Natosha,39 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP69952,04/21/2019,Jones,Anna,53 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP60855,04/05/2019,Parrish,Arthur,50 Years,Logansport,Beauregard,LA,Male,White / Caucasian,09/30/2022
+MP57311,03/30/2019,Tarver Jr.,Timothy,33 Years,Centerpoint,Avoyelles,LA,Male,White / Caucasian,03/22/2022
+MP65032,03/20/2019,Miranda-Sanchez,Yanier,26 Years,Baton Rouge,East Baton Rouge,LA,Male,Hispanic / Latino,06/18/2025
+MP65031,03/10/2019,Stevenson,Johnel,55 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP90202,03/04/2019,Turner,Curtis,63 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,04/04/2022
+MP64763,03/02/2019,Boyet,Kevin,62 Years,Plaquemine,Iberville,LA,Male,White / Caucasian,01/29/2020
+MP64575,02/01/2019,Jackson,Joshua,29 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP57146,01/24/2019,Nguyen,Anthony,29 Years,Venice,Plaquemines,LA,Male,Asian,10/11/2022
+MP67773,01/20/2019,"Aucoin, Jr.",Shane,36 Years,Ville Platte,Evangeline,LA,Male,White / Caucasian,04/02/2020
+MP64628,01/05/2019,Brooks,Tracey,63 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP77021,01/04/2019,Hasty,Donny,44 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,01/11/2021
+MP65030,01/02/2019,Linton,Asya,19 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP57310,12/27/2018,Davis,Nahendra,35 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/27/2024
+MP57142,11/01/2018,Loga,Terry,65 Years,Venice,Plaquemines,LA,Male,White / Caucasian,05/06/2019
+MP59511,09/16/2018,Burkey,Zachary,26 Years,New Orleans,Orleans,LA,Male,White / Caucasian,08/22/2019
+MP64537,09/15/2018,Wise,Bruce,61 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP54078,09/10/2018,Beal,Crystal,29 Years,Shreveport,Caddo,LA,Female,White / Caucasian,09/17/2024
+MP54574,09/10/2018,Hartman,Kylie,21 Years,Shreveport,Caddo,LA,Female,White / Caucasian,07/29/2022
+MP89989,09/05/2018,Dowden,James,53 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,01/12/2024
+MP60168,09/02/2018,Atkins II,Donald,35 Years,West Monroe,Ouachita,LA,Male,White / Caucasian,08/01/2022
+MP72628,08/30/2018,Lonix,Marsha,55 Years,Alexandria,Rapides,LA,Female,Black / African American,03/29/2024
+MP78482,08/05/2018,Gai,Jinwei,33 Years,Kenner,St. Charles,LA,Male,Asian,03/04/2021
+MP64645,06/28/2018,Goodwin,William,33 Years,Ragley,Jefferson Davis,LA,Male,White / Caucasian,01/12/2024
+MP64624,06/13/2018,Nan,Nan Liu,51 Years,Baton Rouge,East Baton Rouge,LA,Female,Asian,06/18/2025
+MP77902,06/12/2018,Fischer,Carrol,30 Years,New Orleans,Orleans,LA,Male,White / Caucasian,01/12/2024
+MP57004,05/29/2018,Benoit,Earnest,46 Years,Many,Sabine,LA,Male,White / Caucasian,05/03/2019
+MP64676,05/14/2018,Land,Dylan,15 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP59890,04/19/2018,Washington,Ashton,26 Years,New Orleans,Orleans,LA,Male,Black / African American,05/31/2024
+MP43242,04/05/2018,Phillips,Rondreiz,4 Years,Lisbon,Claiborne,LA,Male,Black / African American,07/28/2022
+MP64626,04/04/2018,Gross,Benny,61 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP57005,01/01/2018,Butler,Steven,66 Years,Many,Sabine,LA,Male,White / Caucasian,05/03/2019
+MP76969,12/15/2017,Zeno,James,59 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,01/19/2021
+MP41973,12/11/2017,Chambers,Lee,67 Years,Baker,East Baton Rouge,LA,Male,Black / African American,05/14/2019
+MP58829,11/24/2017,Xiao,Wei,35 Years,Venice,Plaquemines,LA,Male,Asian,07/19/2019
+MP40505,10/03/2017,Bouwell,Kenneth,46 Years,West Monroe,Ouachita,LA,Male,White / Caucasian,09/06/2018
+MP52721,09/22/2017,Sylvester,Keshia,29 Years,Breaux Bridge,St. Martin,LA,Female,Black / African American,06/23/2025
+MP55954,09/18/2017,Townley,Terry,51 Years,Oakdale,Allen,LA,Male,White / Caucasian,04/10/2019
+MP65424,09/07/2017,Corkern,Scott,56 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,03/06/2020
+MP39715,08/04/2017,Young,Denise,59 Years,Arabi,St. Bernard,LA,Female,White / Caucasian,03/13/2019
+MP55251,07/08/2017,Hardy,David,78 Years,Alexandria,Rapides,LA,Male,Black / African American,03/30/2021
+MP51498,06/13/2017,Orsborn,Cynthia,26 Years,Natchitoches,Natchitoches,LA,Female,White / Caucasian,08/01/2018
+MP38825,06/09/2017,Mayfield Sr.,Morris,81 Years,New Orleans,Orleans,LA,Male,Black / African American,09/22/2025
+MP91440,06/09/2017,Cabrera,Jose,38 Years,Houma,Terrebonne,LA,Male,Hispanic / Latino,10/09/2023
+MP59339,05/23/2017,Landry,Jacquelyn,18 Years,Lafayette,Lafayette,LA,Female,White / Caucasian,11/07/2022
+MP43228,05/09/2017,Byler,Irma,67 Years,Shreveport,Caddo,LA,Female,White / Caucasian,05/12/2022
+MP51546,04/02/2017,Boudreaux,Danielle,32 Years,Winnfield,Winn,LA,Female,White / Caucasian,05/06/2019
+MP64400,02/28/2017,Hollies,Charles,59 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP35758,09/18/2016,Carr,Edward,71 Years,Hammond,Tangipahoa,LA,Male,Black / African American,05/27/2020
+MP59311,09/16/2016,Vargas-Medina,Josuan,14 Years,Scott,Lafayette,LA,Male,Hispanic / Latino,10/03/2022
+MP51697,09/09/2016,Treadwell,James,45 Years,Natchitoches,Natchitoches,LA,Male,White / Caucasian,07/17/2019
+MP64555,08/01/2016,Claiborne,Louis,47 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP57175,05/17/2016,Copeland,Michael,37 Years,Shreveport,Caddo,LA,Male,White / Caucasian,08/01/2022
+MP74540,05/01/2016,Zavala,Cristela,17 Years,Gretna,Jefferson,LA,Female,"Hispanic / Latino, Other",10/13/2020
+MP65207,03/12/2016,Lazo,Ana Guadalupe,33 Years,Baton Rouge,East Baton Rouge,LA,Female,Hispanic / Latino,03/27/2024
+MP40890,10/01/2015,Schiro,Nicholas,56 Years,Amite,Tangipahoa,LA,Male,White / Caucasian,10/18/2022
+MP84679,09/16/2015,Cooke,Michael,38 Years,Lake Charles,Calcasieu,LA,Male,White / Caucasian,10/08/2021
+MP30966,09/11/2015,Duplush,Terrence,47 Years,Gonzales,Ascension,LA,Male,Black / African American,01/12/2024
+MP40512,08/11/2015,Baham,Stacy,33 Years,Holden,Livingston,LA,Female,White / Caucasian,10/17/2022
+MP64185,07/21/2015,Taylor,Chad,39 Years,Bawcomville,Ouachita,LA,Male,White / Caucasian,03/04/2020
+MP79929,05/24/2015,Schreiber,Klaus-Peter,74 Years,New Orleans,Orleans,LA,Male,White / Caucasian,04/30/2021
+MP69016,04/29/2015,Sessions,Marcus,56 Years,New Orleans,Orleans,LA,Male,Black / African American,10/27/2022
+MP64401,03/30/2015,Robin,Cheryl Anne,54 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP29134,03/28/2015,Alghannam,Mohammed,25 Years,New Orleans,Orleans,LA,Male,Other,05/29/2024
+MP74539,03/22/2015,Medina,Adnes,16 Years,Gretna,Jefferson,LA,Male,Hispanic / Latino,10/13/2020
+MP29344,12/29/2014,Moffett,Richard,54 Years,Shreveport,Caddo,LA,Male,White / Caucasian,10/14/2022
+MP80708,12/10/2014,Watts,Annie,78 Years,Alexandria,Rapides,LA,Female,Black / African American,10/14/2022
+MP30724,08/28/2014,Latiolais,Jake,22 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP64398,08/10/2014,Williams,Cheyenne,34 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP74344,07/19/2014,Smith,Crystal,19 Years,Kenner,Jefferson,LA,Female,White / Caucasian,10/06/2020
+MP33047,07/18/2014,Wallace,Jonedwin,34 Years,Brusly,West Baton Rouge,LA,Male,White / Caucasian,01/12/2024
+MP52333,05/31/2014,Pollard,Hebert,67 Years,Monroe,Ouachita,LA,Male,Black / African American,10/12/2022
+MP64550,05/28/2014,Nguyen,Thuy,37 Years,Baton Rouge,East Baton Rouge,LA,Female,Asian,06/18/2025
+MP64549,05/05/2014,Alvarado,Rogelio,27 Years,Baton Rouge,East Baton Rouge,LA,Male,Hispanic / Latino,06/18/2025
+MP37273,12/31/2013,Johnson,Brenda,32 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP64396,12/27/2013,Allen,Travis,33 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP52482,10/09/2013,Morton,Ronald,67 Years,Leesville,Vernon,LA,Male,White / Caucasian,10/12/2022
+MP23894,09/07/2013,Guillot,Jessica,21 Years,Simmesport,Avoyelles,LA,Female,Black / African American,01/12/2024
+MP23911,08/09/2013,Sharp,Michael,51 Years,Calhoun,Ouachita,LA,Male,White / Caucasian,10/12/2022
+MP23946,06/22/2013,Knox,Elbert,50 Years,Shreveport,Caddo,LA,Male,Black / African American,10/12/2022
+MP43513,05/18/2013,Clay,Alex,59 Years,Alexandria,Rapides,LA,Male,Black / African American,03/29/2023
+MP20689,02/08/2013,Grebinger,Crystal,32 Years,Lafayette,Lafayette,LA,Female,White / Caucasian,01/12/2024
+MP57144,01/24/2013,Ha,Thanh,27 Years,Venice,Plaquemines,LA,Male,Asian,10/11/2022
+MP64394,12/29/2012,Collins,Keandre,25 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP18307,09/09/2012,Richards,Eryk,32 Years,Grand Isle,Jefferson,LA,Male,White / Caucasian,01/12/2024
+MP24523,07/14/2012,Crear,Alexander,24 Years,Folsom,St. Tammany,LA,Male,Black / African American,10/11/2022
+MP52229,07/02/2012,Gipson,Maurice,41 Years,Haynesville,Claiborne,LA,Male,Black / African American,01/12/2024
+MP32968,06/30/2012,Perkins,Robert,60 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,10/12/2022
+MP64542,05/19/2012,Young,Shakeeta,36 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP16968,04/30/2012,Felix,Keiosha,15 Years,Duson,Lafayette,LA,Female,Black / African American,07/16/2024
+MP24547,04/30/2012,Jackson,Louis,63 Years,Greenwood,Caddo,LA,Male,Black / African American,08/12/2020
+MP75620,04/20/2012,Revera,Oner,50 Years,Denham Springs,Livingston,LA,Male,Hispanic / Latino,10/11/2022
+MP23904,04/10/2012,"Batiste, Jr.",Ulysses,31 Years,LaCombe,St. Tammany,LA,Male,Black / African American,10/11/2022
+MP50829,03/16/2012,Wheat,Charles,34 Years,Winnfield,Winn,LA,Male,White / Caucasian,01/12/2024
+MP14421,02/01/2012,Johnson,Taurean,26 Years,Shreveport,Caddo,LA,Male,Black / African American,10/11/2022
+MP13850,01/23/2012,Thornhill,Shaun,41 Years,Rayville,Richland,LA,Male,White / Caucasian,10/11/2022
+MP17749,01/15/2012,Tran,Le-Thuy,45 Years,Harvey,Jefferson,LA,Female,Asian,12/23/2019
+MP19954,01/15/2012,Li,David,2 Years,Metairie,Jefferson,LA,Male,Asian,08/06/2018
+MP65195,09/08/2011,Singleton,David,47 Years,Unknown,East Baton Rouge,LA,Male,Black / African American,10/11/2022
+MP76308,08/31/2011,Gogna,Jhoney,50 Years,West Monroe,Ouachita,LA,Male,"Other, White / Caucasian",06/05/2024
+MP32257,08/13/2011,Robinson,Santana,38 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP15024,08/12/2011,Hawk,Nancy,59 Years,Metairie,Jefferson,LA,Female,White / Caucasian,06/23/2020
+MP14480,07/13/2011,Lafleur,Dale,68 Years,Port Barre,St. Landry,LA,Male,White / Caucasian,01/12/2024
+MP33360,07/05/2011,Lozada,Sylviane,51 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,11/02/2018
+MP11655,06/10/2011,Fell,Shane,36 Years,Marrero,Jefferson,LA,Male,White / Caucasian,10/11/2022
+MP74341,04/26/2011,Gerold,Darrell,52 Years,Kenner,Jefferson,LA,Male,White / Caucasian,10/06/2020
+MP10295,04/08/2011,Phan,Giang,33 Years,New Orleans,Orleans,LA,Male,Asian,01/12/2024
+MP26390,04/01/2011,Shaw,Rita,44 Years,New Orleans,Orleans,LA,Female,Black / African American,10/11/2022
+MP10725,03/30/2011,Mayo,Claxton,43 Years,Monroe,Ouachita,LA,Male,White / Caucasian,10/11/2022
+MP13928,01/23/2011,Winslow,Tracy,30 Years,Oil City,Caddo,LA,Female,Black / African American,10/11/2022
+MP11669,01/11/2011,Truong,Michael,23 Years,New Orleans,Orleans,LA,Male,Asian,06/05/2018
+MP27305,12/29/2010,Husser,William,39 Years,Covington,St. Tammany,LA,Male,White / Caucasian,08/06/2020
+MP18091,12/04/2010,"Kelley, Sr.",Leroy,70 Years,Lottie,Pointe Coupee,LA,Male,Black / African American,10/11/2022
+MP8721,07/22/2010,Mouton,Brandon,28 Years,Grand Isle,Jefferson,LA,Male,Black / African American,10/11/2022
+MP6973,03/28/2010,"Kidder, Jr.",Earl,39 Years,Opelousas,Acadia,LA,Male,White / Caucasian,01/12/2024
+MP22687,02/23/2010,Anderson,Tameka,25 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP78519,01/09/2010,Bocaniger,Alejandro,32 Years,St Rose,St. Charles,LA,Male,Hispanic / Latino,01/12/2024
+MP27433,11/18/2009,Grace,Joel,57 Years,Leesville,Vernon,LA,Male,Black / African American,10/10/2022
+MP58823,09/20/2009,Rogers,Buddy,70 Years,Mittie,Allen,LA,Male,White / Caucasian,10/10/2022
+MP23981,09/10/2009,Nelson,Jeffrey,46 Years,Berwick,St. Mary,LA,Male,White / Caucasian,10/01/2018
+MP51813,06/20/2009,Alexander,Abdul,33 Years,Hammond,Tangipahoa,LA,Male,Black / African American,09/27/2022
+MP11794,04/02/2009,Brinich,Anthony,21 Years,New Orleans,Orleans,LA,Male,White / Caucasian,10/10/2022
+MP32621,03/13/2009,Giddens,Mark,39 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,08/02/2022
+MP18676,12/27/2008,Bonilla Guevara,Diana,13 Years,Covington,St. Tammany,LA,Female,Hispanic / Latino,10/10/2022
+MP35982,09/25/2008,Cornelius,Norma,24 Years,New Orleans,Orleans,LA,Female,White / Caucasian,01/12/2024
+MP36216,08/04/2008,Adams,Cornelius,35 Years,Crowley,Acadia,LA,Male,Black / African American,10/10/2022
+MP4163,08/03/2008,McCartan,Joseph,34 Years,,Plaquemines,LA,Male,White / Caucasian,10/10/2022
+MP65091,08/02/2008,Moten,Shelia,42 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,01/12/2024
+MP60674,06/13/2008,Taylor,LaKisha,27 Years,Lake Charles,Calcasieu,LA,Female,Black / African American,10/10/2022
+MP4185,06/03/2008,Polk,Emanuel,16 Years,Metairie,Jefferson,LA,Male,Black / African American,10/10/2022
+MP3992,05/02/2008,Blount,Barbara,58 Years,Holden,Livingston,LA,Female,White / Caucasian,10/10/2022
+MP26218,04/10/2008,Shepard,James,45 Years,Church Point,Acadia,LA,Male,White / Caucasian,05/29/2018
+MP23913,03/20/2008,Owens,Roshunda,24 Years,Ringgold,Bienville,LA,Female,Black / African American,03/29/2023
+MP65089,03/16/2008,Garcia,Julianne,35 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,10/10/2022
+MP5280,01/12/2008,Hergert,Edward,43 Years,Metairie,Jefferson,LA,Male,White / Caucasian,09/19/2025
+MP4220,01/01/2008,Toups,Larkie,46 Years,Bogalusa,Washington,LA,Male,White / Caucasian,09/14/2020
+MP31271,12/19/2007,Watson,Pamela,44 Years,Alexandria,Rapides,LA,Female,Black / African American,10/03/2022
+MP52372,11/30/2007,Murphy,Dennis,43 Years,Monroe,Ouachita,LA,Male,Black / African American,10/10/2022
+MP74373,09/27/2007,Diaz-Pomales,Martin,31 Years,Westwego,Jefferson,LA,Male,"White / Caucasian, Hispanic / Latino",10/07/2020
+MP4051,09/26/2007,Bloch,Albert,61 Years,Metairie,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP8743,08/28/2007,Vernier,Robert,38 Years,Merryville,Beauregard,LA,Male,White / Caucasian,03/06/2020
+MP38895,08/23/2007,Jones,Horace,47 Years,Belle Rose,Assumption,LA,Male,Black / African American,10/10/2022
+MP4062,08/16/2007,Briley,David,42 Years,Lake Charles,Calcasieu,LA,Male,White / Caucasian,09/18/2025
+MP14402,08/14/2007,Crockett,Philiss,39 Years,Columbia,Caldwell,LA,Female,White / Caucasian,10/10/2022
+MP10985,06/09/2007,Dunn,Sandra,46 Years,Cloutierville,Natchitoches,LA,Female,White / Caucasian,09/27/2022
+MP8720,05/02/2007,Miller,Daniel,21 Years,Oberlin,Allen,LA,Male,White / Caucasian,07/25/2022
+MP4130,12/20/2006,Holliday,Heather,32 Years,Ramah,Iberville,LA,Female,White / Caucasian,09/18/2025
+MP4113,11/27/2006,Gray,William,42 Years,Port Allen,West Baton Rouge,LA,Male,White / Caucasian,10/10/2022
+MP685,09/01/2006,Nelson,Clinton,21 Years,Princeton,Bossier,LA,Male,White / Caucasian,01/12/2024
+MP58824,08/16/2006,Roberts,Adrian,32 Years,Oberlin,Allen,LA,Male,Black / African American,10/10/2022
+MP684,06/04/2006,Marks,Troy,39 Years,New Orleans,Orleans,LA,Male,White / Caucasian,06/25/2025
+MP14549,06/01/2006,Wise,Brandon,22 Years,New Orleans,Orleans,LA,Male,Black / African American,10/10/2022
+MP4162,05/21/2006,Maus,Charles,47 Years,Waggaman,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP18310,05/04/2006,"Serie, Sr.",Lanis,74 Years,Ville Platte,Evangeline,LA,Male,Black / African American,10/10/2022
+MP60395,03/01/2006,Lewis,Ronald,45 Years,Monroe,Ouachita,LA,Male,Black / African American,01/12/2024
+MP678,02/27/2006,Lambert,Troy,44 Years,Alexandria,Rapides,LA,Male,White / Caucasian,07/18/2024
+MP75604,02/10/2006,Cummings,David,29 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,01/12/2024
+MP75617,02/01/2006,Gomez,Rogelio,34 Years,Walker,Livingston,LA,Male,"Hispanic / Latino, White / Caucasian",11/16/2020
+MP725,01/31/2006,Orsborn,Michael,38 Years,Provencal,Natchitoches,LA,Male,White / Caucasian,06/25/2025
+MP496,01/24/2006,Anderson,Constance,19 Years,Mansfield,De Soto,LA,Female,Black / African American,06/07/2024
+MP4083,01/14/2006,"Davis, Jr.",John,51 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,09/18/2025
+MP18088,12/22/2005,Guidroz,Justice,26 Years,Gonzales,Ascension,LA,Male,White / Caucasian,01/12/2024
+MP5949,08/28/2005,Clark,Roy,18 Years,Port Eads,Plaquemines,LA,Male,White / Caucasian,10/11/2022
+MP74345,08/27/2005,Lopez,Louis,45 Years,Kenner,Jefferson,LA,Male,"White / Caucasian, Hispanic / Latino",10/11/2022
+MP4069,07/25/2005,Burris,Sandra,35 Years,Opelousas,Acadia,LA,Female,White / Caucasian,10/11/2022
+MP4176,04/30/2005,Ortiz,Eduardo,47 Years,Heading From Elmwood To Bridge City,Jefferson,LA,Male,"White / Caucasian, Hispanic / Latino",09/18/2025
+MP35925,04/07/2005,Gobert,Teurline,73 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,01/26/2023
+MP673,02/01/2005,Hargray,Lynitta,40 Years,Tallulah,Madison,LA,Female,Black / African American,10/10/2022
+MP4180,01/07/2005,Perkins,Taurean,22 Years,Unknown,Calcasieu,LA,Male,White / Caucasian,09/18/2025
+MP50820,12/12/2004,Warren,James,45 Years,Colfax,Grant,LA,Male,White / Caucasian,10/10/2022
+MP4105,12/01/2004,Goff,Irvin,64 Years,Edgard,St. John the Baptist,LA,Male,Black / African American,09/18/2025
+MP23910,10/11/2004,Stringfellow,Karhonda,21 Years,Dubach,Lincoln,LA,Female,Black / African American,10/10/2022
+MP4039,08/25/2004,Adams,John,54 Years,River Ridge,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP4233,07/20/2004,Williams,Cheryl,37 Years,Ruston,Lincoln,LA,Female,Black / African American,10/07/2022
+MP20332,07/08/2004,Potgieter,Johannes,39 Years,Columbia,Caldwell,LA,Male,White / Caucasian,10/07/2022
+MP4090,06/01/2004,Dodson,Adam,24 Years,Pineville,Rapides,LA,Male,White / Caucasian,07/18/2022
+MP4122,05/09/2004,Hatfield,Brian,21 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP727,04/01/2004,Parker,Jeremiah,19 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP11366,01/01/2004,Stewart,Gene,33 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,01/05/2022
+MP4099,12/25/2003,Franklin,Ernest,57 Years,Shreveport,Caddo,LA,Male,Black / African American,07/19/2022
+MP4213,12/13/2003,Taylor,Johnnie,49 Years,Waggaman,Jefferson,LA,Male,Black / African American,10/07/2022
+MP117448,11/13/2003,Bell,Delana,22 Years,New Orleans,Orleans,LA,Female,Black / African American,06/06/2024
+MP50821,10/27/2003,Carr,James,48 Years,Dry Prong,Grant,LA,Male,White / Caucasian,03/29/2023
+MP4206,06/22/2003,Smith,Kenneth,33 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,09/18/2025
+MP681,02/02/2003,LeBlanc,Paul,69 Years,Covington,St. Tammany,LA,Male,White / Caucasian,07/28/2023
+MP578,01/09/2003,Eiffert,Ashley,19 Years,New Orleans,Orleans,LA,Female,White / Caucasian,01/12/2024
+MP4080,01/01/2003,"Davidson, Jr.",Richard,41 Years,Mittie,Allen,LA,Male,White / Caucasian,09/18/2025
+MP4098,12/24/2002,Fowler,Mari Ann,65 Years,Port Allen,West Baton Rouge,LA,Female,White / Caucasian,07/19/2022
+MP735,12/21/2002,Wiggins,James,21 Years,Ruston,Winn,LA,Male,White / Caucasian,10/07/2022
+MP4212,12/05/2002,Tankersley,Glenn,67 Years,St. Francisville,West Feliciana,LA,Male,White / Caucasian,10/07/2022
+MP576,11/28/2002,Davis,Robert,57 Years,Ringgold,Bienville,LA,Male,Black / African American,10/07/2022
+MP4219,09/28/2002,Tompkins,Patrick,41 Years,Shreveport,Caddo,LA,Male,Black / African American,08/20/2020
+MP18312,09/07/2002,Kent,Wendy,35 Years,Rosedale,Iberville,LA,Female,White / Caucasian,01/12/2024
+MP60130,08/01/2002,Kennon,Lewis,79 Years,Winnsboro,Franklin,LA,Male,Black / African American,07/30/2020
+MP5976,07/12/2002,Cosey,Justin,16 Years,New Orleans,Orleans,LA,Male,Black / African American,10/11/2022
+MP64545,06/04/2002,Jackson,Donald,33 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP4055,02/14/2002,Bordelon,Nicholas,29 Years,Metairie,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP7455,12/26/2001,Wells,Darrell,31 Years,Bossier City,Bossier,LA,Male,White / Caucasian,10/07/2022
+MP677,12/03/2001,Knapp,Charlene,47 Years,Kinder,Allen,LA,Female,White / Caucasian,10/07/2022
+MP497,12/03/2001,Boyett,Ted,48 Years,Kinder,Allen,LA,Male,White / Caucasian,06/07/2024
+MP4108,09/07/2001,Gingery,Billy,27 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,09/18/2025
+MP52145,08/30/2001,Simmons,Willie,24 Years,Clinton,East Feliciana,LA,Male,Black / African American,03/29/2023
+MP4068,07/20/2001,Buletic,Gerald,29 Years,Waggemam,Jefferson,LA,Male,Asian,10/07/2022
+MP729,07/13/2001,Proctor,Michael,45 Years,Houma,Terrebonne,LA,Male,White / Caucasian,11/18/2024
+MP2474,07/06/2001,Brown,April,39 Years,Mooringsport,Caddo,LA,Female,White / Caucasian,09/17/2025
+MP4168,05/15/2001,Morgan,Wesley,2 Years,Clinton,East Feliciana,LA,Male,White / Caucasian,10/10/2022
+MP59099,04/18/2001,Wiltz,Fredrick,20 Years,St. Martinville,St. Martin,LA,Male,Black / African American,07/30/2019
+MP728,03/18/2001,Piper,Ansel,32 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP10681,03/03/2001,Mozze,Terri,42 Years,New Orleans,Orleans,LA,Female,Black / African American,02/08/2023
+MP682,02/11/2001,Long,Joe,42 Years,Thibodaux,Lafourche,LA,Male,White / Caucasian,06/25/2025
+MP70078,02/03/2001,Scarkino,Pearl,34 Years,Montz,St. Charles,LA,Female,White / Caucasian,01/12/2024
+MP64619,01/01/2001,Johnson,Joyce,50 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP76957,01/01/2001,Lewis,Lloyd,54 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,01/12/2024
+MP4047,12/02/2000,Barnett,Tova,19 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,10/07/2022
+MP4141,11/28/2000,Kennedy,Yul,32 Years,Metairie,Jefferson,LA,Male,Black / African American,09/18/2025
+MP4112,11/22/2000,Gray,DeShanna,29 Years,Logansport,De Soto,LA,Female,Black / African American,09/18/2025
+MP35895,11/07/2000,Senegal,Jaret,30 Years,Crowley,Acadia,LA,Male,Black / African American,01/12/2024
+MP20329,08/01/2000,Lawson,Anton,21 Years,New Orleans,Orleans,LA,Male,Black / African American,03/29/2023
+MP121870,06/01/2000,Modlies,Feldrick,37 Years,Port Allen,West Baton Rouge,LA,Male,Black / African American,04/11/2025
+MP675,05/20/2000,Hayes,Joseph,52 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP52371,05/17/2000,Weathers,Charles,39 Years,Monroe,Ouachita,LA,Male,Black / African American,10/07/2022
+MP733,03/21/2000,"Vice, Jr.",Gregory,23 Years,Taylortown,Bossier,LA,Male,White / Caucasian,06/25/2025
+MP679,10/20/1999,Landry,Wallace,55 Years,New Orleans,Orleans,LA,Male,Black / African American,09/10/2025
+MP4192,07/03/1999,Rogers,Courtney,19 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/24/2025
+MP56488,06/05/1999,Wyche,Willis,37 Years,Lake Charles,Calcasieu,LA,Male,Black / African American,04/04/2019
+MP23887,05/03/1999,Bryant,Paul,47 Years,New Orleans,Orleans,LA,Male,White / Caucasian,03/29/2023
+MP4088,03/30/1999,Dennis,Kelvin,27 Years,Houma,Terrebonne,LA,Male,Black / African American,09/18/2025
+MP4102,03/15/1999,Garcia,Julia,27 Years,Baton Rouge,East Baton Rouge,LA,Female,Hispanic / Latino,10/07/2022
+MP1731,02/16/1999,Guillory,Yasuko,44 Years,Metairie,Jefferson,LA,Female,Asian,03/25/2025
+MP731,01/27/1999,Rubio,Cory,24 Years,Bossier City,Caddo,LA,Female,"White / Caucasian, Hispanic / Latino",03/02/2023
+MP676,01/03/1999,Jones,Daphne,26 Years,New Orleans,Orleans,LA,Female,Black / African American,07/20/2022
+MP680,11/26/1998,"Lawrence, Jr.",Henry,45 Years,Vivian,Caddo,LA,Male,Black / African American,10/07/2022
+MP1732,09/22/1998,Johnson,Jimmy,30 Years,Tallulah,Madison,LA,Male,White / Caucasian,09/17/2025
+MP4078,07/06/1998,Collins,Natasha,31 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,09/18/2025
+MP19774,05/28/1998,Howard,Isaac,34 Years,St. Rose,St. Charles,LA,Male,Black / African American,03/23/2023
+MP4040,05/19/1998,Alexis,Abraham,44 Years,Garyville,St. John the Baptist,LA,Male,Black / African American,03/22/2017
+MP79962,05/01/1998,Austin,Earl,28 Years,New Sarpy,St. Charles,LA,Male,Black / African American,01/12/2024
+MP581,04/21/1998,Ellis,Jacqueline,39 Years,Marrero,Jefferson,LA,Female,Black / African American,06/07/2024
+MP4100,04/20/1998,Freeman,Edna,49 Years,Tallulah,Madison,LA,Female,White / Caucasian,10/06/2022
+MP4164,04/18/1998,Mebruer,Randi,28 Years,Zachary,East Baton Rouge,LA,Female,White / Caucasian,10/06/2022
+MP4041,04/13/1998,Allen,Pearl,83 Years,Tullos,Winn,LA,Female,White / Caucasian,10/06/2022
+MP23892,04/01/1998,Toups,Michael,39 Years,Cameron,Cameron,LA,Male,White / Caucasian,05/10/2019
+MP1651,03/01/1998,Stricklin,Sandra,24 Years,Kenner,Jefferson,LA,Female,White / Caucasian,10/06/2022
+MP79922,01/31/1998,Steiner,Chad,26 Years,Norco,St. Charles,LA,Male,White / Caucasian,10/06/2022
+MP67669,01/18/1998,Lucas,Jerry,36 Years,Boutte,St. Charles,LA,Male,White / Caucasian,01/12/2024
+MP4079,12/03/1997,Dagnan,Clarence,68 Years,Jackson,East Feliciana,LA,Male,White / Caucasian,09/18/2025
+MP4127,11/13/1997,Hendry,Jerry,54 Years,Newellton,Tensas,LA,Male,White / Caucasian,03/11/2019
+MP11800,09/12/1997,Hurst,Thomas,55 Years,Metairie,Jefferson,LA,Male,White / Caucasian,05/23/2025
+MP77098,09/04/1997,Rogers,Emrick,29 Years,Opelousas,St. Landry,LA,Male,Black / African American,01/13/2021
+MP11730,06/30/1997,McGraw,Nathan,19 Years,Denham Springs,Livingston,LA,Male,White / Caucasian,01/12/2024
+MP1649,04/28/1997,Brumley,Syble,76 Years,Mansfield,De Soto,LA,Female,White / Caucasian,08/02/2024
+MP14624,04/16/1997,Bonadona,Salvador,59 Years,Donaldsonville,Ascension,LA,Male,White / Caucasian,10/06/2022
+MP4089,09/27/1996,DeWitt,Lurline,76 Years,Mansfield,De Soto,LA,Female,Black / African American,10/06/2022
+MP726,07/19/1996,O'Pry,Kristi,26 Years,Shreveport,Caddo,LA,Female,White / Caucasian,06/11/2024
+MP4074,07/01/1996,Cavet,Anthony,71 Years,Zachary,East Baton Rouge,LA,Male,White / Caucasian,10/06/2022
+MP4230,06/08/1996,Whitehead,Renata,14 Years,Jonesville,Catahoula,LA,Female,Black / African American,10/06/2022
+MP4129,06/07/1996,Herrington,Tonya,20 Years,Wisner,Franklin,LA,Female,White / Caucasian,10/06/2022
+MP39826,05/22/1996,"Brown, Sr.",Doris,63 Years,Natchitoches,Natchitoches,LA,Male,Black / African American,10/14/2022
+MP4153,04/06/1996,Lele,Shriram,53 Years,Kenner,Jefferson,LA,Male,White / Caucasian,10/06/2022
+MP60380,03/05/1996,Rowe,Heather,23 Years,New Orleans,Orleans,LA,Male,White / Caucasian,06/23/2025
+MP4222,02/21/1996,Tucker,Thomas,39 Years,Tensas Parish,Tensas,LA,Male,White / Caucasian,03/11/2019
+MP4187,11/10/1995,Raymond,Taranika,13 Years,New Orleans,Orleans,LA,Female,Black / African American,10/07/2022
+MP23900,09/01/1995,Batiste,Joseph,52 Years,Pineville,Rapides,LA,Male,Black / African American,07/31/2020
+MP52215,08/04/1995,Burks,Shetocquie,25 Years,Monroe,Ouachita,LA,Female,Black / African American,03/30/2021
+MP4044,07/09/1995,Babino,Johnny,19 Years,Marrero,Jefferson,LA,Male,Black / African American,09/18/2025
+MP4235,05/27/1995,Worsley,Caroline,42 Years,Unknown,East Baton Rouge,LA,Female,White / Caucasian,10/26/2022
+MP4043,03/10/1995,"Austin, Jr.",Bob,19 Years,Jefferson,Jefferson,LA,Male,Black / African American,10/06/2022
+MP59554,12/06/1994,Alexander,Peggy,34 Years,Hammond,Tangipahoa,LA,Female,Black / African American,05/21/2024
+MP4123,09/17/1994,Hayes,Hilary,27 Years,Bastrop,Morehouse,LA,Male,Black / African American,09/18/2025
+MP20328,09/12/1994,Brumfield-Gann,Julie,35 Years,Abita Springs,St. Tammany,LA,Female,White / Caucasian,12/19/2024
+MP4092,09/08/1994,Dupont,Joyce,25 Years,Lake Charles,Calcasieu,LA,Female,Black / African American,10/07/2022
+MP52547,04/25/1994,Bill,Elliot,19 Years,Siracusa,St. Mary,LA,Male,Black / African American,01/12/2024
+MP17538,01/06/1994,Carrisi,Ylenia,23 Years,New Orleans,Orleans,LA,Female,White / Caucasian,01/10/2022
+MP57358,12/28/1993,Morvant Jr.,David,24 Years,Luling,St. Charles,LA,Male,White / Caucasian,10/06/2022
+MP10513,12/18/1993,Reynolds,Michael,32 Years,Marrero,Jefferson,LA,Male,White / Caucasian,10/06/2022
+MP4152,12/18/1993,Ledet,Tina,35 Years,Gretna,Jefferson,LA,Female,White / Caucasian,09/18/2025
+MP625,10/14/1993,Hardwick,Nelda,34 Years,Lake Charles,Calcasieu,LA,Female,White / Caucasian,01/10/2022
+MP17811,09/18/1993,Southern,Amanda,28 Years,Walters,Catahoula,LA,Female,White / Caucasian,04/22/2024
+MP4065,06/11/1993,Brown,Walter,53 Years,Marrero,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP4049,07/23/1992,Benoit,Wilda Mae,14 Years,Creole,Cameron,LA,Female,White / Caucasian,08/04/2020
+MP4058,07/13/1992,Bracken,Dedra,18 Years,Folsom,St. Tammany,LA,Female,White / Caucasian,02/10/2025
+MP4196,07/10/1992,Ruffin,Clarence,71 Years,Avondale,Jefferson,LA,Male,Black / African American,10/06/2022
+MP4140,07/09/1992,Kennedy,Joyce,32 Years,Marrero,Jefferson,LA,Female,Black / African American,10/06/2022
+MP4109,04/07/1992,Gonzales,Donna,27 Years,Rayne,Acadia,LA,Female,White / Caucasian,10/06/2022
+MP7262,03/23/1992,Cross,Wilda,39 Years,Sibley,Webster,LA,Female,White / Caucasian,10/07/2022
+MP4237,03/10/1992,Zeigler,Jonathan,19 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,10/06/2022
+MP730,01/12/1992,Romero,Louise,52 Years,Starks,Calcasieu,LA,Female,White / Caucasian,08/29/2018
+MP25304,12/23/1991,Baham,John,22 Years,Calcasieu River,Allen,LA,Male,White / Caucasian,10/06/2022
+MP14550,12/01/1991,Rhodes,Betty,32 Years,New Orleans,Orleans,LA,Female,Black / African American,06/05/2018
+MP51594,11/01/1991,"McCoy, Sr.",Henry,62 Years,Bogalusa,Washington,LA,Male,Black / African American,08/07/2018
+MP4157,10/25/1991,Madanat,Penelope,23 Years,Bossier City,Bossier,LA,Female,White / Caucasian,10/06/2022
+MP4134,10/23/1991,Jarreau,William,26 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP4205,09/06/1991,Smith,James,22 Years,Harvey,Jefferson,LA,Male,White / Caucasian,10/06/2022
+MP526,08/28/1991,Breaux,Adam,50 Years,Houma,Terrebonne,LA,Male,White / Caucasian,10/06/2022
+MP4954,07/07/1991,Grant,Michael,31 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,09/19/2025
+MP19017,06/11/1991,Martin,Eddie,44 Years,Opelousas,St. Landry,LA,Male,White / Caucasian,10/07/2022
+MP4199,04/29/1991,Schweikert,Rolando,29 Years,Metairie,Jefferson,LA,Male,"White / Caucasian, Hispanic / Latino",10/06/2022
+MP4191,04/13/1991,Robinson,Kathleen,30 Years,Metairie,Jefferson,LA,Female,Black / African American,09/18/2025
+MP4218,03/05/1991,Tobin,Flora,54 Years,Metairie,Jefferson,LA,Female,White / Caucasian,09/18/2025
+MP18318,02/21/1991,Smith,Curtis,29 Years,Plaquemine,Iberville,LA,Male,Black / African American,07/07/2022
+MP76138,11/21/1990,Foster,Charles,52 Years,Ponchatoula,Tangipahoa,LA,Male,Black / African American,12/03/2020
+MP4097,11/05/1990,Evans,Averie,11 Years,Natchitoches,Natchitoches,LA,Female,White / Caucasian,08/14/2023
+MP74384,05/29/1990,Soileau,Steven,23 Years,Mamou,Evangeline,LA,Male,Black / African American,01/12/2024
+MP8995,02/06/1990,Riley,Isaac,75 Years,Lutcher,St. James,LA,Male,Black / African American,09/09/2019
+MP103088,01/01/1990,Walker,Penelope,22 Years,Jennings,Jefferson Davis,LA,Female,Black / African American,05/02/2023
+MP5514,11/20/1989,Browning,Robert,53 Years,Monroe,Ouachita,LA,Male,White / Caucasian,10/06/2022
+MP4204,11/12/1989,Smith,Angela,24 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,10/06/2022
+MP25295,09/24/1989,Planells,Adrian,23 Years,Kenner,Jefferson,LA,Male,Hispanic / Latino,07/26/2022
+MP4135,05/10/1989,Jarvis,Tammy,20 Years,Baton Rouge,East Baton Rouge,LA,Female,Black / African American,06/18/2025
+MP58897,03/01/1989,Walker,Lester,55 Years,Homer,Claiborne,LA,Male,Black / African American,10/06/2022
+MP4104,12/25/1988,Gary,Rebecca,32 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP82279,11/12/1988,Roberson,Catherine,27 Years,Shreveport,Caddo,LA,Female,White / Caucasian,07/23/2021
+MP4224,09/13/1988,Vargas,Manuel,49 Years,Metairie,Jefferson,LA,Male,White / Caucasian,09/18/2025
+MP28427,06/12/1988,"Demars, Jr.",Wilson,32 Years,Natchitoches,Natchitoches,LA,Male,Black / African American,03/28/2023
+MP55651,05/15/1988,Deshotel,Elter,54 Years,Oberlin,Allen,LA,Male,White / Caucasian,10/06/2022
+MP25127,04/01/1988,Lalonde,Cassandra,15 Years,Westwego,Jefferson,LA,Female,White / Caucasian,07/02/2019
+MP4904,09/12/1987,Carriere,Vickie,18 Years,Waggaman,Jefferson,LA,Female,White / Caucasian,09/19/2025
+MP4059,10/22/1986,Brantley,Bambi,25 Years,Leesville,Vernon,LA,Female,White / Caucasian,03/30/2021
+MP29936,08/02/1986,Gary,Judy,19 Years,St. Martinville,St. Martin,LA,Female,White / Caucasian,03/06/2023
+MP4236,03/29/1986,Young,Londa,19 Years,Sulphur,Calcasieu,LA,Female,White / Caucasian,10/07/2022
+MP103328,02/28/1986,Woodson,Debra,32 Years,Pineville,Rapides,LA,Female,White / Caucasian,05/10/2023
+MP901,10/23/1985,O'Banion,Donna,25 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP4200,08/07/1985,Scott,Susan,29 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,10/06/2022
+MP65092,04/09/1985,Mestayer,John,23 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,10/06/2022
+MP4106,12/16/1984,Gilbert,Corey,6 Years,Metairie,Jefferson,LA,Male,Black / African American,10/06/2022
+MP4142,11/28/1984,Kergan,Gary,34 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP100812,03/06/1984,Brown,Ramona,3 Years,New Orleans,Orleans,LA,Female,Black / African American,05/17/2023
+MP4198,12/28/1983,Sanford,Charles,28 Years,Baton Rouge,East Baton Rouge,LA,Male,Black / African American,06/18/2025
+MP81425,11/25/1983,Tompkins,Rebecca,1 Year,Bossier City,Bossier,LA,Female,White / Caucasian,10/11/2021
+MP28822,11/04/1983,Major,Donald,49 Years,Oak Grove,West Carroll,LA,Male,White / Caucasian,10/06/2022
+MP1582,10/20/1983,Alberti,Babette,23 Years,Hahnville,St. Charles,LA,Female,White / Caucasian,03/25/2025
+MP4227,06/19/1983,Watts,Marion,26 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP4217,06/01/1983,Tindale,Keith,21 Years,Barksdale AFB,Bossier,LA,Male,White / Caucasian,03/07/2025
+MP1370,03/31/1983,Self,Faye,26 Years,Coushatta,Red River,LA,Female,White / Caucasian,10/06/2022
+MP4056,01/31/1983,Bovard,Stephen,20 Years,Zachary,East Baton Rouge,LA,Male,White / Caucasian,09/18/2025
+MP4011,01/05/1983,Helsley,Raylene,12 Years,Ruston,Lincoln,LA,Female,White / Caucasian,09/11/2019
+MP101102,09/10/1982,Wileman,Sherry,29 Years,Lafayette,Lafayette,LA,Female,White / Caucasian,07/10/2023
+MP1570,08/20/1982,Murray,Emino,30 Years,Gretna,Jefferson,LA,Female,Asian,08/06/2018
+MP1581,08/15/1982,Brice,Janet,21 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,07/18/2024
+MP86036,06/26/1982,Wise,Teresa,34 Years,Springhill,Webster,LA,Female,White / Caucasian,12/09/2021
+MP1569,11/10/1981,Parker,Eleanor,18 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP55064,09/08/1981,Lambert,Paul,34 Years,New Orleans,Orleans,LA,Male,White / Caucasian,12/06/2019
+MP4073,08/19/1981,Catlett,Charles,56 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP93421,08/10/1981,Tate,Kerry,25 Years,Walker,Livingston,LA,Female,White / Caucasian,11/18/2022
+MP10862,06/09/1981,O'Con,Alma,34 Years,Shreveport,Caddo,LA,Female,White / Caucasian,01/01/2023
+MP72310,03/10/1981,Rowell,Regina,20 Years,Metairie,Jefferson,LA,Female,White / Caucasian,09/30/2022
+MP4087,01/25/1980,Dellis,Clarence,40 Years,New Orleans,Orleans,LA,Male,White / Caucasian,09/18/2025
+MP42779,01/19/1980,Savoy,John,23 Years,Morganza,Pointe Coupee,LA,Male,White / Caucasian,03/23/2023
+MP4172,01/08/1980,"Newman, Jr.",William,24 Years,Slidell,St. Tammany,LA,Male,White / Caucasian,08/14/2023
+MP4155,11/18/1979,Long,Jimmy,26 Years,Calhoun,Ouachita,LA,Male,White / Caucasian,06/08/2020
+MP734,03/15/1979,Webb-Vaul,Arrilla,23 Years,Bossier Parish,Bossier,LA,Female,White / Caucasian,07/27/2022
+MP40337,03/15/1979,Kelley Jr.,Robert,22 Years,East Baton Rouge Parish,East Baton Rouge,LA,Male,White / Caucasian,06/18/2025
+MP20364,03/15/1979,Basco,Ida,23 Years,East Baton Rouge Parish,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP4053,01/29/1979,"Boggs, Sr.",Louis,67 Years,Baton Rouge,East Baton Rouge,LA,Male,White / Caucasian,01/12/2024
+MP65869,05/11/1978,Gould,Bertha,14 Years,Morgan City,St. Mary,LA,Female,White / Caucasian,04/18/2022
+MP4203,05/07/1978,"Smith, Sr.",Clarence,50 Years,Ferriday,Concordia,LA,Male,Black / African American,02/07/2019
+MP76852,04/01/1978,Doran,Randy,22 Years,New Orleans,Orleans,LA,Male,White / Caucasian,09/02/2025
+MP23885,03/02/1978,Rodermund,Mary,16 Years,Morgan City,St. Mary,LA,Female,White / Caucasian,07/26/2021
+MP37471,06/09/1977,Smith,Stephanie,24 Years,New Orleans,Orleans,LA,Female,White / Caucasian,01/10/2022
+MP90768,03/14/1977,Muller,Charles,26 Years,Metairie,Jefferson,LA,Male,"White / Caucasian, Hispanic / Latino",07/20/2022
+MP56137,10/16/1976,Dupuy,Clinton,21 Years,Morgan City,St. Mary,LA,Male,White / Caucasian,04/13/2020
+MP57405,09/01/1976,Henderson,Emma,23 Years,New Orleans,Orleans,LA,Female,Black / African American,01/26/2022
+MP68429,07/03/1976,Arruebarrena,Raymond,19 Years,New Orleans,Orleans,LA,Male,White / Caucasian,06/24/2020
+MP4188,02/19/1976,Reed,Sallie,22 Years,Thibodaux,Lafourche,LA,Female,White / Caucasian,10/06/2022
+MP1711,03/07/1974,Caporino,Gabriel,40 Years,New Orleans,Orleans,LA,Male,White / Caucasian,05/04/2020
+MP20525,02/01/1973,Hensley,Sharon,24 Years,,Calcasieu,LA,Female,White / Caucasian,01/12/2024
+MP52082,02/06/1971,Yeager,David,17 Years,Shreveport,Caddo,LA,Male,White / Caucasian,05/22/2025
+MP38268,02/07/1970,Bourque,Alan,19 Years,New Orleans,Orleans,LA,Male,White / Caucasian,01/16/2025
+MP26050,04/30/1968,Williams,Lillian,42 Years,Grambling,Lincoln,LA,Female,Black / African American,12/13/2023
+MP20169,05/25/1967,Reeves,Alice,19 Years,Ville Platte,Calcasieu,LA,Female,White / Caucasian,01/12/2024
+MP4093,07/12/1964,Edwards,Joseph,25 Years,Vidalia,Concordia,LA,Male,Black / African American,11/10/2021
+MP73758,04/30/1963,Wright,Joe,16 Years,Shreveport,Caddo,LA,Male,White / Caucasian,09/08/2025
+MP4818,04/08/1963,Clement,Hannah,22 Years,Baton Rouge,East Baton Rouge,LA,Female,White / Caucasian,06/18/2025
+MP55484,11/24/1956,Moate,Audrey,31 Years,Laplace,St. John the Baptist,LA,Female,White / Caucasian,10/21/2020

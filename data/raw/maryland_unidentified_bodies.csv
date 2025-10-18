@@ -1,0 +1,362 @@
+Case,ME/C Case,DBF,Age From,Age To,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+UP149143,ME/C Case 25-09336,07/11/2025,20.0,40.0,Silver Spring,Montgomery,Maryland,Male,Hispanic / Latino,09/18/2025
+UP146271,ME/C Case 25-06540,05/10/2025,17.0,30.0,Silver Spring,Montgomery,Maryland,Male,Black / African American,07/24/2025
+UP143328,ME/C Case 25-05465,04/09/2025,,,Stevensville,Queen Anne's,Maryland,Unsure,Uncertain,05/07/2025
+UP148436,ME/C Case 25-04704,03/30/2025,30.0,40.0,Adelphi,Prince George's,Maryland,Male,Uncertain,07/29/2025
+UP141480,ME/C Case 25-04086,03/17/2025,40.0,50.0,Hillcrest Heights,Prince George's,Maryland,Male,Black / African American,05/27/2025
+UP148850,ME/C Case 25-02062,02/06/2025,20.0,100.0,Baltimore,Baltimore,Maryland,Male,Uncertain,08/11/2025
+UP140985,ME/C Case 25-00483,01/09/2025,,,Baltimore,Baltimore,Maryland,Male,Hispanic / Latino,05/16/2025
+UP144239,ME/C Case 24-14932,11/20/2024,60.0,69.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/21/2025
+UP149223,ME/C Case 24-12214,09/21/2024,,,Baltimore,Baltimore,Maryland,Female,Asian,08/19/2025
+UP134786,ME/C Case 24-11909,09/14/2024,,,La Plata,Charles,Maryland,Male,Uncertain,12/12/2024
+UP134780,ME/C Case 24-11319,09/02/2024,60.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,12/14/2024
+UP136819,ME/C Case 24-10622,08/17/2024,22.0,32.0,Baltimore,Baltimore,Maryland,Male,Asian,01/24/2025
+UP135197,ME/C Case 24-10433,08/13/2024,30.0,40.0,Baltimore,Baltimore,Maryland,Female,Black / African American,08/22/2025
+UP134610,ME/C Case 24-05774,05/03/2024,60.0,100.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,01/17/2025
+UP134616,ME/C Case 24-04754,04/10/2024,60.0,100.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,12/10/2024
+UP130743,ME/C Case 24-04478,04/04/2024,15.0,100.0,Baltimore,Baltimore,Maryland,Male,Uncertain,10/03/2024
+UP125030,ME/C Case 24-03711,03/18/2024,60.0,100.0,Baltimore,Baltimore,Maryland,Male,Black / African American,01/22/2025
+UP134612,ME/C Case 24-03315,03/09/2024,20.0,30.0,Kingsville,Baltimore,Maryland,Female,Hispanic / Latino,12/12/2024
+UP134477,ME/C Case 24-02218,02/14/2024,30.0,100.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,05/21/2025
+UP133986,ME/C Case 23-10940,09/25/2023,50.0,100.0,Baltimore,Baltimore,Maryland,Male,Black / African American,02/03/2025
+UP117344,ME/C Case 23-11105,09/08/2023,19.0,39.0,Bowie,Prince George's,Maryland,Male,Hispanic / Latino,08/18/2025
+UP122057,ME/C Case 23-10216,08/20/2023,19.0,99.0,Hyattsville,Prince George's,Maryland,Male,Hispanic / Latino,09/10/2025
+UP112831,ME/C Case 23-10133,08/18/2023,19.0,39.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,10/01/2025
+UP130665,ME/C Case 23-06345,05/20/2023,60.0,90.0,Lanham,Prince George's,Maryland,Male,White / Caucasian,10/03/2024
+UP112991,ME/C Case 23-06171,05/16/2023,19.0,29.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,05/23/2024
+UP112992,ME/C Case 23-05562,05/03/2023,19.0,39.0,Baltimore,Baltimore,Maryland,Male,Black / African American,07/26/2024
+UP126359,ME/C Case 23-05514,05/02/2023,60.0,100.0,Baltimore,Baltimore,Maryland,Male,Black / African American,08/23/2024
+UP121990,ME/C Case 23-05201,04/24/2023,18.0,23.0,Hyattsville,Prince George's,Maryland,Male,Hispanic / Latino,03/24/2025
+UP123470,ME/C Case 23-05106,04/21/2023,,,Rosedale,Baltimore,Maryland,Female,White / Caucasian,10/01/2025
+UP121988,ME/C Case 23-02602,02/24/2023,19.0,99.0,Baltimore,Baltimore,Maryland,Female,Uncertain,05/14/2024
+UP104300,ME/C Case 23-01969,02/10/2023,19.0,59.0,Linthicum Heights,Anne Arundel,Maryland,Male,Black / African American,01/10/2025
+UP104739,ME/C Case 23-00128,01/26/2023,,,Glen Burnie,Anne Arundel,Maryland,Unsure,Uncertain,06/23/2023
+UP113094,ME/C Case 22-14738,11/12/2022,19.0,29.0,Baltimore,Baltimore,Maryland,Female,Hispanic / Latino,06/20/2025
+UP111762,ME/C Case 22-10665,08/12/2022,,,Baltimore,Baltimore,Maryland,Male,Black / African American,12/14/2023
+UP113096,ME/C Case 22-10626,08/11/2022,19.0,59.0,Baltimore,Baltimore,Maryland,Male,Uncertain,12/14/2023
+UP112822,ME/C Case 22-08714,06/28/2022,19.0,29.0,Baltimore,Baltimore,Maryland,Male,Black / African American,10/07/2024
+UP117175,ME/C Case 22-07448,05/31/2022,,,Baltimore,Baltimore,Maryland,Male,Black / African American,03/04/2024
+UP115139,ME/C Case 22-06649,05/11/2022,19.0,69.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,01/31/2024
+UP130663,ME/C Case 22-04302,03/18/2022,50.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,10/03/2024
+UP93225,ME/C Case 22-03476,03/01/2022,19.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/08/2024
+UP118427,ME/C Case 22-02709,02/12/2022,19.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,03/26/2024
+UP101381,ME/C Case 22-02393,02/06/2022,19.0,59.0,Rosedale,Baltimore,Maryland,Male,Black / African American,03/14/2024
+UP93725,ME/C Case 22-00647,01/11/2022,50.0,100.0,Baltimore,Baltimore,Maryland,Female,Black / African American,05/13/2024
+UP93723,ME/C Case 21-16687,12/07/2021,60.0,72.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,11/18/2024
+UP93722,ME/C Case 21-16460,12/02/2021,25.0,30.0,Baltimore,Baltimore,Maryland,Female,Black / African American,03/05/2024
+UP93635,ME/C Case 21-16005,11/23/2021,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,03/05/2024
+UP86545,ME/C Case 21-15500,11/12/2021,,,Darlington,Harford,Maryland,Unsure,Uncertain,04/08/2025
+UP130736,ME/C Case 23-10976,09/06/2021,50.0,100.0,Baltimore,Baltimore,Maryland,Male,Black / African American,12/09/2024
+UP91582,ME/C Case 21-11747,08/26/2021,19.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,04/10/2023
+UP91581,ME/C Case 21-06805,05/20/2021,49.0,99.0,Baltimore,Baltimore,Maryland,Female,Black / African American,04/26/2024
+UP91550,ME/C Case 21-03126,02/26/2021,56.0,65.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2025
+UP91545,ME/C Case 21-01209,01/21/2021,27.0,47.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,08/28/2024
+UP93573,ME/C Case 20-17974,12/21/2020,22.0,24.0,Baltimore,Baltimore,Maryland,Female,"Black / African American, Uncertain",06/20/2024
+UP76384,ME/C Case 20-16680,11/30/2020,,,Baltimore,Baltimore,Maryland,Female,Black / African American,07/31/2023
+UP77811,ME/C Case 20-14436,10/18/2020,19.0,59.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/01/2025
+UP75127,ME/C Case 20-12242,09/03/2020,,,Brandywine,Prince George's,Maryland,Unsure,Uncertain,04/10/2023
+UP76477,ME/C Case 20-11897,08/27/2020,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Uncertain,05/06/2024
+UP72777,ME/C Case 20-06881,05/18/2020,,,College Park,Prince George's,Maryland,Male,Uncertain,05/06/2024
+UP62555,ME/C Case 19-11079,09/18/2019,50.0,99.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,02/16/2024
+UP76474,ME/C Case 19-10373,09/01/2019,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Uncertain,04/10/2023
+UP61149,ME/C Case 19-09693,08/15/2019,20.0,26.0,Essex,Baltimore,Maryland,Male,Black / African American,03/14/2024
+UP58589,ME/C Case 19-07303,06/19/2019,,,Cheverly,Prince George's,Maryland,Unsure,Uncertain,04/10/2023
+UP53873,ME/C Case 18-14395,12/04/2018,18.0,70.0,Rockville,Montgomery,Maryland,Male,White / Caucasian,08/22/2024
+UP64825,ME/C Case 18-13830,10/28/2018,15.0,25.0,Bethesda,Montgomery,Maryland,Female,Black / African American,04/29/2024
+UP54693,ME/C Case 18-12121,10/12/2018,,,Crofton,Anne Arundel,Maryland,Unsure,Uncertain,09/20/2024
+UP54689,ME/C Case 18-7401,06/16/2018,,,Baltimore City,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP51413,ME/C Case 18-05950,05/12/2018,,,Port Tobacco,Charles,Maryland,Unsure,Uncertain,08/29/2024
+UP17706,ME/C Case 17-14255,12/13/2017,30.0,40.0,Fairmont Heights,Prince George's,Maryland,Male,White / Caucasian,08/30/2024
+UP17707,ME/C Case 17-13977,12/07/2017,20.0,60.0,Baltimore City,Baltimore,Maryland,Female,Uncertain,01/21/2025
+UP17076,ME/C Case 17-10802,09/22/2017,25.0,35.0,Glen Burnie,Anne Arundel,Maryland,Male,Uncertain,06/30/2025
+UP54690,ME/C Case 17-9095,08/13/2017,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP54691,ME/C Case 17-8202,07/21/2017,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP16727,ME/C Case 16-10323,09/19/2016,60.0,80.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,01/16/2025
+UP16330,ME/C Case 16-10142,09/14/2016,18.0,80.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP15408,ME/C Case 16-04991,05/06/2016,17.0,19.0,Thurmont,Frederick,Maryland,Male,Black / African American,09/04/2024
+UP15005,ME/C Case 15-10973,11/16/2015,18.0,30.0,Snow Hill,Worcester,Maryland,Female,Black / African American,04/10/2023
+UP14616,ME/C Case 15-10678,11/08/2015,35.0,50.0,Riverdale Park,Prince George's,Maryland,Male,Uncertain,09/04/2024
+UP14602,ME/C Case 15-09651,10/12/2015,50.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP54708,ME/C Case 15-7845,08/22/2015,,,Baltimore,Baltimore,Maryland,Male,Black / African American,04/26/2024
+UP14340,ME/C Case 15-07633,08/16/2015,50.0,70.0,Essex,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP14244,ME/C Case 15-07275,08/06/2015,50.0,70.0,Laurel,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP54709,ME/C Case 15-5806,06/23/2015,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP13745,ME/C Case 14-09700 *,11/15/2014,18.0,90.0,Ocean City,Worcester,Maryland,Female,Uncertain,04/10/2023
+UP13463,ME/C Case 14-08871,10/19/2014,60.0,80.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP12904,ME/C Case 14-06833,08/10/2014,60.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP12903,ME/C Case 14-04847,06/03/2014,35.0,55.0,Baltimore,Baltimore,Maryland,Male,Other,04/19/2024
+UP12738,ME/C Case 14-03999,05/04/2014,30.0,60.0,Hagerstown,Washington,Maryland,Male,Uncertain,09/04/2024
+UP12844,ME/C Case 14-03807,04/27/2014,15.0,30.0,Largo,Prince George's,Maryland,Female,Black / African American,08/06/2025
+UP12046,ME/C Case 13-10665,12/27/2013,40.0,60.0,Temple Hills,Prince George's,Maryland,Male,Black / African American,01/23/2025
+UP11578,ME/C Case 13-05741,07/10/2013,18.0,99.0,Berlin,Worcester,Maryland,Male,Uncertain,09/04/2024
+UP11020,ME/C Case 13-00495,01/15/2013,35.0,60.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP13570,ME/C Case 13-08524,07/31/2012,,,Hyattsville,Prince George's,Maryland,Male,Uncertain,09/04/2024
+UP76492,ME/C Case 12-5545,07/24/2012,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP12841,ME/C Case 12-04276,06/05/2012,20.0,30.0,Riverdale,Prince George's,Maryland,Female,Uncertain,01/23/2025
+UP10112,ME/C Case 11-05905,08/06/2011,50.0,65.0,Capitol Heights,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP10110,ME/C Case 11-04440,06/13/2011,30.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP13212,ME/C Case 11-00789,03/31/2011,40.0,60.0,Langley Park,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",08/29/2025
+UP8596,ME/C Case 11-00817,01/29/2011,,,Annapolis,Anne Arundel,Maryland,Female,Black / African American,09/04/2024
+UP82291,ME/C Case 10-09288,12/03/2010,60.0,90.0,Forestville,Prince George's,Maryland,Male,Black / African American,04/10/2023
+UP10198,ME/C Case 10-02965,04/16/2010,50.0,100.0,Oxon Hill,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP9733,ME/C Case 09-07663,10/02/2009,20.0,29.0,Baltimore,Baltimore,Maryland,Female,Hispanic / Latino,09/04/2024
+UP76493,ME/C Case 09-04818,06/17/2009,,,Baltimore,Baltimore,Maryland,Unsure,Uncertain,04/10/2023
+UP10472,ME/C Case 09-04790,06/16/2009,40.0,50.0,Hyattsville,Prince George's,Maryland,Male,Other,09/04/2024
+UP10223,ME/C Case 09-03727,05/09/2009,25.0,40.0,Riverdale,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",11/19/2024
+UP7314,ME/C Case 09-02301,03/22/2009,0.0,0.0,College Park,Prince George's,Maryland,Female,Uncertain,09/04/2024
+UP9850,ME/C Case 09-01424,02/14/2009,35.0,55.0,Newburg,Charles,Maryland,Male,Uncertain,09/04/2024
+UP10211,ME/C Case 09-00447,01/15/2009,16.0,40.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP10241,ME/C Case 08-08949,11/28/2008,,,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP5290,ME/C Case 08-08177,10/31/2008,20.0,30.0,Temple Hills,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP9882,ME/C Case 08-07743,10/09/2008,20.0,35.0,Berlin,Worcester,Maryland,Unsure,White / Caucasian,09/04/2024
+UP5289,ME/C Case 08-05516,07/18/2008,15.0,25.0,Hyattsville,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP2905,ME/C Case 08-04498,06/11/2008,44.0,100.0,Baltimore,Baltimore,Maryland,Male,"Black / African American, Asian",09/04/2024
+UP2288,ME/C Case 08-00700,01/25/2008,21.0,24.0,Landover,Prince George's,Maryland,Male,Black / African American,01/23/2025
+UP2287,ME/C Case 08-00600,01/21/2008,25.0,39.0,Riverdale,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP897,ME/C Case 07-09313,12/01/2007,50.0,100.0,Urbana,Frederick,Maryland,Male,Black / African American,03/10/2025
+UP1855,ME/C Case 07-08844,11/14/2007,13.0,17.0,Upper Marlboro,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP16558,ME/C Case 07-08572,10/23/2007,,,Elkton,Cecil,Maryland,Female,Uncertain,04/10/2023
+UP1352,ME/C Case 07-07877,10/09/2007,25.0,27.0,Oxon Hill,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP882,ME/C Case 07-01717,03/04/2007,18.0,99.0,Adlephi,Prince George's,Maryland,Male,Uncertain,09/04/2024
+UP2855,ME/C Case 07-00162,01/06/2007,50.0,90.0,Upper Marlboro,Prince George's,Maryland,Male,White / Caucasian,01/23/2025
+UP878,ME/C Case 07-00329,12/24/2006,18.0,25.0,College Park,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP1354,ME/C Case 06-07692,10/13/2006,30.0,39.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP883,ME/C Case 06-01551,03/02/2006,35.0,45.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP14254,ME/C Case 06-0340,02/06/2006,30.0,40.0,Langley Park,Prince George's,Maryland,Male,Hispanic / Latino,08/29/2025
+UP976,ME/C Case 05-06402,09/19/2005,50.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP975,ME/C Case 05-05357,08/08/2005,40.0,99.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,11/07/2024
+UP2654,ME/C Case 05-05245,08/03/2005,50.0,99.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP1856,ME/C Case 05-05076,07/27/2005,19.0,23.0,Brooklyn,Anne Arundel,Maryland,Female,White / Caucasian,09/04/2024
+UP901,ME/C Case 05-03114,05/05/2005,29.0,39.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP899,ME/C Case 05-00400,01/17/2005,50.0,70.0,Baltimore,Baltimore,Maryland,Female,Black / African American,11/07/2024
+UP902,ME/C Case 05-00099,01/04/2005,15.0,18.0,Fort Washington,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP2857,ME/C Case 04-08429,12/29/2004,25.0,35.0,Mardela Springs,Wicomico,Maryland,Male,Black / African American,09/04/2024
+UP930,ME/C Case 04-06973,10/28/2004,40.0,55.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2875,ME/C Case 04-05549,08/27/2004,30.0,65.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,12/03/2024
+UP931,ME/C Case 04-03867,06/08/2004,25.0,35.0,Bel Air,Harford,Maryland,Male,"White / Caucasian, Hispanic / Latino",12/09/2024
+UP2658,ME/C Case 04-02514,04/13/2004,25.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP932,ME/C Case 04-02190,03/29/2004,16.0,40.0,Gambrills,Anne Arundel,Maryland,Male,"White / Caucasian, Hispanic / Latino",12/11/2024
+UP933,ME/C Case 04-01866,03/15/2004,0.0,1.0,Oxon Hill,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP1888,ME/C Case 03-08449,12/30/2003,20.0,29.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP934,ME/C Case 03-07259,11/14/2003,40.0,55.0,Accokeek,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP936,ME/C Case 03-06426,10/10/2003,10.0,18.0,Baltimore,Baltimore,Maryland,Male,Uncertain,06/25/2025
+UP937,ME/C Case 03-04439,07/16/2003,20.0,60.0,Carole Highlands,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",02/25/2025
+UP939,ME/C Case 03-02956,05/15/2003,16.0,30.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP940,ME/C Case 03-01195,03/04/2003,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP943,ME/C Case 03-00562,02/02/2003,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,08/14/2025
+UP944,ME/C Case 03-00538,02/01/2003,18.0,30.0,Hyattsville,Prince George's,Maryland,Male,"Hispanic / Latino, Uncertain",04/10/2023
+UP969,ME/C Case 02-04947,09/08/2002,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP10293,ME/C Case 02-04620,08/23/2002,15.0,25.0,Cheverly,Prince George's,Maryland,Male,Black / African American,09/25/2025
+UP2878,ME/C Case 02-04493,08/16/2002,20.0,30.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP949,ME/C Case 02-04495,08/16/2002,18.0,99.0,Fairmont Heights,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP948,ME/C Case 02-04379,08/11/2002,18.0,99.0,Poolesville,Montgomery,Maryland,Unsure,Uncertain,09/04/2024
+UP947,ME/C Case 02-00602,02/05/2002,18.0,99.0,Cheverly,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP946,ME/C Case 02-00320,01/20/2002,25.0,35.0,Baltimore,Baltimore,Maryland,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP2901,ME/C Case 02-00304,01/18/2002,40.0,45.0,Rockville,Montgomery,Maryland,Male,White / Caucasian,09/04/2024
+UP945,ME/C Case 02-00134,01/08/2002,40.0,55.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP972,ME/C Case 01-06652,11/22/2001,40.0,50.0,Capitol Heights,Prince George's,Maryland,Male,White / Caucasian,01/23/2025
+UP2920,ME/C Case 01-05568,09/30/2001,25.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP10511,ME/C Case 01-03673,06/30/2001,20.0,90.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP970,ME/C Case 01-00451,01/26/2001,30.0,40.0,Takoma Park,Prince George's,Maryland,Male,"White / Caucasian, Hispanic / Latino",03/27/2025
+UP1414,ME/C Case 00-07538,12/30/2000,40.0,59.0,Bowie,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP978,ME/C Case 00-03611,06/30/2000,20.0,35.0,Joppa,Harford,Maryland,Male,Uncertain,09/04/2024
+UP977,ME/C Case 00-03447,06/21/2000,60.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1412,ME/C Case 00-03056,06/01/2000,50.0,69.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2657,ME/C Case 00-01696,03/25/2000,13.0,35.0,Clinton,Prince George's,Maryland,Female,Black / African American,09/03/2025
+UP2743,ME/C Case 99-07500,12/12/1999,45.0,60.0,Ocean City,Worcester,Maryland,Male,White / Caucasian,11/11/2024
+UP2744,ME/C Case 99-05393,09/09/1999,25.0,35.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP2765,ME/C Case 99-04950,08/21/1999,50.0,90.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2742,ME/C Case 99-04545,08/03/1999,60.0,80.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,07/17/2025
+UP2774,ME/C Case 99-03840,07/04/1999,25.0,45.0,Fairmont Heights,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP2773,ME/C Case 99-02855,05/18/1999,55.0,65.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2775,ME/C Case 99-01987,04/05/1999,60.0,90.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1415,ME/C Case 99-01175,03/01/1999,50.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,07/17/2025
+UP2741,ME/C Case 99-00121,01/08/1999,30.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,12/03/2024
+UP2709,ME/C Case 98-07464,12/18/1998,30.0,50.0,Baltimore,Baltimore,Maryland,Female,Black / African American,12/03/2024
+UP2717,ME/C Case 98-05506,09/19/1998,20.0,40.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2708,ME/C Case 98-05142,09/01/1998,50.0,99.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2715,ME/C Case 98-03048,05/29/1998,20.0,29.0,Hagerstown,Washington,Maryland,Male,Uncertain,09/04/2024
+UP2707,ME/C Case 98-03035,05/28/1998,40.0,55.0,Darlington,Harford,Maryland,Female,White / Caucasian,09/04/2024
+UP2714,ME/C Case 98-02972,05/25/1998,30.0,35.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,05/15/2025
+UP2713,ME/C Case 98-02080,04/12/1998,35.0,45.0,Baltimore,Baltimore,Maryland,Female,Black / African American,05/15/2025
+UP2706,ME/C Case 98-01888,04/04/1998,30.0,55.0,Baltimore,Baltimore,Maryland,Female,Black / African American,11/06/2024
+UP2712,ME/C Case 98-01294,03/09/1998,50.0,65.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2705,ME/C Case 98-00944,02/24/1998,50.0,90.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2739,ME/C Case 98-00409,01/18/1998,20.0,50.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/15/2025
+UP2711,ME/C Case 98-00223,01/14/1998,30.0,49.0,Baltimore,Baltimore,Maryland,Female,Black / African American,05/15/2025
+UP2710,ME/C Case 98-00070,01/04/1998,25.0,55.0,Upper Marlboro,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP1356,ME/C Case 97-04786,08/25/1997,25.0,35.0,North East,Cecil,Maryland,Male,Black / African American,10/15/2025
+UP4971,ME/C Case 97-03705,07/04/1997,30.0,50.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,05/21/2025
+UP4974,ME/C Case 97-01266,03/11/1997,17.0,19.0,Potomac,Montgomery,Maryland,Male,White / Caucasian,07/12/2024
+UP10605,ME/C Case 97-00757,02/12/1997,0.0,1.0,District Heights,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP1383,ME/C Case 97-00239,01/13/1997,19.0,99.0,Suddlersville,Queen Anne's,Maryland,Male,Uncertain,09/04/2024
+UP1384,ME/C Case 96-06397,11/09/1996,50.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,11/07/2024
+UP1386,ME/C Case 96-05725,10/06/1996,18.0,21.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1387,ME/C Case 96-05509,09/26/1996,30.0,70.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP1388,ME/C Case 96-04420,08/06/1996,18.0,60.0,Baltimore,Baltimore,Maryland,Female,Black / African American,05/30/2025
+UP1389,ME/C Case 96-04217,07/28/1996,19.0,29.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/19/2025
+UP4834,ME/C Case 96-00285,01/19/1996,60.0,69.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,05/15/2025
+UP1391,ME/C Case 95-06623,10/30/1995,30.0,60.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP1392,ME/C Case 95-05370,09/05/1995,15.0,25.0,Baltimore,Baltimore,Maryland,Female,Uncertain,09/04/2024
+UP1417,ME/C Case 95-02466,04/27/1995,19.0,29.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1393,ME/C Case 95-02375,04/23/1995,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1418,ME/C Case 95-00879,02/18/1995,30.0,49.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1419,ME/C Case 95-00575,02/02/1995,18.0,29.0,Hyattsville,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP1420,ME/C Case 95-00437,01/23/1995,18.0,25.0,Fort Washington,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP1421,ME/C Case 95-00059,01/04/1995,15.0,40.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP1423,ME/C Case 94-07517,12/25/1994,35.0,45.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP149228,ME/C Case 25-09878,11/14/1994,18.0,22.0,Neavitt,Talbot,Maryland,Female,Black / African American,08/19/2025
+UP1424,ME/C Case 94-06163,10/26/1994,20.0,30.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP4972,ME/C Case 94-04968,08/26/1994,40.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1425,ME/C Case 94-04597,08/09/1994,20.0,40.0,Bladensburg,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP1422,ME/C Case 94-03990,07/13/1994,25.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1427,ME/C Case 94-02374,04/29/1994,14.0,25.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1428,ME/C Case 94-02110,04/18/1994,40.0,49.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1648,ME/C Case 94-00699,02/10/1994,40.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP10454,ME/C Case 93-07070,11/16/1993,20.0,40.0,Lothian,Anne Arundel,Maryland,Male,Asian,07/17/2025
+UP1649,ME/C Case 93-02345,05/03/1993,18.0,59.0,Fort Washington,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP1651,ME/C Case 93-01844,04/08/1993,20.0,30.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/08/2025
+UP1654,ME/C Case 93-00968,02/25/1993,18.0,99.0,Edgewater,Anne Arundel,Maryland,Unsure,Uncertain,09/04/2024
+UP1656,ME/C Case 93-00874,02/20/1993,35.0,55.0,Oxon Hill,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP1658,ME/C Case 92-04861,08/30/1992,40.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1660,ME/C Case 92-02771,05/16/1992,20.0,30.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1661,ME/C Case 92-01439,03/13/1992,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1662,ME/C Case 92-00934,02/18/1992,20.0,35.0,Street,Harford,Maryland,Male,Black / African American,09/04/2024
+UP1663,ME/C Case 92-00278,01/18/1992,40.0,50.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1664,ME/C Case 91-05679,09/28/1991,18.0,99.0,Essex,Baltimore,Maryland,Unsure,Uncertain,09/04/2024
+UP13564,ME/C Case 91-04640,08/13/1991,55.0,90.0,Takoma Park,Montgomery,Maryland,Male,White / Caucasian,09/04/2024
+UP1665,ME/C Case 91-04413,07/31/1991,15.0,29.0,Frederick,Frederick,Maryland,Female,White / Caucasian,07/30/2025
+UP11639,ME/C Case 91-03135,06/10/1991,20.0,50.0,Upper Marlboro,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP16498,ME/C Case 91-02992,06/02/1991,45.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1666,ME/C Case 91-02371,05/04/1991,50.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,07/17/2025
+UP8520,ME/C Case 91-01962,04/10/1991,18.0,80.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1667,ME/C Case 91-01713,03/28/1991,40.0,49.0,Upper Marlboro,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP1668,ME/C Case 91-01711,03/28/1991,50.0,79.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1830,ME/C Case 91-00569,02/06/1991,37.0,45.0,Annapolis,Anne Arundel,Maryland,Male,Uncertain,09/04/2024
+UP979,ME/C Case 91-00361,01/23/1991,18.0,30.0,Glenn Dale,Prince George's,Maryland,Female,Uncertain,09/04/2024
+UP1831,ME/C Case 90-06277,11/02/1990,18.0,29.0,Captiol Heights,Prince George's,Maryland,Female,Black / African American,09/04/2024
+UP1832,ME/C Case 90-05676,10/08/1990,50.0,59.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1833,ME/C Case 90-05294,09/22/1990,27.0,33.0,Stevensville,Queen Anne's,Maryland,Male,White / Caucasian,07/17/2025
+UP1834,ME/C Case 90-02930,06/18/1990,18.0,30.0,Temple Hills,Prince George's,Maryland,Female,Uncertain,04/10/2023
+UP13604,ME/C Case 90-01606,04/16/1990,0.0,0.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP1835,ME/C Case 90-01509,04/09/1990,40.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1836,ME/C Case 90-01047,03/07/1990,30.0,99.0,Dundalk,Baltimore,Maryland,Unsure,Uncertain,09/04/2024
+UP1837,ME/C Case 89-02995,11/10/1989,25.0,55.0,Frederick,Frederick,Maryland,Male,Uncertain,02/22/2025
+UP1846,ME/C Case 118179,09/22/1989,18.0,99.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1847,ME/C Case 118054,09/02/1989,40.0,59.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,07/17/2025
+UP1848,ME/C Case 118042,08/31/1989,25.0,39.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1849,ME/C Case 89-02264,08/23/1989,50.0,60.0,Rockville,Montgomery,Maryland,Male,White / Caucasian,07/17/2025
+UP1850,ME/C Case 117762,07/13/1989,30.0,40.0,Baltimore,Baltimore,Maryland,Male,Other,09/04/2024
+UP2285,ME/C Case 89-80,06/11/1989,20.0,40.0,Baltimore,Baltimore,Maryland,Unsure,Uncertain,09/04/2024
+UP16043,ME/C Case 89-763,03/14/1989,18.0,99.0,Salisbury,Wicomico,Maryland,Unsure,Uncertain,09/04/2024
+UP1852,ME/C Case 117044,03/09/1989,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP14583,ME/C Case 88-1893,07/24/1988,25.0,40.0,Woodlawn,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP15436,ME/C Case 157419,03/27/1988,0.0,1.0,White Marsh,Baltimore,Maryland,Female,White / Caucasian,09/04/2024
+UP1853,ME/C Case 114974,03/24/1988,40.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP1854,ME/C Case 114555,01/17/1988,60.0,80.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,07/17/2025
+UP1857,ME/C Case 88-00040,01/03/1988,20.0,40.0,Seat Pleasant,Prince George's,Maryland,Female,Black / African American,10/28/2024
+UP1858,ME/C Case 155554,10/28/1987,18.0,23.0,Hillcrest Heights,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP15434,ME/C Case 155311,10/09/1987,0.0,1.0,Arbutus,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP1860,ME/C Case 155231,10/02/1987,25.0,40.0,Millersville,Anne Arundel,Maryland,Unsure,Uncertain,09/04/2024
+UP5439,ME/C Case 113181,06/15/1987,24.0,30.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,09/04/2024
+UP1861,ME/C Case 153785,05/28/1987,20.0,30.0,Berlin,Worcester,Maryland,Male,White / Caucasian,09/04/2024
+UP1862,ME/C Case 113060,05/25/1987,20.0,25.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/15/2025
+UP16044,ME/C Case 153420,04/27/1987,0.0,0.0,Gaithersburg,Montgomery,Maryland,Female,White / Caucasian,09/04/2024
+UP1863,ME/C Case 87-90,01/09/1987,20.0,29.0,Abingdon,Harford,Maryland,Male,Asian,09/04/2024
+UP1864,ME/C Case 111049,05/19/1986,30.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP1866,ME/C Case 148650,03/19/1986,50.0,59.0,North East,Cecil,Maryland,Female,White / Caucasian,09/04/2024
+UP13222,ME/C Case 152635-A,02/18/1986,18.0,30.0,Oxon Hill,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP5881,ME/C Case 146470-A,09/05/1985,25.0,35.0,Pocomoke,Worcester,Maryland,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP1886,ME/C Case 142941-A,04/30/1985,18.0,59.0,Bethesda,Montgomery,Maryland,Male,White / Caucasian,09/04/2024
+UP13215,ME/C Case 108937,04/30/1985,0.0,0.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP13219,ME/C Case 141372,12/20/1984,0.0,0.0,Glen Burnie,Anne Arundel,Maryland,Female,White / Caucasian,09/04/2024
+UP1889,ME/C Case 139894-A,08/09/1984,30.0,50.0,Brandywine,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP1890,ME/C Case 138483,04/06/1984,30.0,39.0,Fort Washington,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP1893,ME/C Case 106868,02/25/1984,30.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/15/2025
+UP1894,ME/C Case 106794,02/09/1984,18.0,25.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2079,ME/C Case 136916,11/13/1983,40.0,59.0,Upper Marlboro,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP2080,ME/C Case 136610,10/15/1983,20.0,29.0,Ashton,Montgomery,Maryland,Male,White / Caucasian,09/04/2024
+UP2081,ME/C Case 135493,07/09/1983,50.0,70.0,Newburg,Charles,Maryland,Male,Black / African American,09/18/2025
+UP2082,ME/C Case 104177,09/09/1982,59.0,69.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,01/10/2025
+UP7477,ME/C Case 82-01607,08/24/1982,17.0,45.0,Frederick,Frederick,Maryland,Female,White / Caucasian,06/11/2025
+UP2083,ME/C Case 89-00048,08/11/1982,15.0,25.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP2084,ME/C Case 103036,01/30/1982,18.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2249,ME/C Case 129126,12/26/1981,40.0,60.0,Upper Marlboro,Prince George's,Maryland,Male,Black / African American,08/14/2025
+UP2250,ME/C Case 128938,12/13/1981,18.0,30.0,Hagerstown,Washington,Maryland,Male,White / Caucasian,03/01/2025
+UP2251,ME/C Case 81-1453,08/03/1981,15.0,25.0,Greenbelt,Prince George's,Maryland,Male,Black / African American,08/06/2025
+UP2252,ME/C Case 101610,05/01/1981,40.0,49.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP2253,ME/C Case 123368,09/11/1980,15.0,25.0,Seat Pleasant,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP2254,ME/C Case 100284,08/29/1980,15.0,35.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/21/2025
+UP2255,ME/C Case 123199,08/28/1980,25.0,45.0,Seat Pleasant,Prince George's,Maryland,Female,Uncertain,09/04/2024
+UP2257,ME/C Case 120924,02/19/1980,25.0,55.0,Edgemere,Baltimore,Maryland,Male,Black / African American,05/15/2025
+UP2258,ME/C Case 89-00062,12/06/1979,13.0,17.0,Baltimore,Baltimore,Maryland,Female,Uncertain,09/04/2024
+UP2260,ME/C Case 119134,09/30/1979,18.0,29.0,Upper Marlboro,Prince George's,Maryland,Female,White / Caucasian,09/04/2024
+UP12766,ME/C Case 97788-A,06/18/1979,40.0,65.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP2278,ME/C Case 97458,04/17/1979,50.0,70.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,05/21/2025
+UP2279,ME/C Case 116246,01/30/1979,18.0,50.0,Earleville,Cecil,Maryland,Male,White / Caucasian,06/17/2024
+UP2281,ME/C Case 96684,12/03/1978,35.0,49.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/15/2025
+UP2283,ME/C Case 114407,09/05/1978,55.0,80.0,Middletown,Frederick,Maryland,Male,White / Caucasian,09/04/2024
+UP2325,ME/C Case 96118,08/25/1978,25.0,35.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2324,ME/C Case 113085,05/19/1978,30.0,45.0,College Park,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP2326,ME/C Case 113084,05/19/1978,40.0,60.0,Cheverly,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP16042,ME/C Case 122374,03/20/1978,0.0,0.0,Essex,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP2327,ME/C Case 95114,03/07/1978,50.0,60.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2328,ME/C Case 95067,03/01/1978,30.0,40.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2329,ME/C Case 95059,02/27/1978,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2330,ME/C Case 110698,11/18/1977,15.0,25.0,Huntingtown,Calvert,Maryland,Male,Black / African American,04/10/2023
+UP2332,ME/C Case 93181,04/15/1977,40.0,49.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP2333,ME/C Case 106163,11/17/1976,50.0,80.0,Suitland,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP8673,ME/C Case 89933A,12/05/1975,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,08/21/2025
+UP11984,ME/C Case 89483,09/20/1975,20.0,45.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP11202,ME/C Case 100938,08/20/1975,40.0,60.0,Hanover,Anne Arundel,Maryland,Male,Black / African American,09/04/2024
+UP5440,ME/C Case 99111,03/26/1975,19.0,29.0,Linthicum,Anne Arundel,Maryland,Male,White / Caucasian,09/04/2024
+UP11648,ME/C Case 98824,02/28/1975,18.0,30.0,Beltsville,Prince George's,Maryland,Male,Uncertain,09/04/2024
+UP11645,ME/C Case 98004,12/23/1974,50.0,70.0,Mount Rainier,Prince George's,Maryland,Male,White / Caucasian,01/28/2025
+UP11716,ME/C Case 96938,09/22/1974,20.0,40.0,Greenbelt,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP16062,ME/C Case 86879,08/22/1974,35.0,50.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,09/04/2024
+UP16061,ME/C Case 86814,08/12/1974,40.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,01/23/2025
+UP11644,ME/C Case 96382A,08/01/1974,45.0,60.0,Greenbelt,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP13097,ME/C Case 95195,04/22/1974,60.0,70.0,Randallstown,Baltimore,Maryland,Male,Black / African American,06/30/2025
+UP13096,ME/C Case 85997,04/16/1974,40.0,50.0,Baltimore,Baltimore,Maryland,Female,Black / African American,01/23/2025
+UP4833,ME/C Case 93611,12/06/1973,15.0,20.0,Upper Marlboro,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP2900,ME/C Case 93069,10/21/1973,20.0,30.0,Frederick,Frederick,Maryland,Male,White / Caucasian,09/04/2024
+UP5435,ME/C Case 92125,08/09/1973,19.0,25.0,Laurel,Anne Arundel,Maryland,Male,White / Caucasian,09/04/2024
+UP13333,ME/C Case 83914,06/22/1973,45.0,65.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,06/30/2025
+UP16060,ME/C Case 83888,06/18/1973,18.0,60.0,Baltimore,Baltimore,Maryland,Female,Uncertain,09/04/2024
+UP13710,ME/C Case 83385,04/04/1973,20.0,40.0,Baltimore,Baltimore,Maryland,Male,Black / African American,06/02/2025
+UP13513,ME/C Case 83300,03/21/1973,40.0,80.0,Baltimore,Baltimore,Maryland,Male,Black / African American,01/23/2025
+UP2334,ME/C Case 72-187A,12/01/1972,20.0,25.0,Laurel,Prince George's,Maryland,Female,White / Caucasian,09/04/2024
+UP8862,ME/C Case 88141,09/07/1972,25.0,40.0,Salisbury,Wicomico,Maryland,Male,White / Caucasian,09/04/2024
+UP2335,ME/C Case 08241972,08/24/1972,20.0,39.0,Crownsville,Anne Arundel,Maryland,Male,Uncertain,09/04/2024
+UP4841,ME/C Case 86827,05/24/1972,30.0,40.0,Cheverly,Prince George's,Maryland,Male,White / Caucasian,11/12/2024
+UP4840,ME/C Case 86558-A,04/30/1972,18.0,80.0,Linthicum,Anne Arundel,Maryland,Male,Black / African American,09/04/2024
+UP4832,ME/C Case 86072,03/20/1972,45.0,55.0,Joppa,Harford,Maryland,Male,Black / African American,12/09/2024
+UP2336,ME/C Case 72-491,03/10/1972,35.0,60.0,Crownsville,Anne Arundel,Maryland,Male,Uncertain,09/04/2024
+UP16057,ME/C Case 80059,01/13/1972,40.0,60.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP4831,ME/C Case 78327,06/03/1971,20.0,29.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP13306,ME/C Case 77986,04/14/1971,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP2337,ME/C Case Unknown at this time,02/22/1970,40.0,50.0,Cabin John,Montgomery,Maryland,Male,Uncertain,09/04/2024
+UP4838,ME/C Case 76764,01/26/1970,45.0,55.0,Silver Spring,Montgomery,Maryland,Male,Black / African American,09/04/2024
+UP4837,ME/C Case 75968A,11/22/1969,20.0,29.0,Easton,Talbot,Maryland,Male,Black / African American,09/04/2024
+UP2338,ME/C Case 68-1809,11/28/1968,30.0,40.0,Mitchellville,Prince George's,Maryland,Male,White / Caucasian,09/04/2024
+UP4836,ME/C Case 71634,11/04/1968,35.0,45.0,Piscataway,Prince George's,Maryland,Male,Black / African American,04/10/2023
+UP13055,ME/C Case 69659,09/04/1968,0.0,0.0,Baltimore,Baltimore,Maryland,Male,Black / African American,09/04/2024
+UP2339,ME/C Case 69187,07/05/1968,35.0,50.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,12/06/2024
+UP13040,ME/C Case 68910,05/26/1968,0.0,0.0,Baltimore,Baltimore,Maryland,Female,Uncertain,09/04/2024
+UP2340,ME/C Case 68490,04/01/1968,30.0,35.0,Baltimore,Baltimore,Maryland,Male,Black / African American,11/11/2024
+UP2341,ME/C Case 68-482A,03/28/1968,40.0,60.0,St. Charles City,Charles,Maryland,Male,White / Caucasian,09/04/2024
+UP2417,ME/C Case 68358,03/17/1968,60.0,75.0,Baltimore,Baltimore,Maryland,Female,White / Caucasian,09/04/2024
+UP2416,ME/C Case 68-405A,03/16/1968,30.0,50.0,Accokeek,Charles,Maryland,Male,White / Caucasian,09/04/2024
+UP2418,ME/C Case 67123,10/20/1967,50.0,70.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP13015,ME/C Case 66876,09/15/1967,0.0,0.0,Baltimore,Baltimore,Maryland,Female,Black / African American,09/04/2024
+UP2419,ME/C Case 66695,08/22/1967,60.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,05/30/2025
+UP2420,ME/C Case 66687,08/21/1967,60.0,70.0,Baltimore,Baltimore,Maryland,Male,Black / African American,01/23/2025
+UP4835,ME/C Case 66085,06/15/1967,18.0,99.0,Crownsville,Anne Arundel,Maryland,Male,Uncertain,05/19/2025
+UP2421,ME/C Case 65590A,03/15/1967,21.0,45.0,Baltimore,Baltimore,Maryland,Female,Uncertain,09/04/2024
+UP13014,ME/C Case 63935,08/21/1966,0.0,0.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP13013,ME/C Case 63858,08/10/1966,0.0,0.0,Baltimore,Baltimore,Maryland,Male,Uncertain,09/04/2024
+UP13011,ME/C Case 63230,05/24/1966,0.0,0.0,Baltimore,Baltimore,Maryland,Male,White / Caucasian,09/04/2024
+UP2804,ME/C Case 59867,11/15/1965,30.0,60.0,Tuxedo (now Hyattsville),Prince George's,Maryland,Female,Uncertain,04/10/2023
+UP14979,ME/C Case 56889,01/27/1965,40.0,60.0,Wayside,Charles,Maryland,Female,White / Caucasian,09/04/2024
+UP2919,ME/C Case 54509,05/19/1964,40.0,60.0,West Hyattsville,Prince George's,Maryland,Male,Black / African American,09/04/2024
+UP2802,ME/C Case 40717,11/15/1959,50.0,70.0,Havre de Grace,Harford,Maryland,Male,White / Caucasian,09/04/2024

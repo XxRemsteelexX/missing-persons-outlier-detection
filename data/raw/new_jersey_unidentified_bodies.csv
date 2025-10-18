@@ -1,0 +1,454 @@
+Case,ME/C Case,DBF,Age From,Age To,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+UP142641,ME/C Case 12-25-0332,03/03/2025,,,New Brunswick,Middlesex,New Jersey,Male,Hispanic / Latino,06/11/2025
+UP139492,ME/C Case 20250086,01/29/2025,60.0,99.0,Hillside,Union,New Jersey,Male,Black / African American,03/10/2025
+UP144221,ME/C Case 07-24-2491,12/29/2024,,,Newark,Essex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",06/02/2025
+UP140821,ME/C Case 10240224,10/27/2024,60.0,99.0,Holland Township,Hunterdon,New Jersey,Male,White / Caucasian,03/31/2025
+UP142528,ME/C Case 12-25-0076,10/24/2024,40.0,50.0,Edison,Middlesex,New Jersey,Male,Hispanic / Latino,05/08/2025
+UP134400,ME/C Case 16-24-0834,10/22/2024,,,Passaic,Passaic,New Jersey,Male,Hispanic / Latino,05/23/2025
+UP134390,ME/C Case 16-24-0642,08/10/2024,,,Passaic,Passaic,New Jersey,Male,Uncertain,12/12/2024
+UP134392,ME/C Case 07-24-1096,06/10/2024,,,Newark,Essex,New Jersey,Unsure,Uncertain,04/18/2025
+UP125165,ME/C Case 12-24-0425,03/15/2024,,,Jersey City,Hudson,New Jersey,Female,Black / African American,04/08/2025
+UP117337,ME/C Case 15240276,02/23/2024,24.0,99.0,Manchester Township,Ocean,New Jersey,Male,Uncertain,03/06/2025
+UP117989,ME/C Case 03230904,11/22/2023,30.0,99.0,Westampton,Burlington,New Jersey,Male,White / Caucasian,03/20/2024
+UP110249,ME/C Case 16-23-0827,10/05/2023,19.0,89.0,Paterson,Passaic,New Jersey,Female,Black / African American,10/29/2024
+UP109670,ME/C Case 11-23-0661,09/28/2023,30.0,45.0,Trenton,Mercer,New Jersey,Male,Hispanic / Latino,12/02/2024
+UP109673,ME/C Case 13231113,09/23/2023,50.0,60.0,Freehold,Monmouth,New Jersey,Male,Other,11/20/2024
+UP117958,ME/C Case 04231088,09/09/2023,24.0,99.0,Camden,Camden,New Jersey,Male,White / Caucasian,03/12/2024
+UP110246,ME/C Case 07-23-1739,09/07/2023,19.0,99.0,Newark,Essex,New Jersey,Female,Uncertain,07/09/2024
+UP117880,ME/C Case 15231139,08/26/2023,50.0,60.0,Brick Township,Ocean,New Jersey,Female,White / Caucasian,03/12/2024
+UP110245,ME/C Case 07-23-1657,08/24/2023,,,Newark,Essex,New Jersey,Male,"Black / African American, Uncertain",07/09/2024
+UP117970,ME/C Case 20230589,07/12/2023,25.0,35.0,Plainfield,Union,New Jersey,Male,Hispanic / Latino,05/08/2024
+UP110225,ME/C Case 16-23-0501,06/16/2023,19.0,99.0,Paterson,Passaic,New Jersey,Male,Black / African American,06/24/2025
+UP117978,ME/C Case 04230708,06/16/2023,30.0,99.0,Collingswood,Camden,New Jersey,Female,White / Caucasian,03/12/2024
+UP110951,ME/C Case 04230611,05/19/2023,21.0,99.0,Camden,Camden,New Jersey,Unsure,Uncertain,07/09/2024
+UP113976,ME/C Case 20230349,04/27/2023,30.0,60.0,Elizabeth,Union,New Jersey,Male,Hispanic / Latino,10/11/2024
+UP110224,ME/C Case 07-23-0783,04/23/2023,19.0,65.0,Newark,Essex,New Jersey,Male,Hispanic / Latino,01/12/2024
+UP117987,ME/C Case 04230471,04/20/2023,30.0,99.0,Camden,Camden,New Jersey,Female,Black / African American,03/14/2024
+UP109097,ME/C Case 02230276,02/18/2023,21.0,99.0,North Arlington,Bergen,New Jersey,Female,Uncertain,08/05/2024
+UP109094,ME/C Case 02230201,02/05/2023,30.0,99.0,Alpine,Bergen,New Jersey,Male,Uncertain,08/05/2024
+UP110268,ME/C Case 17230009,01/22/2023,45.0,65.0,Pittsgrove Township,Salem,New Jersey,Male,Hispanic / Latino,07/09/2024
+UP102185,ME/C Case 01-23-0020,01/07/2023,19.0,39.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,04/22/2025
+UP115604,ME/C Case 16-24-0085,01/03/2023,,,,Passaic,New Jersey,Male,Uncertain,07/09/2024
+UP101204,ME/C Case No ME #,12/31/2022,,,Newark,Essex,New Jersey,Female,Asian,04/10/2025
+UP97747,ME/C Case 07-22-2189,10/15/2022,19.0,59.0,,Essex,New Jersey,Male,Black / African American,06/09/2023
+UP97851,ME/C Case 10220175,08/07/2022,45.0,55.0,West Amwell Township,Hunterdon,New Jersey,Male,Hispanic / Latino,01/17/2023
+UP94274,ME/C Case 07-22-1487,07/10/2022,30.0,70.0,Newark,Essex,New Jersey,Female,White / Caucasian,01/12/2024
+UP95118,ME/C Case 02220995,06/15/2022,40.0,99.0,Wallington,Bergen,New Jersey,Male,Uncertain,09/08/2022
+UP96309,ME/C Case 03220352,04/23/2022,18.0,99.0,Riverton,Burlington,New Jersey,Male,Uncertain,08/29/2024
+UP90791,ME/C Case 03220286,03/30/2022,17.0,99.0,Bordentown,Burlington,New Jersey,Unsure,Uncertain,04/27/2022
+UP92144,ME/C Case 09220337,03/10/2022,20.0,59.0,Kearny,Hudson,New Jersey,Male,White / Caucasian,05/31/2023
+UP92133,ME/C Case 16220258,02/26/2022,19.0,99.0,Paterson,Passaic,New Jersey,Unsure,Uncertain,05/31/2023
+UP97402,ME/C Case 18220115,02/23/2022,,,Bound Brook,Somerset,New Jersey,Unsure,Uncertain,07/08/2025
+UP112307,ME/C Case 16-22-0084,01/16/2022,29.0,99.0,Paterson,Passaic,New Jersey,Male,White / Caucasian,05/17/2024
+UP92138,ME/C Case 07212736,12/27/2021,19.0,99.0,Newark,Essex,New Jersey,Unsure,Uncertain,05/31/2023
+UP89120,ME/C Case 21210267,10/08/2021,21.0,99.0,Blairstown,Warren,New Jersey,Female,Other,10/01/2024
+UP86303,ME/C Case 03210663,08/15/2021,40.0,99.0,Palmyra,Burlington,New Jersey,Male,White / Caucasian,10/01/2024
+UP92137,ME/C Case 09210855,07/01/2021,30.0,55.0,North Bergen,Hudson,New Jersey,Male,Hispanic / Latino,11/26/2023
+UP97403,ME/C Case 09210855,06/26/2021,19.0,99.0,Jersey City,Hudson,New Jersey,Male,Hispanic / Latino,06/12/2023
+UP92136,ME/C Case 07211347,06/23/2021,40.0,90.0,Newark,Essex,New Jersey,Male,Black / African American,01/10/2025
+UP93556,ME/C Case 11210302,04/05/2021,18.0,99.0,Trenton,Mercer,New Jersey,Male,Black / African American,11/20/2024
+UP80390,ME/C Case 21210087,03/22/2021,18.0,99.0,Harmony,Warren,New Jersey,Male,Uncertain,10/03/2024
+UP93554,ME/C Case 13201595,12/27/2020,35.0,45.0,Freehold,Monmouth,New Jersey,Male,Hispanic / Latino,11/20/2024
+UP92139,ME/C Case 07202965,12/09/2020,45.0,85.0,Newark,Essex,New Jersey,Female,Black / African American,05/31/2023
+UP78758,ME/C Case 20201337,10/27/2020,40.0,99.0,Elizabeth,Union,New Jersey,Male,Uncertain,10/01/2024
+UP92143,ME/C Case 07202476,10/07/2020,19.0,99.0,Newark,Essex,New Jersey,Unsure,Uncertain,05/31/2023
+UP74233,ME/C Case 07-20-2155,08/20/2020,45.0,65.0,Newark,Essex,New Jersey,Male,Black / African American,06/20/2023
+UP77333,ME/C Case 04201131,08/13/2020,45.0,55.0,Camden,Camden,New Jersey,Male,"Hispanic / Latino, Uncertain",10/01/2024
+UP72674,ME/C Case 12201008,05/09/2020,30.0,50.0,New Brunswick,,New Jersey,Male,Hispanic / Latino,11/20/2024
+UP73825,ME/C Case 07-20-1338,05/03/2020,35.0,99.0,Newark,Essex,New Jersey,Male,Uncertain,05/31/2023
+UP69068,ME/C Case 20200595,04/17/2020,50.0,60.0,Elizabeth,Union,New Jersey,Male,Uncertain,05/12/2023
+UP75560,ME/C Case 11200154,03/02/2020,55.0,99.0,Trenton,Mercer,New Jersey,Male,Hispanic / Latino,11/20/2024
+UP69810,ME/C Case 12200254,02/19/2020,,,North Brunswick,Middlesex,New Jersey,Female,Uncertain,11/20/2024
+UP80391,ME/C Case 02200279,02/19/2020,18.0,99.0,Teaneck,Bergen,New Jersey,Male,Uncertain,10/01/2024
+UP69808,ME/C Case 12200252,02/19/2020,,,North Brunswick,Middlesex,New Jersey,Female,Uncertain,11/20/2024
+UP71758,ME/C Case 08200102,02/18/2020,18.0,99.0,West Deptford,Gloucester,New Jersey,Male,Uncertain,11/04/2022
+UP71759,ME/C Case 08200102,02/18/2020,21.0,99.0,West Deptford,Gloucester,New Jersey,Male,Uncertain,09/08/2021
+UP65027,ME/C Case 09-19-1256,12/30/2019,19.0,49.0,West New York,Hudson,New Jersey,Male,Hispanic / Latino,05/31/2023
+UP77318,ME/C Case 14191011,11/10/2019,55.0,99.0,Hanover,Morris,New Jersey,Male,White / Caucasian,10/01/2024
+UP64681,ME/C Case 07-19-1998,11/02/2019,30.0,55.0,Newark,Essex,New Jersey,Female,"Black / African American, Hispanic / Latino",06/23/2025
+UP61701,ME/C Case 01-19-0820,10/15/2019,,,Atlantic City,Atlantic,New Jersey,Male,Uncertain,05/31/2023
+UP64638,ME/C Case 11190595,09/04/2019,45.0,55.0,Trenton,Mercer,New Jersey,Male,White / Caucasian,11/20/2024
+UP60269,ME/C Case 04190982,08/08/2019,21.0,99.0,Gloucester City,Camden,New Jersey,Unsure,Asian,07/09/2024
+UP60004,ME/C Case 15190641,05/22/2019,70.0,99.0,Barnegat,Ocean,New Jersey,Male,White / Caucasian,07/09/2024
+UP59948,ME/C Case 05190122,05/17/2019,,,Ocean City,Cape May,New Jersey,Unsure,Uncertain,05/31/2023
+UP65093,ME/C Case 07-19-0508,03/09/2019,48.0,70.0,Newark,Essex,New Jersey,Male,"White / Caucasian, Hispanic / Latino, Asian, American Indian / Alaska Native",01/10/2025
+UP60001,ME/C Case 13190223,02/02/2019,18.0,99.0,Asbury Park,Monmouth,New Jersey,Male,Other,11/20/2024
+UP60002,ME/C Case 13190224,02/02/2019,18.0,99.0,Asbury Park,Monmouth,New Jersey,Female,Other,11/20/2024
+UP52540,ME/C Case 13181000,09/04/2018,40.0,50.0,Howell,Monmouth,New Jersey,Male,Uncertain,11/20/2024
+UP52460,ME/C Case 17180122,08/18/2018,18.0,99.0,Pennsville,Salem,New Jersey,Female,Uncertain,08/27/2024
+UP98232,ME/C Case 20180701,08/08/2018,18.0,99.0,Plainfield,Union,New Jersey,Male,Uncertain,04/03/2025
+UP52461,ME/C Case 17180122,07/01/2018,39.0,49.0,Pennsville,Salem,New Jersey,Female,Uncertain,08/28/2024
+UP65082,ME/C Case 09-18-0305,03/14/2018,18.0,99.0,West New York,Hudson,New Jersey,Unsure,Uncertain,01/10/2025
+UP17575,ME/C Case 07-18-0435,03/03/2018,18.0,40.0,Newark,Essex,New Jersey,Female,Black / African American,03/26/2025
+UP17786,ME/C Case 03180216,02/14/2018,30.0,99.0,,Burlington,New Jersey,Male,Asian,01/29/2025
+UP97864,ME/C Case 09-18-0057,01/09/2018,20.0,50.0,Union City,Hudson,New Jersey,Male,Hispanic / Latino,06/13/2023
+UP16985,ME/C Case 04170922,08/30/2017,18.0,99.0,Gloucester Township,Camden,New Jersey,Male,Uncertain,08/28/2024
+UP16949,ME/C Case 04170922,08/06/2017,18.0,99.0,Gloucester Township,Camden,New Jersey,Male,Uncertain,08/28/2024
+UP17386,ME/C Case 12171008,07/23/2017,60.0,70.0,New Brunswick,Middlesex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/26/2025
+UP50570,ME/C Case 08170242,05/03/2017,18.0,99.0,Paulsboro,Gloucester,New Jersey,Male,White / Caucasian,08/28/2024
+UP93564,ME/C Case 04170474,04/23/2017,18.0,99.0,Camden,Camden,New Jersey,Male,Black / African American,05/26/2023
+UP50574,ME/C Case 08170226,04/20/2017,19.0,99.0,Paulsboro,Gloucester,New Jersey,Male,Uncertain,08/28/2024
+UP50572,ME/C Case 08170177,04/03/2017,18.0,99.0,Greenwich Township,Gloucester,New Jersey,Male,Uncertain,08/28/2024
+UP16587,ME/C Case 13170340,03/27/2017,18.0,99.0,Middletown,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP16881,ME/C Case 15160984,07/31/2016,30.0,50.0,Lakewood,Ocean,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP15725,ME/C Case 07-16-1210,07/08/2016,18.0,59.0,Newark,Essex,New Jersey,Male,Hispanic / Latino,08/28/2024
+UP15843,ME/C Case 20160391,04/21/2016,25.0,45.0,Plainfield,Union,New Jersey,Male,Hispanic / Latino,08/28/2024
+UP14935,ME/C Case 15160389,03/22/2016,18.0,99.0,Brick Township,Ocean,New Jersey,Unsure,Uncertain,08/28/2024
+UP15724,ME/C Case 07-16-0463,03/13/2016,18.0,60.0,Newark,Essex,New Jersey,Male,Hispanic / Latino,08/28/2024
+UP15162,ME/C Case 04151157,11/23/2015,18.0,99.0,Hi Nella,Camden,New Jersey,Male,Uncertain,08/28/2024
+UP14694,ME/C Case 15151371,11/13/2015,18.0,99.0,Point Pleasant Beach,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP14737,ME/C Case 01150690,11/02/2015,45.0,65.0,Atlantic City,Atlantic,New Jersey,Male,Asian,08/28/2024
+UP14208,ME/C Case 01150385,07/06/2015,18.0,99.0,Pleasantville,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP15192,ME/C Case 09150414,04/24/2015,40.0,60.0,Kearny,Hudson,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/18/2022
+UP14539,ME/C Case 12150577,04/22/2015,0.0,99.0,Sayreville,Middlesex,New Jersey,Male,Uncertain,03/26/2025
+UP13728,ME/C Case 15150406,03/19/2015,,,Seaside Park,Ocean,New Jersey,Male,Uncertain,09/16/2025
+UP13744,ME/C Case H190,11/11/2014,0.0,0.0,,Monmouth,New Jersey,Female,Uncertain,03/26/2025
+UP14019,ME/C Case 02141516,10/27/2014,18.0,99.0,Rutherford,Bergen,New Jersey,Male,Uncertain,08/28/2024
+UP12141,ME/C Case 08140024,01/15/2014,34.0,60.0,West Deptford,Gloucester,New Jersey,Female,White / Caucasian,08/28/2024
+UP12281,ME/C Case 13131329,12/30/2013,18.0,50.0,Highlands,Monmouth,New Jersey,Male,White / Caucasian,03/26/2025
+UP11919,ME/C Case 15131487,12/19/2013,45.0,65.0,West Creek,Ocean,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP12406,ME/C Case 07-13-2052,12/16/2013,40.0,80.0,Newark,Essex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/24/2025
+UP12983,ME/C Case 05130270,10/25/2013,15.0,99.0,Sea Isle City,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP11619,ME/C Case 03130611,09/11/2013,25.0,35.0,Delran,Burlington,New Jersey,Male,Black / African American,08/28/2024
+UP15522,ME/C Case 05130142,06/14/2013,18.0,99.0,Ocean City,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP11246,ME/C Case 07130700,04/22/2013,30.0,50.0,Newark,Essex,New Jersey,Female,Black / African American,08/28/2024
+UP14695,ME/C Case 05150076,04/12/2013,18.0,99.0,Ocean City,Cape May,New Jersey,Unsure,Uncertain,08/28/2024
+UP11642,ME/C Case 11130179,03/09/2013,40.0,60.0,Trenton,Mercer,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/26/2025
+UP16901,ME/C Case 05-12-0251,11/03/2012,18.0,99.0,Ocean City,Cape May,New Jersey,Unsure,Uncertain,08/28/2024
+UP15523,ME/C Case 05120248,10/31/2012,18.0,99.0,Ocean City,Cape May,New Jersey,Unsure,Uncertain,08/28/2024
+UP10425,ME/C Case 01120277,05/17/2012,50.0,60.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,08/28/2024
+UP10355,ME/C Case 01120034,01/14/2012,18.0,99.0,Hamilton Township,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP9855,ME/C Case 15111235,09/11/2011,18.0,99.0,Long Beach,Ocean,New Jersey,Unsure,Uncertain,08/28/2024
+UP8982,ME/C Case 11110499,07/20/2011,35.0,56.0,Hamilton,Mercer,New Jersey,Male,White / Caucasian,03/26/2025
+UP9762,ME/C Case 20110498,06/14/2011,30.0,50.0,Elizabeth,Union,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP8991,ME/C Case 05110095,04/30/2011,18.0,99.0,Lower Township,Cape May,New Jersey,Female,Uncertain,08/28/2024
+UP8722,ME/C Case 02110604,04/21/2011,31.0,51.0,,Bergen,New Jersey,Male,White / Caucasian,04/19/2024
+UP10565,ME/C Case 16110127,02/13/2011,50.0,60.0,Passaic,Passaic,New Jersey,Male,Black / African American,08/28/2024
+UP9111,ME/C Case 01110062,02/02/2011,18.0,18.0,Atlantic City,Atlantic,New Jersey,Unsure,Uncertain,08/28/2024
+UP11417,ME/C Case 05110036,01/26/2011,18.0,99.0,Woodbine,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP11265,ME/C Case 09100678,08/21/2010,40.0,60.0,Jersey City,Hudson,New Jersey,Male,"White / Caucasian, Hispanic / Latino",04/04/2025
+UP10324,ME/C Case 09100437,06/03/2010,30.0,50.0,North Bergen,Hudson,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP6563,ME/C Case 12100012,01/04/2010,38.0,48.0,New Brunswick,Middlesex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/26/2025
+UP9075,ME/C Case 01090532,09/20/2009,12.0,23.0,Atlantic City,Atlantic,New Jersey,Female,Uncertain,08/28/2024
+UP9077,ME/C Case 01090130,02/24/2009,18.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP2936,ME/C Case 08080542,12/31/2008,40.0,50.0,Greenwich,Gloucester,New Jersey,Male,Other,04/21/2020
+UP9072,ME/C Case 15081112,09/23/2008,18.0,18.0,Long Beach,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP8347,ME/C Case 02081206,08/25/2008,18.0,50.0,Ridgefield Park,Bergen,New Jersey,Male,White / Caucasian,08/28/2024
+UP9073,ME/C Case 15080914,07/29/2008,18.0,99.0,West Creek,Ocean,New Jersey,Unsure,Uncertain,08/28/2024
+UP6785,ME/C Case 09080689,07/29/2008,30.0,45.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,03/19/2025
+UP2635,ME/C Case 13080788,07/28/2008,20.0,30.0,Long Branch,Monmouth,New Jersey,Male,Other,03/26/2025
+UP2274,ME/C Case 13080620,06/15/2008,18.0,30.0,Brielle,Monmouth,New Jersey,Female,White / Caucasian,04/03/2025
+UP9074,ME/C Case 01080283,05/20/2008,16.0,20.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP8871,ME/C Case 17080070,05/09/2008,18.0,35.0,Lesser Alloway Creek,Salem,New Jersey,Male,Uncertain,08/28/2024
+UP11264,ME/C Case 09080350,04/02/2008,45.0,60.0,Bayonne,Hudson,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP9076,ME/C Case 15080327,03/12/2008,18.0,99.0,Seaside Heights,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP11261,ME/C Case 07080333,03/01/2008,50.0,70.0,Newark,Essex,New Jersey,Female,Black / African American,08/28/2024
+UP1457,ME/C Case 12080210,02/14/2008,35.0,45.0,Old Bridge,Middlesex,New Jersey,Female,White / Caucasian,03/26/2025
+UP8344,ME/C Case 01080076,02/09/2008,20.0,40.0,Egg Harbor Township,Atlantic,New Jersey,Male,Asian,04/21/2020
+UP1470,ME/C Case 15080161,02/03/2008,40.0,99.0,Long Beach Township,Ocean,New Jersey,Female,Uncertain,08/28/2024
+UP1752,ME/C Case 07080151,01/26/2008,64.0,70.0,Newark,Essex,New Jersey,Male,Black / African American,09/04/2024
+UP11976,ME/C Case 07071943,11/30/2007,40.0,50.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1761,ME/C Case 05070251,11/22/2007,18.0,99.0,Avalon,Cape May,New Jersey,Male,White / Caucasian,08/28/2024
+UP1674,ME/C Case 09070943,11/06/2007,40.0,55.0,Weehawken,Hudson,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP1409,ME/C Case 09070889,10/18/2007,16.0,20.0,Bayonne,Hudson,New Jersey,Female,Black / African American,08/28/2024
+UP11260,ME/C Case 07071684,10/15/2007,50.0,60.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP8996,ME/C Case 15070905,07/31/2007,18.0,99.0,Point Pleasant Beach,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP8993,ME/C Case 15070885,07/25/2007,18.0,45.0,Point Pleasant Beach,Ocean,New Jersey,Male,Black / African American,08/28/2024
+UP1643,ME/C Case 09070498,06/06/2007,47.0,70.0,Jersey City,Hudson,New Jersey,Male,Uncertain,08/28/2024
+UP1491,ME/C Case 09070413,05/03/2007,30.0,50.0,Jersey City,Hudson,New Jersey,Male,Black / African American,05/09/2025
+UP1699,ME/C Case 07070641,04/16/2007,,,Maplewood,Essex,New Jersey,Unsure,Uncertain,08/28/2024
+UP1611,ME/C Case 01060779,12/19/2006,16.0,22.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP1751,ME/C Case 07062164,12/18/2006,0.0,1.0,Newark,Essex,New Jersey,Female,White / Caucasian,08/28/2024
+UP10356,ME/C Case 01060717,11/24/2006,15.0,30.0,Brigantine,Atlantic,New Jersey,Unsure,Uncertain,09/04/2024
+UP11376,ME/C Case 05060311,11/15/2006,18.0,99.0,Ocean City,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP1452,ME/C Case 05060297,10/30/2006,18.0,38.0,North Wildwood,Cape May,New Jersey,Male,White / Caucasian,09/04/2024
+UP10357,ME/C Case 01060578,09/28/2006,16.0,30.0,Margate City,Atlantic,New Jersey,Female,Uncertain,09/04/2024
+UP1446,ME/C Case 12061007,08/29/2006,17.0,34.0,South Amboy,Middlesex,New Jersey,Female,Uncertain,03/26/2025
+UP1610,ME/C Case 01060511,08/28/2006,41.0,56.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/04/2024
+UP1445,ME/C Case 13060831,08/27/2006,17.0,37.0,Freehold Township,Monmouth,New Jersey,Unsure,Uncertain,03/26/2025
+UP1616,ME/C Case 02061208,08/23/2006,45.0,65.0,Fair Lawn,Bergen,New Jersey,Male,Uncertain,09/04/2024
+UP558,ME/C Case 07061228,07/16/2006,50.0,70.0,"Newark,",Essex,New Jersey,Male,Black / African American,09/04/2024
+UP10358,ME/C Case 01060387,07/01/2006,15.0,23.0,Brigantine,Atlantic,New Jersey,Female,Uncertain,09/04/2024
+UP1653,ME/C Case 09060425,05/03/2006,0.0,1.0,North Bergen,Hudson,New Jersey,Female,Uncertain,09/06/2024
+UP1512,ME/C Case 02060505,04/06/2006,44.0,64.0,Fort Lee,Bergen,New Jersey,Male,White / Caucasian,09/04/2024
+UP9706,ME/C Case 01060243,03/10/2006,16.0,22.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/04/2024
+UP10360,ME/C Case 01060084,02/14/2006,18.0,99.0,Brigantine,Atlantic,New Jersey,Male,Uncertain,09/04/2024
+UP10361,ME/C Case 01060065,02/01/2006,18.0,99.0,Atlantic City,Atlantic,New Jersey,Unsure,Uncertain,09/06/2024
+UP1455,ME/C Case 20051134,11/02/2005,18.0,24.0,Elizabeth,Union,New Jersey,Male,Other,09/06/2024
+UP1460,ME/C Case 12051164,10/20/2005,45.0,55.0,North Brunswick,Middlesex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/26/2025
+UP1456,ME/C Case 11050390,06/23/2005,30.0,40.0,Trenton,Mercer,New Jersey,Male,"Black / African American, Hispanic / Latino",03/26/2025
+UP1449,ME/C Case 13050620,06/19/2005,30.0,40.0,Millstone Township,Monmouth,New Jersey,Male,White / Caucasian,03/26/2025
+UP1599,ME/C Case 05050131,05/28/2005,18.0,99.0,Avalon,Cape May,New Jersey,Female,Uncertain,09/06/2024
+UP9078,ME/C Case 01050216,04/02/2005,15.0,15.0,Egg Harbor,Atlantic,New Jersey,Unsure,Uncertain,09/06/2024
+UP1791,ME/C Case 09050327,03/22/2005,0.0,1.0,Kearny,Hudson,New Jersey,Female,White / Caucasian,09/06/2024
+UP1454,ME/C Case 09050167,02/09/2005,24.0,34.0,Hoboken,Hudson,New Jersey,Female,White / Caucasian,09/06/2024
+UP1749,ME/C Case 07050217,01/31/2005,55.0,59.0,Newark,Essex,New Jersey,Male,Black / African American,09/06/2024
+UP1497,ME/C Case 12050076,01/17/2005,35.0,50.0,Woodbridge,Middlesex,New Jersey,Male,White / Caucasian,03/26/2025
+UP1609,ME/C Case 01040653,11/02/2004,54.0,64.0,Atlantic City,Atlantic,New Jersey,Female,Black / African American,09/06/2024
+UP1451,ME/C Case 03040702,10/26/2004,25.0,35.0,Mount Laurel,Burlington,New Jersey,Female,Uncertain,09/06/2024
+UP1705,ME/C Case 12040954,09/08/2004,30.0,45.0,South Brunswick,Middlesex,New Jersey,Male,Asian,03/26/2025
+UP8345,ME/C Case 01040502,08/21/2004,18.0,18.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/06/2024
+UP12648,ME/C Case 15040718,05/29/2004,12.0,20.0,,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP1748,ME/C Case 07040522,03/21/2004,50.0,60.0,Newark,Essex,New Jersey,Male,White / Caucasian,08/28/2024
+UP1779,ME/C Case 08040091,03/02/2004,18.0,30.0,Logan Township,Gloucester,New Jersey,Female,Uncertain,08/28/2024
+UP1767,ME/C Case 01040101,02/17/2004,25.0,35.0,Absecon,Atlantic,New Jersey,Male,White / Caucasian,08/28/2024
+UP1766,ME/C Case 01040039,01/17/2004,0.0,1.0,Ventnor City,Atlantic,New Jersey,Female,Uncertain,08/28/2024
+UP1671,ME/C Case 09031000,10/11/2003,45.0,60.0,North Bergen,Hudson,New Jersey,Male,White / Caucasian,08/28/2024
+UP1528,ME/C Case 01030518,08/28/2003,27.0,35.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,11/02/2021
+UP8979,ME/C Case 05030202,08/22/2003,14.0,18.0,Strathmere Upper Township,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP1534,ME/C Case 15030803,06/19/2003,19.0,23.0,Point Pleasant Beach,Ocean,New Jersey,Male,Uncertain,09/06/2024
+UP1747,ME/C Case 07031012,06/02/2003,42.0,57.0,Newark,Essex,New Jersey,Male,Black / African American,09/06/2024
+UP1733,ME/C Case 07030819,05/02/2003,55.0,65.0,Newark,Essex,New Jersey,Male,Black / African American,09/06/2024
+UP1691,ME/C Case 01030220,04/14/2003,40.0,60.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/06/2024
+UP1759,ME/C Case 01030218,04/13/2003,18.0,35.0,Egg Harbor,Atlantic,New Jersey,Male,Uncertain,09/06/2024
+UP14480,ME/C Case 05030066,03/22/2003,18.0,99.0,Stone Harbor,Cape May,New Jersey,Male,Uncertain,09/06/2024
+UP1689,ME/C Case 01030163,03/13/2003,39.0,46.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,09/06/2024
+UP1641,ME/C Case 09030253,02/25/2003,27.0,42.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,09/06/2024
+UP1690,ME/C Case 01030058,01/20/2003,35.0,45.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,09/06/2024
+UP14482,ME/C Case 05020229,10/26/2002,18.0,99.0,Stone Harbor,Cape May,New Jersey,Unsure,Uncertain,09/06/2024
+UP15476,ME/C Case 15021388,10/22/2002,18.0,99.0,Barnegat Light,Ocean,New Jersey,Male,Uncertain,06/12/2025
+UP1760,ME/C Case 15021383,10/19/2002,18.0,45.0,Palmyra,Ocean,New Jersey,Male,Black / African American,01/06/2025
+UP12125,ME/C Case 05020230,10/19/2002,18.0,99.0,Stone Harbor,Cape May,New Jersey,Unsure,Uncertain,09/06/2024
+UP1600,ME/C Case 05020218,10/19/2002,18.0,99.0,Stone Harbor,Cape May,New Jersey,Male,Uncertain,09/06/2024
+UP1536,ME/C Case 13020542,05/15/2002,35.0,50.0,Union Beach,Monmouth,New Jersey,Male,White / Caucasian,03/26/2025
+UP1652,ME/C Case 09020547,05/10/2002,37.0,42.0,Bayonne,Hudson,New Jersey,Male,White / Caucasian,09/06/2024
+UP13770,ME/C Case 02020491,03/24/2002,25.0,45.0,Alpine,Bergen,New Jersey,Male,Uncertain,06/02/2025
+UP1503,ME/C Case 11010894,12/18/2001,60.0,65.0,Trenton,Mercer,New Jersey,Male,White / Caucasian,03/26/2025
+UP1482,ME/C Case 07011972,10/24/2001,30.0,45.0,Newark,Essex,New Jersey,Female,Black / African American,09/06/2024
+UP1621,ME/C Case 07011708,09/11/2001,17.0,17.0,East Orange,Essex,New Jersey,Female,White / Caucasian,09/06/2024
+UP1623,ME/C Case 07011647,09/02/2001,50.0,60.0,Irvington,Essex,New Jersey,Male,White / Caucasian,09/06/2024
+UP1535,ME/C Case 13010678,05/25/2001,18.0,99.0,Sea Bright,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP1603,ME/C Case 20010244,02/25/2001,0.0,0.0,Rahway,Union,New Jersey,Female,Black / African American,08/12/2021
+UP1475,ME/C Case 20010233,02/21/2001,40.0,99.0,Summit,Union,New Jersey,Male,"White / Caucasian, Black / African American",07/11/2024
+UP1487,ME/C Case 07010322,02/15/2001,20.0,24.0,East Orange,Essex,New Jersey,Male,Black / African American,09/06/2024
+UP1619,ME/C Case 07002207,11/18/2000,20.0,40.0,East Orange,Essex,New Jersey,Male,Black / African American,09/06/2024
+UP14484,ME/C Case 05000193,09/04/2000,18.0,99.0,Ocean City,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP11371,ME/C Case 15001254,08/28/2000,13.0,17.0,Berkeley,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP1688,ME/C Case 01000332,06/08/2000,55.0,65.0,Atlantic City,Atlantic,New Jersey,Male,Asian,08/28/2024
+UP1540,ME/C Case 07001018,05/15/2000,40.0,44.0,East Orange,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1604,ME/C Case 20000467,04/27/2000,0.0,0.0,Roselle,Union,New Jersey,Male,Uncertain,08/28/2024
+UP1640,ME/C Case 09000513,04/25/2000,24.0,44.0,Kearny,Hudson,New Jersey,Female,Black / African American,04/13/2020
+UP8978,ME/C Case 03000275,04/08/2000,16.0,18.0,Bass River,Burlington,New Jersey,Male,Uncertain,08/28/2024
+UP1639,ME/C Case 09000332,03/08/2000,48.0,58.0,Weehawken,Hudson,New Jersey,Male,White / Caucasian,08/28/2024
+UP1697,ME/C Case 05000039,02/29/2000,23.0,44.0,Ocean City,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP1490,ME/C Case 09000220,02/09/2000,27.0,40.0,Newark,Hudson,New Jersey,Female,Black / African American,08/28/2024
+UP15645,ME/C Case 15991835,12/23/1999,18.0,99.0,Beach Haven,Ocean,New Jersey,Male,Uncertain,08/28/2024
+UP1715,ME/C Case 16991203,12/18/1999,18.0,35.0,Paterson,Passaic,New Jersey,Female,Black / African American,08/28/2024
+UP15642,ME/C Case 04991428,12/16/1999,25.0,35.0,Camden,Camden,New Jersey,Male,White / Caucasian,08/28/2024
+UP1507,ME/C Case 01990560,09/28/1999,50.0,69.0,Longport,Atlantic,New Jersey,Male,Asian,08/28/2024
+UP52487,ME/C Case 05990231,09/17/1999,25.0,40.0,Wildwood Crest,Cape May,New Jersey,Female,American Indian / Alaska Native,06/03/2024
+UP1678,ME/C Case 13990929,09/05/1999,18.0,99.0,Freehold,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP10426,ME/C Case 01990344,06/13/1999,20.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1480,ME/C Case 07990986,05/05/1999,45.0,55.0,Newark,Essex,New Jersey,Female,White / Caucasian,09/17/2024
+UP10427,ME/C Case 01990131,03/05/1999,18.0,99.0,Margate,Atlantic,New Jersey,Male,Uncertain,01/21/2025
+UP17372,ME/C Case 13990008,01/10/1999,25.0,40.0,Middletown,Monmouth,New Jersey,Male,White / Caucasian,03/26/2025
+UP11418,ME/C Case 05980307,12/14/1998,18.0,99.0,Cape May,Cape May,New Jersey,Male,Uncertain,09/17/2024
+UP1714,ME/C Case 16981166,11/24/1998,0.0,0.0,Paterson,Passaic,New Jersey,Male,White / Caucasian,09/17/2024
+UP1607,ME/C Case 07981910,10/13/1998,30.0,40.0,Newark,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP1727,ME/C Case 07981557,08/16/1998,29.0,39.0,Newark,Essex,New Jersey,Male,Hispanic / Latino,09/17/2024
+UP56369,ME/C Case 13980721,07/26/1998,25.0,35.0,Sandy Hook,Monmouth,New Jersey,Male,Uncertain,11/21/2024
+UP16991,ME/C Case 09980944,04/18/1998,18.0,99.0,North Bergen,Hudson,New Jersey,Male,Uncertain,08/28/2024
+UP16787,ME/C Case 09980473,04/14/1998,30.0,35.0,Jersey City,Hudson,New Jersey,Male,Black / African American,08/02/2022
+UP10428,ME/C Case 01980187,03/31/1998,,,Margate,Atlantic,New Jersey,Unsure,Uncertain,09/17/2024
+UP1636,ME/C Case 09980330,03/15/1998,0.0,0.0,Jersey City,Hudson,New Jersey,Female,Uncertain,09/17/2024
+UP1479,ME/C Case 07980319,02/08/1998,25.0,30.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP10429,ME/C Case 01980062 *,02/03/1998,18.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1758,ME/C Case 01980099,01/13/1998,18.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1701,ME/C Case 12980039,01/06/1998,28.0,38.0,Carteret,Middlesex,New Jersey,Male,White / Caucasian,03/26/2025
+UP10430,ME/C Case 01970603,10/01/1997,20.0,40.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1708,ME/C Case 15971227,08/24/1997,12.0,16.0,Long Beach,Ocean,New Jersey,Male,White / Caucasian,09/17/2024
+UP9432,ME/C Case 01970502,08/22/1997,18.0,35.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP10431,ME/C Case 01970472,08/08/1997,18.0,25.0,Margate,Atlantic,New Jersey,Male,White / Caucasian,10/23/2024
+UP1633,ME/C Case 08970270,07/08/1997,25.0,40.0,West Deptford Township,Gloucester,New Jersey,Male,White / Caucasian,08/28/2024
+UP9587,ME/C Case 01970396,07/06/1997,30.0,45.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,08/28/2024
+UP1720,ME/C Case 19970070,04/06/1997,50.0,70.0,Vernon,Sussex,New Jersey,Male,White / Caucasian,08/28/2024
+UP1725,ME/C Case 07970663,03/30/1997,65.0,65.0,Newark,Essex,New Jersey,Male,White / Caucasian,10/16/2020
+UP1776,ME/C Case 09970102,01/20/1997,25.0,35.0,Newark,Hudson,New Jersey,Female,"Black / African American, Hispanic / Latino",07/23/2025
+UP1496,ME/C Case 12961638,12/09/1996,25.0,35.0,Old Bridge Township,Middlesex,New Jersey,Male,White / Caucasian,08/28/2025
+UP1723,ME/C Case 07962464,12/01/1996,31.0,41.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1625,ME/C Case 07961838,09/06/1996,25.0,27.0,East Orange,Essex,New Jersey,Male,Black / African American,04/03/2025
+UP1533,ME/C Case 15960817,06/01/1996,31.0,38.0,Barnegat,Ocean,New Jersey,Male,White / Caucasian,08/28/2024
+UP1686,ME/C Case 01960332,06/01/1996,46.0,51.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,08/28/2024
+UP1486,ME/C Case 04960608,05/29/1996,25.0,50.0,Pennsauken Township,Camden,New Jersey,Female,Uncertain,01/21/2025
+UP1721,ME/C Case 07961118,05/24/1996,36.0,46.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1700,ME/C Case 12960721,05/21/1996,40.0,55.0,Edison,Middlesex,New Jersey,Male,White / Caucasian,03/26/2025
+UP1646,ME/C Case 09960610,05/10/1996,18.0,99.0,Bayonne,Hudson,New Jersey,Male,Uncertain,09/24/2025
+UP1696,ME/C Case 05960103,04/18/1996,30.0,50.0,Beach Haven,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP1474,ME/C Case 07960842,04/17/1996,36.0,46.0,Newark,Essex,New Jersey,Male,Black / African American,10/16/2020
+UP1687,ME/C Case 01960170,03/22/1996,44.0,51.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,03/07/2025
+UP17732,ME/C Case 15960172,01/27/1996,0.0,99.0,,Ocean,New Jersey,Unsure,Uncertain,08/28/2024
+UP1704,ME/C Case 12951074,08/18/1995,25.0,35.0,New Brunswick,Middlesex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",03/26/2025
+UP1764,ME/C Case 01950007,01/09/1995,30.0,40.0,Longport,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP1471,ME/C Case 07942665,12/23/1994,54.0,64.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1484,ME/C Case 01940642,10/11/1994,45.0,55.0,Mullica Township,Atlantic,New Jersey,Male,"White / Caucasian, Hispanic / Latino",08/28/2024
+UP1703,ME/C Case 94-46053,09/08/1994,73.0,73.0,,Middlesex,New Jersey,Male,White / Caucasian,03/26/2025
+UP13332,ME/C Case 03940375,06/01/1994,18.0,99.0,Bordentown,Burlington,New Jersey,Male,Uncertain,08/28/2024
+UP10433,ME/C Case 01940229,04/02/1994,14.0,20.0,Brigantine,Atlantic,New Jersey,Unsure,Uncertain,08/28/2024
+UP9123,ME/C Case 01940222,04/01/1994,20.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP1467,ME/C Case 07940513,03/05/1994,35.0,45.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1719,ME/C Case 19940052,02/27/1994,0.0,0.0,Newton,Sussex,New Jersey,Male,White / Caucasian,09/17/2024
+UP11868,ME/C Case 13931204,11/28/1993,25.0,75.0,Ocean Township,Monmouth,New Jersey,Female,Uncertain,03/26/2025
+UP17733,ME/C Case 15931420,09/25/1993,0.0,99.0,Lakewood,Ocean,New Jersey,Unsure,Uncertain,09/17/2024
+UP1509,ME/C Case 09931034,08/11/1993,35.0,45.0,Kearny,Hudson,New Jersey,Male,Uncertain,03/05/2025
+UP1782,ME/C Case 09931008,08/03/1993,43.0,53.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP17222,ME/C Case 13930628,06/26/1993,25.0,35.0,Middletown,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP1477,ME/C Case 20930537,04/27/1993,20.0,40.0,Elizabeth,Union,New Jersey,Male,Black / African American,05/11/2023
+UP1777,ME/C Case 06930100,04/10/1993,0.0,1.0,Greenwich,Cumberland,New Jersey,Female,White / Caucasian,09/17/2024
+UP11375,ME/C Case 05930082,03/27/1993,17.0,23.0,Ocean City,Cape May,New Jersey,Male,White / Caucasian,09/17/2024
+UP15639,ME/C Case 08930071,02/19/1993,21.0,99.0,West Deptford,Gloucester,New Jersey,Unsure,Uncertain,09/17/2024
+UP1453,ME/C Case 09930065,01/14/1993,0.0,1.0,Hoboken,Hudson,New Jersey,Female,Uncertain,10/10/2024
+UP1682,ME/C Case 15921348,10/06/1992,18.0,40.0,Island Beach State Park,Ocean,New Jersey,Male,Uncertain,09/17/2024
+UP17734,ME/C Case 15921065,08/12/1992,0.0,99.0,,Ocean,New Jersey,Unsure,Uncertain,09/17/2024
+UP1617,ME/C Case 02921095,07/19/1992,30.0,40.0,Hackensack,Bergen,New Jersey,Female,White / Caucasian,09/17/2024
+UP1709,ME/C Case 15920830,06/22/1992,15.0,17.0,Long Beach,Ocean,New Jersey,Male,White / Caucasian,09/17/2024
+UP1466,ME/C Case 07921366,06/16/1992,40.0,45.0,Newark,Essex,New Jersey,Female,White / Caucasian,09/17/2024
+UP1710,ME/C Case 15920663,05/22/1992,14.0,17.0,Beach Haven Crest,Ocean,New Jersey,Female,Uncertain,09/17/2024
+UP1783,ME/C Case 09920646,05/12/1992,25.0,40.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,08/28/2024
+UP10435,ME/C Case 01920239 *,04/29/1992,14.0,19.0,Ventnor City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP1505,ME/C Case 08920167,04/27/1992,24.0,29.0,Deptford,Gloucester,New Jersey,Female,Black / African American,08/28/2024
+UP17735,ME/C Case 15920525,04/16/1992,0.0,99.0,,Ocean,New Jersey,Unsure,Uncertain,08/28/2024
+UP10436,ME/C Case 01920163,03/27/1992,18.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,08/28/2024
+UP1784,ME/C Case 09920346,03/08/1992,0.0,0.0,Jersey City,Hudson,New Jersey,Male,Black / African American,08/28/2024
+UP1504,ME/C Case 08920043,01/29/1992,35.0,49.0,Depford,Gloucester,New Jersey,Male,Uncertain,09/17/2024
+UP11427,ME/C Case 01920028,01/14/1992,,,Ventnor,Atlantic,New Jersey,Unsure,Uncertain,08/28/2024
+UP1494,ME/C Case 09911623,12/20/1991,49.0,69.0,Jersey City,Hudson,New Jersey,Female,Uncertain,08/28/2024
+UP55429,ME/C Case 18910416,12/12/1991,,,Warren,Somerset,New Jersey,Female,White / Caucasian,11/04/2022
+UP11426,ME/C Case 01910714,11/22/1991,18.0,99.0,Atlantic City,Atlantic,New Jersey,Unsure,Uncertain,08/28/2024
+UP1680,ME/C Case 13911313,11/11/1991,30.0,50.0,Spring Lake,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP1476,ME/C Case 20911160,10/05/1991,23.0,33.0,Elizabeth,Union,New Jersey,Female,Black / African American,05/12/2023
+UP1781,ME/C Case 09911188,09/18/1991,35.0,99.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,10/16/2020
+UP52485,ME/C Case 05910221,09/04/1991,18.0,99.0,Cape May,Cape May,New Jersey,Male,Uncertain,08/28/2024
+UP15640,ME/C Case 08910278,07/07/1991,20.0,99.0,Deptford,Gloucester,New Jersey,Unsure,Uncertain,09/17/2024
+UP1629,ME/C Case 08910237,07/06/1991,23.0,29.0,Gibbstown,Gloucester,New Jersey,Female,Black / African American,09/17/2024
+UP1465,ME/C Case 07911165,05/27/1991,30.0,40.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1500,ME/C Case 11910481,05/27/1991,25.0,40.0,Trenton,Mercer,New Jersey,Male,White / Caucasian,03/26/2025
+UP1632,ME/C Case 08910201,05/24/1991,25.0,40.0,West Deptford,Gloucester,New Jersey,Female,Uncertain,04/07/2021
+UP1645,ME/C Case 09910614,05/13/1991,35.0,45.0,Bayonne,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP1606,ME/C Case 07911051,05/10/1991,0.0,0.0,Newark,Essex,New Jersey,Female,White / Caucasian,09/17/2024
+UP1630,ME/C Case 08910270,05/05/1991,25.0,40.0,West Deptford,Gloucester,New Jersey,Female,Uncertain,09/17/2024
+UP1790,ME/C Case 09910417,03/29/1991,25.0,45.0,Kearny,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP1464,ME/C Case 07910202,01/23/1991,38.0,45.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1485,ME/C Case 02902097,12/09/1990,50.0,60.0,North Arlington,Bergen,New Jersey,Female,Black / African American,03/15/2022
+UP1707,ME/C Case 13901319,11/21/1990,25.0,45.0,Asbury Park,Monmouth,New Jersey,Female,White / Caucasian,03/26/2025
+UP14483,ME/C Case 05900189,08/19/1990,18.0,99.0,Corsen's Inlet,Cape May,New Jersey,Male,Uncertain,09/17/2024
+UP1537,ME/C Case Unknown ME,07/31/1990,68.0,80.0,Trenton,Mercer,New Jersey,Female,Black / African American,03/26/2025
+UP1717,ME/C Case 16900689,07/16/1990,20.0,30.0,Wayne,Passaic,New Jersey,Female,White / Caucasian,08/28/2024
+UP16843,ME/C Case 02900804,05/03/1990,20.0,40.0,Fort Lee,Bergen,New Jersey,Female,Uncertain,08/28/2024
+UP1726,ME/C Case 07900989,04/22/1990,55.0,75.0,Newark,Essex,New Jersey,Male,Black / African American,08/28/2024
+UP1462,ME/C Case 07900934,04/15/1990,60.0,70.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1684,ME/C Case 01900200,04/09/1990,58.0,73.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,03/31/2021
+UP1489,ME/C Case 08900057,02/04/1990,16.0,20.0,Depford Township,Gloucester,New Jersey,Female,White / Caucasian,09/30/2025
+UP1627,ME/C Case 08900048,01/30/1990,35.0,45.0,Deptford,Gloucester,New Jersey,Male,Black / African American,08/28/2024
+UP1628,ME/C Case 08890331,09/24/1989,40.0,50.0,Grenloch,Gloucester,New Jersey,Male,White / Caucasian,08/28/2024
+UP1762,ME/C Case 09891256,09/17/1989,45.0,60.0,,Hudson,New Jersey,Male,Asian,08/28/2024
+UP1631,ME/C Case 08890297,08/22/1989,19.0,39.0,West Deptford,Gloucester,New Jersey,Female,Uncertain,08/28/2024
+UP16716,ME/C Case 09890951,07/08/1989,50.0,60.0,North Bergen,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP1718,ME/C Case 16890589,06/10/1989,33.0,45.0,West Milford,Passaic,New Jersey,Male,White / Caucasian,05/25/2023
+UP1539,ME/C Case 09890837,06/10/1989,19.0,39.0,Jersey City,Hudson,New Jersey,Male,Uncertain,09/17/2024
+UP1644,ME/C Case 09890710,05/18/1989,60.0,70.0,Bayonne,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP16842,ME/C Case 02890903,05/15/1989,20.0,35.0,Garfield,Bergen,New Jersey,Female,White / Caucasian,09/17/2024
+UP1676,ME/C Case 13890523,05/13/1989,35.0,45.0,Asbury Park,Monmouth,New Jersey,Male,Uncertain,03/26/2025
+UP1595,ME/C Case 02890376,03/02/1989,35.0,55.0,Ridgefield,Bergen,New Jersey,Male,White / Caucasian,09/17/2024
+UP9715,ME/C Case 08890272,01/29/1989,18.0,99.0,West Deptford,Gloucester,New Jersey,Female,Uncertain,09/17/2024
+UP1763,ME/C Case 01880478,07/19/1988,27.0,39.0,Mullica Township,Atlantic,New Jersey,Female,Black / African American,02/28/2025
+UP1461,ME/C Case 07881722,07/08/1988,45.0,55.0,Newark,Essex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",09/17/2024
+UP1429,ME/C Case 07881464,06/07/1988,60.0,70.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1683,ME/C Case 15880581,05/09/1988,37.0,47.0,Long Beach Island,Ocean,New Jersey,Male,White / Caucasian,09/17/2024
+UP1673,ME/C Case 09880707,05/01/1988,25.0,30.0,Weehawken,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP1594,ME/C Case 01880273,04/30/1988,0.0,0.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1442,ME/C Case 07880347,02/19/1988,35.0,50.0,Newark,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP1622,ME/C Case 07880429,02/12/1988,32.0,40.0,Irvington,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1443,ME/C Case 07880347,02/03/1988,30.0,39.0,Newark,Essex,New Jersey,Male,White / Caucasian,02/21/2023
+UP1444,ME/C Case 03880089,01/31/1988,23.0,31.0,Burlington Cnty,Burlington,New Jersey,Male,White / Caucasian,11/04/2022
+UP1672,ME/C Case 09880023,01/02/1988,30.0,50.0,Secaucus,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP1483,ME/C Case 01870807,12/15/1987,40.0,49.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,09/17/2024
+UP16990,ME/C Case 09871394/9432,09/15/1987,27.0,37.0,Jersey City,Hudson,New Jersey,Female,Uncertain,09/17/2024
+UP10475,ME/C Case 01870578,09/06/1987,0.0,1.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,09/17/2024
+UP10476,ME/C Case 01870525,08/18/1987,0.0,1.0,Northfield,Atlantic,New Jersey,Female,Black / African American,09/17/2024
+UP1685,ME/C Case 01870480,08/05/1987,30.0,40.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP10477,ME/C Case 01870471,08/03/1987,12.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,09/30/2021
+UP9087,ME/C Case 01870260,04/26/1987,20.0,30.0,Atlantic City,Atlantic,New Jersey,Male,"White / Caucasian, Hispanic / Latino",09/17/2024
+UP1441,ME/C Case 07870649,03/10/1987,50.0,60.0,Newark,Essex,New Jersey,Female,Black / African American,09/17/2024
+UP1495,ME/C Case 09861926/9662,12/24/1986,70.0,80.0,Jersey City,Hudson,New Jersey,Female,White / Caucasian,09/17/2024
+UP1531,ME/C Case 20861544,12/21/1986,40.0,45.0,Elizabeth,Union,New Jersey,Male,Black / African American,09/17/2024
+UP1634,ME/C Case 08860438,12/04/1986,0.0,0.0,Turnersville,Gloucester,New Jersey,Female,White / Caucasian,03/03/2025
+UP1605,ME/C Case 07863003,11/28/1986,0.0,0.0,South Orange,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP1440,ME/C Case 07862292/8282,09/21/1986,30.0,45.0,Newark,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP1508,ME/C Case 02861652,09/08/1986,65.0,68.0,Engelwood,Bergen,New Jersey,Female,Black / African American,09/17/2024
+UP10478,ME/C Case 01870307 *,09/01/1986,18.0,99.0,Atlantic City,Atlantic,New Jersey,Unsure,Uncertain,09/17/2024
+UP10575,ME/C Case 01860559 *,08/20/1986,18.0,99.0,Ventnor,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1785,ME/C Case 09861061/9359,07/06/1986,20.0,30.0,Harrison,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP1692,ME/C Case 03860352,06/20/1986,21.0,28.0,Burlington Township,Burlington,New Jersey,Male,Black / African American,09/17/2024
+UP1793,ME/C Case 09860828/8150,05/16/1986,29.0,48.0,North Bergen,Hudson,New Jersey,Female,White / Caucasian,09/17/2024
+UP1439,ME/C Case 07861107,05/01/1986,30.0,40.0,Newark,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP1626,ME/C Case 08860146,04/26/1986,29.0,39.0,West Deptford,Gloucester,New Jersey,Male,White / Caucasian,09/17/2024
+UP1438,ME/C Case 07861048/8127,04/25/1986,35.0,55.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1792,ME/C Case 09860667/9236,04/15/1986,18.0,40.0,North Bergen,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP1786,ME/C Case 09860386/9134,03/01/1986,48.0,68.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP11622,ME/C Case 01860015,01/05/1986,18.0,99.0,Atlantic City,Atlantic,New Jersey,Unsure,Uncertain,09/17/2024
+UP1434,ME/C Case 07853216,12/15/1985,18.0,30.0,Newark,Essex,New Jersey,Male,"White / Caucasian, Hispanic / Latino",09/17/2024
+UP1436,ME/C Case 07852728,10/24/1985,35.0,50.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1788,ME/C Case 09851634/9781,10/20/1985,30.0,50.0,Kearny,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP10576,ME/C Case 01860847,09/29/1985,18.0,99.0,Longport,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1432,ME/C Case 07852154,08/20/1985,30.0,45.0,Newark,Essex,New Jersey,Male,Black / African American,09/17/2024
+UP1530,ME/C Case 05850190,07/31/1985,52.0,99.0,Cape May,Cape May,New Jersey,Male,White / Caucasian,09/17/2024
+UP1655,ME/C Case 09850462/9223,03/09/1985,50.0,70.0,Jersey City,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP17352,ME/C Case 13850047/9185,02/25/1985,40.0,60.0,Long Branch,Monmouth,New Jersey,Female,White / Caucasian,03/26/2025
+UP1431,ME/C Case 07850543/9161,02/21/1985,27.0,39.0,Newark,Essex,New Jersey,Male,White / Caucasian,03/05/2025
+UP16723,ME/C Case 84-674,12/24/1984,0.0,0.0,Mendham,Morris,New Jersey,Female,White / Caucasian,09/17/2024
+UP1614,ME/C Case 02840642,11/28/1984,22.0,26.0,,Bergen,New Jersey,Male,White / Caucasian,09/17/2024
+UP1492,ME/C Case 09841630/9430,10/27/1984,18.0,35.0,Jersey City,Hudson,New Jersey,Male,White / Caucasian,09/17/2024
+UP16846,ME/C Case 05840242,10/07/1984,20.0,99.0,Stone Harbor,Cape May,New Jersey,Female,White / Caucasian,09/17/2024
+UP1608,ME/C Case 07842290/9361,09/14/1984,15.0,20.0,East Orange,Essex,New Jersey,Female,Black / African American,05/22/2025
+UP1433,ME/C Case 07841657,06/28/1984,18.0,30.0,Newark,Essex,New Jersey,Male,Black / African American,03/05/2025
+UP16707,ME/C Case 01840507,06/27/1984,14.0,16.0,Brigantine,Atlantic,New Jersey,Unsure,Uncertain,09/17/2024
+UP1659,ME/C Case 09840777,05/15/1984,20.0,26.0,Harrison,Hudson,New Jersey,Male,White / Caucasian,10/16/2020
+UP1435,ME/C Case 07841176,05/04/1984,40.0,55.0,Newark,Essex,New Jersey,Male,White / Caucasian,09/17/2024
+UP16845,ME/C Case 05880008,04/07/1984,15.0,20.0,Wildwood Crest,Cape May,New Jersey,Unsure,Uncertain,09/17/2024
+UP1657,ME/C Case 09840455,03/17/1984,0.0,0.0,Bayonne,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP1787,ME/C Case 09840003,01/01/1984,49.0,59.0,Jersey City,Hudson,New Jersey,Male,Black / African American,09/17/2024
+UP5186,ME/C Case 01831044,12/23/1983,50.0,60.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP12060,ME/C Case 01831022,12/18/1983,20.0,99.0,Margate,Atlantic,New Jersey,Male,Uncertain,09/17/2024
+UP1596,ME/C Case 83-0520,09/17/1983,55.0,70.0,New Milford,Bergen,New Jersey,Male,White / Caucasian,09/17/2024
+UP1756,ME/C Case 13830549,05/23/1983,30.0,50.0,Middletown Township,Monmouth,New Jersey,Male,White / Caucasian,09/18/2025
+UP10577,ME/C Case 01830272 *,03/30/1983,20.0,99.0,Atlantic City,Atlantic,New Jersey,Male,Uncertain,10/16/2020
+UP17220,ME/C Case 83-843,02/08/1983,18.0,99.0,Belmar,Monmouth,New Jersey,Unsure,Uncertain,03/26/2025
+UP5225,ME/C Case 01821043,12/18/1982,60.0,70.0,Hamilton Township,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP15685,ME/C Case 03820676/9229,09/30/1982,35.0,45.0,Woodland Township,Burlington,New Jersey,Female,White / Caucasian,06/12/2025
+UP2912,ME/C Case 01820488,06/24/1982,35.0,45.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP5185,ME/C Case 01820393/9122,05/14/1982,35.0,45.0,Brigantine,Atlantic,New Jersey,Male,White / Caucasian,03/27/2024
+UP1514,ME/C Case 03820091,02/02/1982,19.0,24.0,Willingboro Township,Burlington,New Jersey,Female,Uncertain,03/06/2025
+UP5222,ME/C Case 01819141,12/12/1981,60.0,70.0,Mullica,Atlantic,New Jersey,Male,Black / African American,09/17/2024
+UP1601,ME/C Case 07812451/85-9532,09/29/1981,30.0,35.0,Newark,Essex,New Jersey,Male,Black / African American,01/29/2020
+UP6489,ME/C Case 01810179,07/10/1981,51.0,56.0,Atlantic City,Atlantic,New Jersey,Male,Black / African American,10/16/2020
+UP2888,ME/C Case 81-A-130,05/22/1981,31.0,36.0,Atlantic City,Atlantic,New Jersey,Male,White / Caucasian,09/17/2024
+UP1493,ME/C Case 09810135,05/04/1981,20.0,40.0,Hoboken,Hudson,New Jersey,Male,White / Caucasian,07/01/2020
+UP100328,ME/C Case 15-819014,02/06/1981,18.0,25.0,Lacey Township,Ocean,New Jersey,Female,White / Caucasian,05/16/2024
+UP1774,ME/C Case 04801103,10/05/1980,30.0,40.0,Bellmawr,Camden,New Jersey,Male,Black / African American,02/05/2020
+UP11388,ME/C Case 13120238,07/06/1980,18.0,99.0,Middletown,Monmouth,New Jersey,Unsure,Uncertain,03/26/2025
+UP1498,ME/C Case 13800136,07/01/1980,20.0,30.0,Neptune,Monmouth,New Jersey,Female,White / Caucasian,03/26/2025
+UP1772,ME/C Case A-80-59,06/24/1980,15.0,20.0,Montague,Sussex,New Jersey,Female,Other,08/01/2022
+UP11620,ME/C Case 01800101,04/20/1980,0.0,0.0,Atlantic City,Atlantic,New Jersey,Female,Uncertain,08/28/2024
+UP15644,ME/C Case A-80-26,03/12/1980,25.0,35.0,Jackson Township,Ocean,New Jersey,Male,White / Caucasian,09/17/2024
+UP1515,ME/C Case A-79-55,12/07/1979,60.0,69.0,Shamong Township,Burlington,New Jersey,Male,Uncertain,03/06/2025
+UP1768,ME/C Case A-79-52,11/21/1979,17.0,25.0,Lawrence,Cumberland,New Jersey,Male,Uncertain,02/07/2025
+UP1695,ME/C Case 79-07992,10/19/1979,20.0,25.0,Winslow Township,Camden,New Jersey,Male,Black / African American,08/28/2024
+UP1755,ME/C Case 116/79,05/21/1979,25.0,35.0,Middletown,Monmouth,New Jersey,Male,Black / African American,03/26/2025
+UP1527,ME/C Case A-79-19,05/15/1979,28.0,35.0,East Windsor,Mercer,New Jersey,Male,Uncertain,03/26/2025
+UP1693,ME/C Case A-79-15,04/28/1979,17.0,20.0,Camden,Camden,New Jersey,Female,Black / African American,08/28/2024
+UP1522,ME/C Case 111-79S,04/10/1979,18.0,25.0,Perth Amboy,Middlesex,New Jersey,Female,White / Caucasian,04/21/2025
+UP1499,ME/C Case 13790079,04/06/1979,19.0,24.0,Sea Bright,Monmouth,New Jersey,Female,Black / African American,11/21/2024
+UP1771,ME/C Case 79-2,12/30/1978,35.0,45.0,Oldmans,Salem,New Jersey,Male,Black / African American,02/13/2025
+UP1615,ME/C Case 78-668,11/15/1978,30.0,45.0,Teaneck,Bergen,New Jersey,Male,White / Caucasian,05/08/2025
+UP13930,ME/C Case 05140178,08/01/1978,25.0,60.0,Sea Isle City,Cape May,New Jersey,Unsure,Uncertain,08/28/2024
+UP1769,ME/C Case 82-558,07/22/1978,23.0,33.0,Jackson Township,Ocean,New Jersey,Male,White / Caucasian,04/18/2024
+UP117966,ME/C Case B-47-77-MR,03/02/1977,,,Clark Township,Union,New Jersey,Male,White / Caucasian,05/16/2024
+UP1523,ME/C Case 68-77,02/28/1977,16.0,20.0,Cranbury,Middlesex,New Jersey,Female,Black / African American,03/26/2025
+UP1524,ME/C Case No ME#,10/24/1976,30.0,40.0,Denville,Morris,New Jersey,Male,White / Caucasian,08/28/2024
+UP12124,ME/C Case 13120177,08/02/1976,18.0,99.0,Tinton Falls,Monmouth,New Jersey,Unsure,Uncertain,03/26/2025
+UP1773,ME/C Case 13760059,03/14/1976,30.0,40.0,Sandy Hook,Monmouth,New Jersey,Male,Black / African American,03/26/2025
+UP1597,ME/C Case 74-76,05/17/1974,20.0,35.0,Burlington Township,Burlington,New Jersey,Female,Uncertain,08/28/2024
+UP1753,ME/C Case No ME number available,09/02/1973,24.0,32.0,Alpine,Bergen,New Jersey,Male,Uncertain,08/28/2024
+UP92118,ME/C Case No ME #(C-6-73),01/24/1973,30.0,40.0,Brigantine,Atlantic,New Jersey,Female,Black / African American,03/27/2024
+UP1770,ME/C Case 71-123,08/08/1971,18.0,30.0,Woodland,Burlington,New Jersey,Male,White / Caucasian,08/28/2024
+UP133547,ME/C Case EX-E-52-71-A,04/05/1971,1.0,2.0,Mountainside,Union,New Jersey,Female,White / Caucasian,11/22/2024

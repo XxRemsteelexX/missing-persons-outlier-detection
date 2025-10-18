@@ -1,0 +1,89 @@
+Case,ME/C Case,DBF,Age From,Age To,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+UP150077,ME/C Case 25-03610,09/09/2025,25.0,45.0,Lakewood,Jefferson,Colorado,Male,White / Caucasian,10/01/2025
+UP149752,ME/C Case 2025-1388,08/06/2025,30.0,65.0,Castle Rock,Douglas,Colorado,Male,"White / Caucasian, Hispanic / Latino",09/27/2025
+UP149757,ME/C Case 2025-1332,07/29/2025,30.0,50.0,Franktown,Douglas,Colorado,Female,"White / Caucasian, Hispanic / Latino, American Indian / Alaska Native",09/27/2025
+UP148492,ME/C Case NA25-01740,04/28/2025,,,Colorado Springs,El Paso,Colorado,Male,Hispanic / Latino,07/30/2025
+UP148493,ME/C Case NA25-01741,04/28/2025,,,Colorado Springs,El Paso,Colorado,Male,"Black / African American, Hispanic / Latino",07/30/2025
+UP148494,ME/C Case NA25-01743,04/28/2025,,,Colorado Springs,El Paso,Colorado,Male,"Black / African American, Hispanic / Latino",07/30/2025
+UP146896,ME/C Case 2025-01208,04/01/2025,,,Aurora,Arapahoe,Colorado,Male,"Black / African American, Other, Uncertain",10/03/2025
+UP140606,ME/C Case 24-5277,12/27/2024,50.0,70.0,Wheat Ridge,Jefferson,Colorado,Male,White / Caucasian,08/28/2025
+UP148860,ME/C Case 24-00960,10/13/2024,35.0,73.0,Colorado Springs,El Paso,Colorado,Male,Black / African American,08/11/2025
+UP137816,ME/C Case 24052,08/17/2024,,,Winter Park,Grand,Colorado,Male,"White / Caucasian, Black / African American",03/04/2025
+UP123521,ME/C Case 2024-045,05/28/2024,30.0,60.0,Bailey,Park,Colorado,Male,White / Caucasian,07/16/2025
+UP107177,ME/C Case 23-03059,07/12/2023,0.0,1.0,Aurora,Adams,Colorado,Female,Uncertain,02/28/2025
+UP107176,ME/C Case 23-03058,07/12/2023,0.0,1.0,Aurora,Adams,Colorado,Female,Uncertain,02/28/2025
+UP99112,ME/C Case 1112-2022,12/12/2022,,,Rye,Pueblo,Colorado,Female,Uncertain,02/14/2025
+UP122522,ME/C Case SU22-004,07/22/2022,,,Ignacio,La Plata,Colorado,Male,"White / Caucasian, Other",05/28/2024
+UP96289,ME/C Case 22-314,04/27/2022,30.0,58.0,Weld County,Weld,Colorado,Female,White / Caucasian,09/04/2025
+UP90212,ME/C Case 20-01001,10/06/2020,,,,El Paso,Colorado,Male,"White / Caucasian, Uncertain",08/12/2025
+UP74850,ME/C Case 20-090,04/23/2020,37.0,73.0,Paonia,Delta,Colorado,Male,Uncertain,01/27/2022
+UP65298,ME/C Case 2019-03081,08/29/2019,20.0,50.0,Denver,Denver,Colorado,Male,Hispanic / Latino,12/19/2024
+UP65314,ME/C Case 326-2019,06/07/2019,,,Pueblo,Pueblo,Colorado,Male,White / Caucasian,05/23/2025
+UP17188,ME/C Case 2017-323-A,10/02/2017,30.0,60.0,Nederland,Boulder,Colorado,Male,Uncertain,08/30/2024
+UP65313,ME/C Case 196-2017,04/17/2017,,,Pueblo,Pueblo,Colorado,Male,"White / Caucasian, Hispanic / Latino",06/09/2025
+UP16278,ME/C Case A16-3230,12/13/2016,50.0,60.0,Aurora,Adams,Colorado,Male,"White / Caucasian, Hispanic / Latino",12/30/2024
+UP14685,ME/C Case P152635 (ME #15-01033),12/12/2015,35.0,60.0,Holly,Prowers,Colorado,Male,White / Caucasian,09/04/2024
+UP12550,ME/C Case 14-0665,04/15/2014,23.0,43.0,Silver Plume,Clear Creek,Colorado,Female,"Black / African American, Hispanic / Latino",09/04/2024
+UP12218,ME/C Case A14-00524,02/28/2014,,,Watkins,Adams,Colorado,Male,Uncertain,09/04/2024
+UP11704,ME/C Case 2013-00825,10/17/2013,,,Lakewood,Jefferson,Colorado,Female,Uncertain,02/28/2025
+UP11317,ME/C Case 13-7942,05/01/2013,40.0,50.0,Pueblo,Pueblo,Colorado,Male,White / Caucasian,09/18/2024
+UP149645,ME/C Case 12C014,06/09/2012,,,Aspen,Pitkin,Colorado,Male,White / Caucasian,08/29/2025
+UP148502,"ME/C Case NA25-01747, 11A050",01/27/2011,,,Colorado Springs,El Paso,Colorado,Male,American Indian / Alaska Native,07/30/2025
+UP52281,ME/C Case HSO007-09,01/08/2009,,,Apache Exit Off I-25,Huerfano,Colorado,Male,White / Caucasian,09/04/2024
+UP14565,ME/C Case A08-01592 *,07/20/2008,,,Commerce City,Adams,Colorado,Male,Uncertain,09/04/2024
+UP9758,ME/C Case 2009-353,06/30/2008,18.0,99.0,Walden,Jackson,Colorado,Male,Uncertain,09/04/2024
+UP70564,ME/C Case 28-08-23-07,08/24/2007,35.0,45.0,Rural Clear Creek County,Clear Creek,Colorado,Male,White / Caucasian,11/03/2022
+UP12851,ME/C Case A06-1913,11/23/2006,20.0,30.0,Commerce City,Adams,Colorado,Male,Uncertain,09/04/2024
+UP15487,ME/C Case 04-09-09-UR,09/09/2004,27.0,65.0,,Garfield,Colorado,Male,White / Caucasian,05/24/2025
+UP15492,ME/C Case 03-07-07-UR,07/07/2003,27.0,27.0,Between Rifle and Silt,Garfield,Colorado,Male,"Black / African American, Other",05/24/2025
+UP15756,ME/C Case 02-432,10/19/2002,,,,Saguache,Colorado,Male,White / Caucasian,09/04/2024
+UP10386,ME/C Case Weld Coroner 2002-534,09/11/2002,0.0,1.0,Brighton,Weld,Colorado,Male,White / Caucasian,09/04/2024
+UP14571,ME/C Case A00-423,03/14/2000,55.0,65.0,,Adams,Colorado,Male,Black / African American,09/04/2024
+UP12447,ME/C Case 99028,08/10/1999,30.0,45.0,3 miles North West of Walsenburg,Huerfano,Colorado,Female,Uncertain,08/05/2025
+UP85385,ME/C Case 1999-0780,02/25/1999,45.0,70.0,Denver,Denver,Colorado,Male,White / Caucasian,12/07/2023
+UP11476,ME/C Case 98-02-07-1930,02/10/1998,25.0,30.0,Glendale,Arapahoe,Colorado,Male,"White / Caucasian, Hispanic / Latino",08/21/2025
+UP454,ME/C Case 97C-337,07/12/1997,18.0,30.0,Fort Collins,Larimer,Colorado,Male,White / Caucasian,04/30/2025
+UP7173,ME/C Case 1997-0106,01/08/1997,20.0,25.0,Denver,Denver,Colorado,Male,"White / Caucasian, Hispanic / Latino",12/30/2024
+UP7172,ME/C Case 1996-0140,01/26/1996,30.0,45.0,Denver,Denver,Colorado,Male,"Hispanic / Latino, Asian, Hawaiian / Pacific Islander, Other, Uncertain",09/04/2024
+UP70566,ME/C Case 39C95,10/15/1995,17.0,36.0,Rural Clear Creek County,Clear Creek,Colorado,Female,White / Caucasian,11/03/2022
+UP112763,ME/C Case 1995-1734,08/15/1995,,,Denver,Denver,Colorado,Female,Uncertain,11/21/2024
+UP71876,ME/C Case 95-183,08/12/1995,,,Fort Lupton,Weld,Colorado,Male,Uncertain,10/19/2022
+UP4813,ME/C Case 94C-424,09/16/1994,25.0,35.0,Fort Collins,Larimer,Colorado,Male,"White / Caucasian, Hispanic / Latino",04/30/2025
+UP112762,ME/C Case 1994-1039,05/30/1994,,,Denver,Denver,Colorado,Female,White / Caucasian,11/13/2024
+UP16011,ME/C Case 94-349,01/08/1994,18.0,35.0,Brighton,Adams,Colorado,Female,"White / Caucasian, Hispanic / Latino, American Indian / Alaska Native",05/31/2024
+UP80453,ME/C Case 93-6357,11/29/1993,,,Breckenridge,Summit,Colorado,Female,"Hispanic / Latino, American Indian / Alaska Native",02/21/2024
+UP517,ME/C Case 1517-93-A,11/21/1993,25.0,45.0,Boulder,Boulder,Colorado,Male,White / Caucasian,09/04/2024
+UP516,ME/C Case 1445-93-A,10/10/1993,25.0,40.0,,Boulder,Colorado,Male,Black / African American,09/04/2024
+UP80454,,09/13/1992,,,Silverton,San Juan,Colorado,Male,White / Caucasian,05/17/2021
+UP11431,ME/C Case 91A-239,06/14/1991,40.0,60.0,Colorado Springs,El Paso,Colorado,Male,White / Caucasian,09/04/2024
+UP13758,ME/C Case 1990-1949,11/05/1990,30.0,40.0,Denver,Denver,Colorado,Male,White / Caucasian,09/04/2024
+UP13705,ME/C Case 89-2703,10/21/1989,,,Buena Vista,Chaffee,Colorado,Female,Uncertain,09/04/2024
+UP14603,ME/C Case A89-12,01/08/1989,,,Federal Heights,Adams,Colorado,Female,Uncertain,03/30/2021
+UP7170,ME/C Case 1988-1604,09/17/1988,60.0,70.0,Denver,Denver,Colorado,Male,White / Caucasian,09/04/2024
+UP60579,ME/C Case 19OR-2780,11/08/1987,,,Ouray,Ouray,Colorado,Unsure,Uncertain,02/13/2024
+UP16427,ME/C Case FCCO-87-188,06/20/1987,25.0,40.0,Unincorporated Fremont County,Fremont,Colorado,Female,White / Caucasian,03/03/2023
+UP7166,ME/C Case 1987-95629,06/07/1987,24.0,40.0,Denver,Denver,Colorado,Male,"Black / African American, Hawaiian / Pacific Islander",09/04/2024
+UP7167,ME/C Case 1987-94895,01/30/1987,25.0,35.0,Denver,Denver,Colorado,Male,Uncertain,09/04/2024
+UP11472,ME/C Case 86A-334,11/03/1986,30.0,40.0,Colorado Springs,El Paso,Colorado,Male,White / Caucasian,09/04/2024
+UP14617,ME/C Case A86-300,08/13/1986,,,Commerce City,Adams,Colorado,Female,White / Caucasian,09/04/2024
+UP12577,ME/C Case 08-0514,04/01/1986,,,Salida,Chaffee,Colorado,Unsure,Uncertain,09/04/2024
+UP14596,ME/C Case A85-00157,04/03/1985,50.0,60.0,,Adams,Colorado,Female,White / Caucasian,09/04/2024
+UP14597,ME/C Case A84-165,05/06/1984,,,,Adams,Colorado,Male,White / Caucasian,09/04/2024
+UP7163,ME/C Case 1983-87818,10/16/1983,20.0,30.0,Denver,Denver,Colorado,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP11387,ME/C Case F82A34,04/15/1982,50.0,50.0,Unincorporated Arapahoe County,Arapahoe,Colorado,Male,"White / Caucasian, American Indian / Alaska Native",09/17/2025
+UP145584,ME/C Case 1982-01620,03/04/1982,20.0,30.0,,Costilla,Colorado,Male,Uncertain,06/18/2025
+UP9272,ME/C Case 81-2352,09/10/1981,15.0,19.0,Unincorporated Chaffee County,Chaffee,Colorado,Male,White / Caucasian,09/19/2024
+UP7161,ME/C Case 1981-82214,03/21/1981,25.0,35.0,Denver,Denver,Colorado,Male,"White / Caucasian, Hispanic / Latino",08/01/2022
+UP14608,ME/C Case A80-296,09/12/1980,60.0,75.0,Commerce City,Adams,Colorado,Male,White / Caucasian,09/04/2024
+UP7160,ME/C Case 1980-80248,04/25/1980,40.0,50.0,Denver,Denver,Colorado,Male,"White / Caucasian, Hispanic / Latino",09/04/2024
+UP7158,ME/C Case 1979-78265,05/21/1979,30.0,50.0,Denver,Denver,Colorado,Male,White / Caucasian,09/04/2024
+UP7988,ME/C Case 77-2497,02/13/1977,18.0,30.0,Morrison,Jefferson,Colorado,Male,Uncertain,02/28/2025
+UP115978,ME/C Case 1973-17,09/16/1973,,,Dotsero,Eagle,Colorado,Male,White / Caucasian,04/08/2024
+UP9593,ME/C Case 72-6272,08/27/1972,17.0,23.0,Bailey,Jefferson,Colorado,Female,Uncertain,02/28/2025
+UP61120,ME/C Case 1971-129,08/21/1971,,,Boulder,Boulder,Colorado,Male,White / Caucasian,10/25/2019
+UP61119,ME/C Case 1971-95,06/20/1971,,,Boulder,Boulder,Colorado,Male,White / Caucasian,10/25/2019
+UP109614,ME/C Case 1970-60171,12/10/1970,,,Denver,Denver,Colorado,Male,White / Caucasian,12/13/2023
+UP81877,ME/C Case 1970-59552,09/08/1970,30.0,70.0,Denver,Denver,Colorado,Male,White / Caucasian,11/04/2021
+UP1807,ME/C Case 0851-03,01/01/1970,20.0,49.0,Durango,La Plata,Colorado,Female,Uncertain,09/04/2024
+UP9594,ME/C Case 66-3479,03/24/1966,0.0,1.0,Lakewood,Jefferson,Colorado,Male,White / Caucasian,10/01/2024
+UP14826,ME/C Case 14826,09/30/1952,,,,Gilpin,Colorado,Female,Uncertain,09/04/2024

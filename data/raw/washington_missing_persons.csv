@@ -1,0 +1,920 @@
+Case Number,DLC,Legal Last Name,Legal First Name,Missing Age,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+MP150619,09/20/2025,Thompson,Reid,33 Years,University Place,Pierce,WA,Male,White / Caucasian,09/29/2025
+MP150312,09/15/2025,Ray,Elyjiah,17 Years,South Hill,Pierce,WA,Male,White / Caucasian,09/26/2025
+MP149466,08/18/2025,Muhammad,Sheila,64 Years,Tukwila,King,WA,Female,Black / African American,08/25/2025
+MP150369,07/21/2025,Casas,Erick,17 Years,Tacoma,Pierce,WA,Male,Hispanic / Latino,09/26/2025
+MP149582,07/08/2025,Latimer,Christian,30 Years,Spanaway,Pierce,WA,Male,"Black / African American, White / Caucasian",08/28/2025
+MP147876,07/06/2025,Ballman,Harry,72 Years,Deer Park,Spokane,WA,Male,White / Caucasian,07/24/2025
+MP149566,04/17/2025,Unruh,Ronald,67 Years,Everett,Snohomish,WA,Male,White / Caucasian,10/01/2025
+MP144604,04/01/2025,Coleman,Christa,39 Years,Everett,Snohomish,WA,Female,White / Caucasian,06/17/2025
+MP141652,03/30/2025,Hoang,Jonathan,21 Years,Arlington,Snohomish,WA,Male,"Asian, White / Caucasian",09/05/2025
+MP142953,03/26/2025,Thieme,Kyle,25 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/27/2025
+MP150101,02/25/2025,Baker,Jerry,62 Years,Anacortes,Skagit,WA,Male,White / Caucasian,09/18/2025
+MP146954,02/21/2025,Davis,William,52 Years,Bremerton,Kitsap,WA,Male,Black / African American,07/01/2025
+MP148546,02/13/2025,Ford,Aniyah,17 Years,Tacoma,Pierce,WA,Female,Black / African American,07/30/2025
+MP139162,01/23/2025,Ortiz,Nowlien,28 Years,Tacoma,Pierce,WA,Male,Hawaiian / Pacific Islander,03/02/2025
+MP138985,01/19/2025,Zimmerman,Marley,27 Years,Port Angeles,Clallam,WA,Female,White / Caucasian,02/25/2025
+MP148590,12/31/2024,Moreno,Velena,48 Years,Spokane,Spokane,WA,Female,White / Caucasian,08/04/2025
+MP139983,12/28/2024,Athay,Hailey,33 Years,Kelso,Cowlitz,WA,Female,White / Caucasian,03/11/2025
+MP139871,12/20/2024,Pierce,Danielle,37 Years,Bremerton,Kitsap,WA,Female,Hispanic / Latino,05/05/2025
+MP150678,12/10/2024,Luellen,Marissa,35 Years,Renton,King,WA,Female,White / Caucasian,09/30/2025
+MP139660,11/26/2024,Wightman,Noah,17 Years,Spanaway,Pierce,WA,Male,White / Caucasian,03/06/2025
+MP139989,11/09/2024,Trull,Donny,60 Years,Castle Rock,Cowlitz,WA,Male,White / Caucasian,03/11/2025
+MP138825,10/03/2024,Hutton,Joni,70 Years,Chehalis,Lewis,WA,Female,White / Caucasian,02/26/2025
+MP131570,09/24/2024,Martin,William,88 Years,Malaga,Chelan,WA,Male,White / Caucasian,11/18/2024
+MP132305,09/01/2024,Bianco,Anthony,56 Years,Wapato,Yakima,WA,Male,White / Caucasian,11/04/2024
+MP141003,07/01/2024,Doake,James,57 Years,Des Moines,King,WA,Male,American Indian / Alaska Native,03/28/2025
+MP138122,06/10/2024,Florez,Rori,33 Years,Bremerton,Kitsap,WA,Female,"White / Caucasian, Hispanic / Latino",02/11/2025
+MP139872,05/30/2024,Parkman,Kevin,37 Years,Seattle,King,WA,Male,Black / African American,05/13/2025
+MP130087,05/27/2024,Webb,Robert,82 Years,Chattaroy,Spokane,WA,Male,White / Caucasian,09/27/2024
+MP130714,05/25/2024,He,Meihong,39 Years,Glenwood,Klickitat,WA,Female,Asian,10/03/2024
+MP123391,05/15/2024,Ketcham,Sean,43 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/02/2025
+MP122752,05/10/2024,Galvez,Dagoberto,33 Years,Pasco,Franklin,WA,Male,Hispanic / Latino,12/02/2024
+MP127839,05/01/2024,Skinner,NaVey,47 Years,Everett,Snohomish,WA,Female,White / Caucasian,09/11/2024
+MP131325,04/27/2024,Crockett,Curtis,37 Years,Federal Way,King,WA,Male,Black / African American,02/19/2025
+MP130449,04/25/2024,Hunter,Blake,30 Years,Bremerton,Kitsap,WA,Male,"Black / African American, Hispanic / Latino",07/08/2025
+MP143744,04/09/2024,Follstad,Kevin,41 Years,Anacortes,Skagit,WA,Male,White / Caucasian,08/12/2025
+MP132136,04/05/2024,Stanker,Emily,41 Years,Tacoma,Pierce,WA,Female,White / Caucasian,08/27/2025
+MP123853,04/02/2024,Abbott,Robert,62 Years,Spokane,Spokane,WA,Male,White / Caucasian,04/07/2025
+MP137615,03/27/2024,Hurt,David,45 Years,Tukwila,King,WA,Male,White / Caucasian,02/11/2025
+MP131514,02/25/2024,Fleming,Irene,31 Years,Quincy,Grant,WA,Female,White / Caucasian,02/24/2025
+MP118842,02/19/2024,Baker,Amy,38 Years,Spanaway,Pierce,WA,Female,White / Caucasian,07/31/2024
+MP131800,02/14/2024,Diaz,Yuliana,15 Years,Everett,Snohomish,WA,Female,"Hispanic / Latino, White / Caucasian",02/24/2025
+MP139520,02/11/2024,Bybee-Norman,Gwen,15 Years,Spanaway,Pierce,WA,Female,White / Caucasian,03/06/2025
+MP131026,02/09/2024,Holland,William,31 Years,Olalla,Kitsap,WA,Male,White / Caucasian,11/18/2024
+MP124682,02/03/2024,Miguel Lopez,Domingo,57 Years,Ferndale,Whatcom,WA,Male,Hispanic / Latino,05/06/2025
+MP113439,11/10/2023,Cox,James,66 Years,Quincy,Grant,WA,Male,White / Caucasian,02/12/2024
+MP147182,10/24/2023,Dang,Truong An,27 Years,Tacoma,Pierce,WA,Male,Asian,07/30/2025
+MP144105,10/23/2023,Bidlake,Eddy,62 Years,Grand Mound,Thurston,WA,Male,White / Caucasian,06/20/2025
+MP144099,10/23/2023,Adams,Brandon,34 Years,Shelton,Mason,WA,Male,American Indian / Alaska Native,09/16/2025
+MP121802,10/01/2023,Nestle,Zach,27 Years,Moses Lake,Grant,WA,Male,"White / Caucasian, Other",09/19/2025
+MP129479,09/09/2023,Blackner,Ann,66 Years,Seattle,King,WA,Female,White / Caucasian,01/08/2025
+MP124485,09/03/2023,Boyce,Michael,36 Years,Kirkland,King,WA,Male,White / Caucasian,01/08/2025
+MP124735,09/01/2023,Zenk,Collin,23 Years,Granite Falls,Snohomish,WA,Male,White / Caucasian,06/27/2024
+MP133553,08/09/2023,Casper,Keegan,34 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP149797,08/07/2023,Deng,Wicheng,21 Years,Bellevue,King,WA,Female,Black / African American,09/17/2025
+MP111221,08/01/2023,Carroll,Alana,32 Years,Battle Ground,Clark,WA,Female,White / Caucasian,03/05/2024
+MP107076,07/17/2023,Celestial,Daniel,14 Years,Spanaway,Pierce,WA,Male,Hawaiian / Pacific Islander,02/12/2024
+MP118032,07/17/2023,Lopez Chivalan,Nery,17 Years,Blaine,Whatcom,WA,Male,Hispanic / Latino,05/06/2025
+MP107330,07/07/2023,Keplin,Tyler,27 Years,Kettle Falls,Stevens,WA,Male,American Indian / Alaska Native,08/01/2025
+MP119812,07/04/2023,Aberilla,Edgar,72 Years,Bellingham,Skagit,WA,Male,Asian,07/15/2024
+MP107745,07/02/2023,Tucker,Billy,72 Years,Spanaway,Pierce,WA,Male,White / Caucasian,11/05/2024
+MP109812,06/30/2023,Richardson,Kent,47 Years,White Salmon,Klickitat,WA,Male,White / Caucasian,03/26/2024
+MP111771,06/26/2023,Feltus,Scott,56 Years,Silverdale,Kitsap,WA,Male,White / Caucasian,02/24/2025
+MP116821,04/22/2023,Coleman,Travis,38 Years,Wenatchee,Chelan,WA,Male,White / Caucasian,01/31/2025
+MP103280,04/21/2023,Gamble,Mikayla,25 Years,Concrete,Skagit,WA,Female,White / Caucasian,09/09/2025
+MP107954,04/20/2023,Harris,Philip,49 Years,Vancouver,Clark,WA,Male,White / Caucasian,09/19/2024
+MP116360,04/19/2023,Crazymule,Willard,54 Years,Spokane,Spokane,WA,Male,American Indian / Alaska Native,01/08/2025
+MP102778,04/17/2023,Ash,Michael,35 Years,Renton,King,WA,Male,White / Caucasian,01/08/2025
+MP109345,04/06/2023,Arnold,Steve,43 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP116772,04/02/2023,Moses,Nicholas,52 Years,Tukwila,King,WA,Male,American Indian / Alaska Native,02/22/2024
+MP106794,03/24/2023,Brewer,Danny,72 Years,Sequim,Clallam,WA,Male,White / Caucasian,09/24/2025
+MP103670,03/09/2023,Barton,Stephen,54 Years,Rochester,Thurston,WA,Male,White / Caucasian,02/22/2025
+MP101830,03/07/2023,Reed lll,Rayford,14 Years,Sequim,Clallam,WA,Male,Black / African American,11/21/2024
+MP105127,02/18/2023,Carson,Chance,29 Years,Omak,Okanogan,WA,Male,American Indian / Alaska Native,01/08/2025
+MP127026,02/16/2023,Wells,Eric,36 Years,Yelm,Thurston,WA,Male,White / Caucasian,12/27/2024
+MP104379,02/10/2023,Latham,Roderick,83 Years,Snohomish,Snohomish,WA,Male,White / Caucasian,01/06/2025
+MP100565,02/05/2023,Fitch,Bryson,24 Years,Bay Center,Pacific,WA,Male,White / Caucasian,07/16/2024
+MP100589,01/26/2023,Lewis,Michael,42 Years,Shelton,Mason,WA,Male,White / Caucasian,01/28/2025
+MP109811,01/21/2023,Salazar,Latoya,38 Years,Yakima,Yakima,WA,Female,Hispanic / Latino,05/16/2025
+MP102813,01/08/2023,Power,Justin,41 Years,Friday Harbor,San Juan,WA,Male,White / Caucasian,12/26/2024
+MP100654,01/04/2023,Cottle,Crystal,58 Years,Ridgefield,Clark,WA,Female,White / Caucasian,01/08/2025
+MP120299,10/31/2022,Karels,Allisa,62 Years,Granite Falls,Snohomish,WA,Female,White / Caucasian,02/24/2025
+MP100907,10/30/2022,Macke,Laura,35 Years,Quinault,Grays Harbor,WA,Female,White / Caucasian,03/03/2023
+MP97497,10/17/2022,Boyd,Rio,21 Years,Spanaway,Pierce,WA,Female,White / Caucasian,01/08/2025
+MP98504,09/24/2022,Johnson,Joseph,16 Years,Roy,Pierce,WA,Male,White / Caucasian,01/28/2023
+MP149501,09/09/2022,Turley,Erin,42 Years,Tukwila,King,WA,Female,White / Caucasian,08/28/2025
+MP120635,08/20/2022,Cox,Ian,29 Years,Newhalem,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP123325,08/15/2022,Stacy,Steven,29 Years,Kelso,Cowlitz,WA,Male,White / Caucasian,07/30/2024
+MP103848,08/03/2022,Scranton,John,68 Years,Richland,Benton,WA,Male,White / Caucasian,06/05/2023
+MP123797,08/02/2022,Pappert,Samantha,25 Years,Everett,Snohomish,WA,Female,White / Caucasian,06/18/2024
+MP102412,08/01/2022,Emr,Kevin,35 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP105441,07/22/2022,Atchley,Toni,54 Years,Kennewick,Benton,WA,Female,White / Caucasian,01/08/2025
+MP103862,06/27/2022,Noordmans,Todd,55 Years,Ferndale,Whatcom,WA,Male,White / Caucasian,05/29/2025
+MP94023,06/14/2022,Anderson,Douglas,66 Years,Marysville,Snohomish,WA,Male,White / Caucasian,08/02/2023
+MP93565,06/09/2022,Milton,Melvin,89 Years,Tacoma,Pierce,WA,Male,White / Caucasian,12/08/2023
+MP96963,05/13/2022,Jones,Odessa,39 Years,Seattle,King,WA,Female,American Indian / Alaska Native,02/12/2024
+MP92483,05/04/2022,Hewankorn,Kenneth,41 Years,Mukilteo,Snohomish,WA,Male,White / Caucasian,10/11/2022
+MP96208,04/15/2022,Mora,Esmerelda,16 Years,Omak,Okanogan,WA,Female,"Hispanic / Latino, American Indian / Alaska Native",02/21/2025
+MP104313,04/08/2022,Perrin,Hans,39 Years,Acme,Whatcom,WA,Male,White / Caucasian,05/28/2025
+MP90887,03/14/2022,Stevens,Ryker,15 Years,Spanaway,Pierce,WA,Male,White / Caucasian,11/22/2024
+MP135104,02/10/2022,Richter,Kevin,32 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,01/24/2025
+MP134139,02/01/2022,Zendejas,Esmeralda,48 Years,Seattle,Yakima,WA,Female,Hispanic / Latino,03/03/2025
+MP91575,01/27/2022,Northcutt,Benjamin,39 Years,Tacoma,Pierce,WA,Male,"White / Caucasian, Asian",11/14/2024
+MP90475,01/21/2022,Spear,Aidan,21 Years,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,10/24/2023
+MP102962,01/05/2022,Reoh,Matthew,56 Years,Lake Stevens,Snohomish,WA,Male,White / Caucasian,07/30/2025
+MP87899,12/07/2021,Leming,Austin,36 Years,Kent,King,WA,Male,White / Caucasian,07/29/2024
+MP89583,11/24/2021,Zazueta,Zachary,28 Years,Shelton,Mason,WA,Male,"White / Caucasian, Hispanic / Latino, American Indian / Alaska Native",09/10/2025
+MP87443,10/24/2021,Busev,Pavel,31 Years,Kennewick,Benton,WA,Male,White / Caucasian,03/21/2024
+MP85623,10/02/2021,Naranjo,Rafael,83 Years,Pasco,Franklin,WA,Male,Hispanic / Latino,11/21/2024
+MP90558,10/01/2021,Peterson,Scott,44 Years,Spokane,Spokane,WA,Male,White / Caucasian,11/21/2024
+MP84659,09/15/2021,Cannon,Eleanor,20 Years,Oak Harbor,Island,WA,Female,White / Caucasian,08/08/2023
+MP88231,09/02/2021,Kalles,John,81 Years,Shelton,Mason,WA,Male,White / Caucasian,01/21/2022
+MP99412,08/15/2021,Tumarkin,Paul,70 Years,Amanda Park,Grays Harbor,WA,Male,White / Caucasian,11/22/2024
+MP97911,08/12/2021,Brettler,Cindy,67 Years,Seattle,King,WA,Female,White / Caucasian,12/20/2023
+MP91858,07/22/2021,Gentles,Andre,37 Years,Tacoma,Pierce,WA,Male,Black / African American,11/14/2024
+MP85181,07/08/2021,Nasworthy,William,40 Years,Auburn,King,WA,Male,White / Caucasian,04/11/2022
+MP84050,07/04/2021,Freday,John,25 Years,Concrete,Skagit,WA,Male,White / Caucasian,03/21/2024
+MP88973,06/03/2021,Hollifield,Joseph,27 Years,Darrington,Skagit,WA,Male,White / Caucasian,03/08/2024
+MP81629,05/10/2021,Brito,Pedro,41 Years,Wenatchee,Chelan,WA,Male,Hispanic / Latino,01/12/2024
+MP104986,04/21/2021,Castro,Logan,35 Years,Seattle,King,WA,Male,American Indian / Alaska Native,01/08/2025
+MP132542,04/01/2021,Matthews,Brandon,33 Years,Port Orchard,Kitsap,WA,Male,Black / African American,11/04/2024
+MP85622,03/10/2021,Akin,Akin,43 Years,Tacoma,Pierce,WA,Male,Other,01/08/2025
+MP89500,02/25/2021,Soto,Viridiana,15 Years,Bonney Lake,Pierce,WA,Female,Hispanic / Latino,12/27/2024
+MP91533,02/10/2021,Carlson,Oakley,4 Years,Oakville,Grays Harbor,WA,Female,White / Caucasian,01/08/2025
+MP91939,02/02/2021,Lehr,Daniel,58 Years,Kirkland,King,WA,Male,White / Caucasian,02/18/2025
+MP87022,01/27/2021,Nuckles,Andrea,59 Years,Sunnyside,Yakima,WA,Female,White / Caucasian,11/21/2024
+MP78611,01/13/2021,Chase,Austin,36 Years,Carbonado,Pierce,WA,Male,White / Caucasian,10/16/2024
+MP120631,01/11/2021,Blok,Jesi,18 Years,Lynden,Whatcom,WA,Female,American Indian / Alaska Native,05/06/2025
+MP107396,01/10/2021,Jarman,Christopher,31 Years,Everett,Snohomish,WA,Male,White / Caucasian,07/30/2024
+MP77242,01/06/2021,Lerner,Nathan,30 Years,Carbonado,Pierce,WA,Male,White / Caucasian,03/21/2024
+MP91872,01/01/2021,Hammond,Christian,31 Years,Tukwila,King,WA,Male,Black / African American,02/20/2025
+MP81625,01/01/2021,Isoldi,Erik,36 Years,Leavenworth,Chelan,WA,Male,White / Caucasian,06/25/2021
+MP107492,12/21/2020,Riedlinger,Elijah,44 Years,Everett,Snohomish,WA,Male,White / Caucasian,11/21/2024
+MP106237,12/08/2020,Prouty,Devin,38 Years,Goldendale,Klickitat,WA,Male,White / Caucasian,05/20/2025
+MP78178,11/29/2020,Gooldy,Ian,45 Years,Kennewick,Benton,WA,Male,White / Caucasian,02/19/2025
+MP76879,11/24/2020,Johnson,Mary,39 Years,Tulalip,Snohomish,WA,Female,American Indian / Alaska Native,04/19/2024
+MP76363,11/15/2020,Geyer,Guy,61 Years,Chewelah,Stevens,WA,Male,White / Caucasian,10/06/2022
+MP74986,10/09/2020,Dubal,Sam,33 Years,Ashford,Pierce,WA,Male,Other,10/06/2025
+MP79106,10/08/2020,Pisch,Alexander,35 Years,Diablo,,WA,Male,White / Caucasian,06/17/2025
+MP74359,09/27/2020,Nepon,Brendon,37 Years,Snoqualmie Pass,King,WA,Male,White / Caucasian,12/27/2024
+MP74105,09/10/2020,Westbrook,Laynee,41 Years,Anacortes,Skagit,WA,Female,White / Caucasian,08/04/2025
+MP74489,09/06/2020,McKnight,Ian,29 Years,Bremerton,King,WA,Male,White / Caucasian,08/22/2024
+MP144605,09/01/2020,Adams,Jessica,44 Years,Kennewick,Benton,WA,Female,White / Caucasian,07/30/2025
+MP78196,07/25/2020,Tago,Precious-Grace,28 Years,Tukwila,King,WA,Female,Hawaiian / Pacific Islander,09/19/2024
+MP82413,07/20/2020,Baumann,Shirley,61 Years,North Bend,King,WA,Female,White / Caucasian,09/19/2024
+MP72681,07/06/2020,Gerard,Robert,93 Years,Centralia,Lewis,WA,Male,White / Caucasian,08/11/2025
+MP71044,06/19/2020,Djie,Vincent,24 Years,Ashford,Pierce,WA,Male,Asian,05/09/2024
+MP106205,06/01/2020,Croft,Daniel,38 Years,Arlington,Snohomish,WA,Male,White / Caucasian,02/22/2025
+MP93396,05/17/2020,Eckles,Ian,41 Years,Liberty,Kittitas,WA,Male,White / Caucasian,02/25/2025
+MP70152,05/07/2020,Parrish,Kawika,36 Years,Tacoma,Pierce,WA,Male,Hawaiian / Pacific Islander,07/15/2021
+MP68816,04/29/2020,Bruner,Hunter,24 Years,Joint Base Lewis-McChord,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP72614,04/15/2020,Slocum,Brent,35 Years,Spokane,Spokane,WA,Male,White / Caucasian,03/31/2021
+MP74316,04/06/2020,Westlake,Michael,37 Years,Spokane,Spokane,WA,Male,White / Caucasian,09/18/2025
+MP90763,03/19/2020,Ross,Kacy,33 Years,Spokane,Spokane,WA,Female,American Indian / Alaska Native,03/18/2024
+MP126572,03/09/2020,Albright,Edmund,49 Years,Seattle,King,WA,Male,White / Caucasian,01/02/2025
+MP92756,03/01/2020,Berg,Tammy,55 Years,Kennewick,Benton,WA,Female,White / Caucasian,05/03/2024
+MP74973,02/13/2020,Wilbon,Asia,16 Years,Kent,King,WA,Female,Black / African American,01/05/2025
+MP66261,02/09/2020,Fortenberry,Michael,31 Years,Carbonado,Pierce,WA,Male,White / Caucasian,05/05/2022
+MP91284,01/29/2020,Faigin,Benjamin,23 Years,Tacoma,Pierce,WA,Male,White / Caucasian,02/25/2025
+MP65404,01/14/2020,Dean,Matthew,38 Years,Clallam Bay,Clallam,WA,Male,American Indian / Alaska Native,08/28/2025
+MP67452,12/31/2019,Johnson,Stephen,71 Years,Randle,Lewis,WA,Male,White / Caucasian,09/05/2025
+MP64425,12/19/2019,Claytor,Laurel,64 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/21/2023
+MP107345,12/11/2019,John,Ndayisaba,19 Years,Everett,Snohomish,WA,Male,Black / African American,05/28/2024
+MP89872,10/24/2019,Wilken,Whitney,31 Years,Lacey,Thurston,WA,Female,White / Caucasian,01/12/2024
+MP118005,10/20/2019,Saling,Nickolas,53 Years,Lummi Island,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP68466,10/15/2019,Johnston,John,42 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,06/18/2020
+MP63554,10/07/2019,Simiskey,Joshua,41 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,08/22/2024
+MP62366,08/25/2019,Howe,Phyllis,61 Years,Port Angeles,Clallam,WA,Female,White / Caucasian,12/16/2020
+MP75333,08/18/2019,Brace,Casey,75 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,08/21/2025
+MP59811,07/18/2019,Hayes,Thomas,41 Years,Long Beach,Pacific,WA,Male,Hispanic / Latino,03/21/2024
+MP60604,07/06/2019,Chirinos Maradiaga,Erin,16 Years,Mountlake Terrace,Snohomish,WA,Male,Hispanic / Latino,07/12/2023
+MP59424,07/03/2019,McAlister,Heather,27 Years,Goldendale,Klickitat,WA,Female,White / Caucasian,01/14/2021
+MP58725,06/30/2019,Lundy,Susan,58 Years,Olympia,Thurston,WA,Female,White / Caucasian,07/21/2025
+MP62474,06/30/2019,Nelson-Jerry,Kaylee,21 Years,Auburn,King,WA,Female,American Indian / Alaska Native,07/24/2024
+MP108510,06/19/2019,Antunez-Vargas,Jose,17 Years,Renton,King,WA,Male,Hispanic / Latino,01/08/2025
+MP106478,06/01/2019,Goodrich,Christy,64 Years,Issaquah,King,WA,Female,White / Caucasian,01/29/2024
+MP63581,04/23/2019,Collins,Ritchie,58 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP57683,04/01/2019,Rzesutek,Kyle,30 Years,Tacoma,Pierce,WA,Male,White / Caucasian,09/02/2020
+MP58219,03/16/2019,Denault,Raymond,38 Years,Oakville,Grays Harbor,WA,Male,White / Caucasian,05/25/2023
+MP56647,02/28/2019,Anfeldt,Matthew,20 Years,Rochester,Thurston,WA,Male,White / Caucasian,06/19/2025
+MP61769,01/18/2019,Jenkins,Turner,31 Years,Bainbridge Island,Kitsap,WA,Male,White / Caucasian,05/06/2025
+MP63825,12/27/2018,Culps,Elias,24 Years,White Swan,Yakima,WA,Male,American Indian / Alaska Native,03/18/2024
+MP55711,12/25/2018,Graves,Jerry,69 Years,Clarkston,Asotin,WA,Male,White / Caucasian,11/04/2019
+MP55486,12/22/2018,Tegerdine,Heather,41 Years,Sequim,Clallam,WA,Female,White / Caucasian,01/12/2024
+MP56181,12/15/2018,Rich,Nathan,24 Years,Pasco,Franklin,WA,Male,White / Caucasian,06/19/2025
+MP74357,11/16/2018,Darwin,Billy,39 Years,Custer,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP51798,08/01/2018,Sayers,Samantha,27 Years,Mount Baker-Snoqualmie National Forest,Snohomish,WA,Female,White / Caucasian,05/25/2023
+MP75366,07/30/2018,Escalante Ordonez,Leticia,16 Years,Bremerton,Kitsap,WA,Female,"Hispanic / Latino, Other",07/08/2025
+MP61192,07/22/2018,Donais,Joseph,54 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/13/2024
+MP52070,07/07/2018,Canales,Jose,43 Years,Harrah,Yakima,WA,Male,Hispanic / Latino,08/22/2024
+MP50894,06/22/2018,Haije,Sharran,78 Years,Gig Harbor,Pierce,WA,Female,White / Caucasian,05/25/2023
+MP52458,06/18/2018,Choc-Chum,Barbara,16 Years,Kirkland,King,WA,Female,Hispanic / Latino,05/25/2023
+MP50435,05/25/2018,Faubert,Jean-Marc,28 Years,Whidbey Island,Island,WA,Male,White / Caucasian,05/25/2023
+MP52344,05/13/2018,Sarkkinen,Robert,56 Years,Battleground,Clark,WA,Male,White / Caucasian,05/25/2023
+MP53018,05/11/2018,Snarski,Paul,40 Years,Auburn,King,WA,Male,White / Caucasian,04/09/2024
+MP50268,05/09/2018,Hammer,Jeffrey,23 Years,Brewster,Okanogan,WA,Male,White / Caucasian,01/12/2024
+MP119416,05/02/2018,Wanzek,Mikko,29 Years,Battle Ground,Clark,WA,Male,White / Caucasian,07/23/2025
+MP57695,05/01/2018,Betty,Karl,23 Years,Walla Walla,Walla Walla,WA,Male,White / Caucasian,06/27/2025
+MP117243,04/12/2018,Hays,Timothy,52 Years,Des Moines,King,WA,Male,White / Caucasian,03/18/2024
+MP69379,04/01/2018,Galloway,Jesse,38 Years,Seattle,King,WA,Male,White / Caucasian,08/05/2024
+MP64349,04/01/2018,Holden,Courtney,26 Years,Spokane,Spokane,WA,Female,American Indian / Alaska Native,02/01/2024
+MP79190,03/10/2018,Mongrain,Kathleen,49 Years,Seattle,King,WA,Female,White / Caucasian,11/21/2024
+MP55866,03/03/2018,Tafesse,Maereg,24 Years,Seattle,King,WA,Male,Black / African American,01/12/2024
+MP53755,01/17/2018,Lagrou,Antonio,29 Years,Spokane,Spokane,WA,Male,"White / Caucasian, Hispanic / Latino",06/13/2025
+MP72371,12/29/2017,Pagel,Jennifer,38 Years,Olympia,Thurston,WA,Female,White / Caucasian,06/15/2022
+MP97268,12/14/2017,Urbick,Frank,62 Years,Everett,Snohomish,WA,Male,White / Caucasian,12/05/2023
+MP74001,12/14/2017,Fowler,Bobby,34 Years,Arberdeen,Grays Harbor,WA,Male,White / Caucasian,11/14/2023
+MP42056,12/12/2017,Seybold,Jessica,39 Years,Arlington,Snohomish,WA,Female,White / Caucasian,01/12/2024
+MP139914,11/24/2017,Oporto Chacon,Apolinar,32 Years,Aberdeen,Grays Harbor,WA,Male,Hispanic / Latino,04/28/2025
+MP77167,10/06/2017,Sutton,William,53 Years,Stevenson,Skamania,WA,Male,White / Caucasian,11/22/2024
+MP120295,10/01/2017,WATCHIE,MICHAEL,64 Years,Gold Bar,Snohomish,WA,Male,White / Caucasian,06/10/2024
+MP41879,10/01/2017,Grauman Jr.,Ricky,41 Years,Westport,Grays Harbor,WA,Male,White / Caucasian,01/12/2024
+MP75556,09/27/2017,Ferguson,Carol,83 Years,Bremerton,Kitsap,WA,Female,White / Caucasian,07/08/2025
+MP43367,09/16/2017,Gutierrez,Rolando,44 Years,Mabton,Yakima,WA,Male,"White / Caucasian, Hispanic / Latino",05/25/2023
+MP78009,07/20/2017,Medina,Jean,24 Years,Tacoma,Pierce,WA,Male,"Hispanic / Latino, Black / African American",11/21/2024
+MP41097,06/29/2017,Johnson,Wilford,90 Years,Longview,Cowlitz,WA,Male,White / Caucasian,05/25/2023
+MP39601,06/23/2017,Goodell,Thomas,31 Years,Oak Harbor,Island,WA,Male,White / Caucasian,04/17/2024
+MP74847,06/17/2017,Verdugo,Matthew,32 Years,Everett,Snohomish,WA,Male,White / Caucasian,11/25/2024
+MP38431,05/22/2017,Kittler,Michael,38 Years,Gig Harbor,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP42429,04/11/2017,Walker,Brittany,19 Years,Fife,Pierce,WA,Female,White / Caucasian,01/12/2024
+MP37906,03/31/2017,Cleveland,Daniel,35 Years,Index,Snohomish,WA,Male,White / Caucasian,01/12/2024
+MP71830,02/21/2017,Renard,Todd,28 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,11/21/2024
+MP84091,02/11/2017,O'Leary,Daniel,31 Years,Parkland,Pierce,WA,Male,White / Caucasian,11/26/2021
+MP37537,01/15/2017,Wood,Michael,62 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/25/2023
+MP36697,12/24/2016,Rozario,Matthew,22 Years,Mount Vernon,Skagit,WA,Male,White / Caucasian,05/25/2023
+MP37426,12/12/2016,Neill,Antonio,22 Years,Everett,Snohomish,WA,Male,White / Caucasian,01/12/2024
+MP36573,11/05/2016,Quiba,Bernard,48 Years,Bothell,Snohomish,WA,Male,Uncertain,03/22/2025
+MP91283,10/28/2016,Middleton,Jerry,47 Years,Seattle,King,WA,Male,White / Caucasian,11/21/2024
+MP36684,10/18/2016,Knowshisgun,Freda,34 Years,Kennewick,Benton,WA,Female,American Indian / Alaska Native,07/29/2024
+MP36024,10/13/2016,Spohr,Erik,38 Years,Buckley,Pierce,WA,Male,White / Caucasian,05/14/2025
+MP35945,10/12/2016,Fowler,Kris,34 Years,White Pass,Yakima,WA,Male,White / Caucasian,05/25/2023
+MP36338,10/10/2016,Wagner,Christine,67 Years,Olympia,Thurston,WA,Female,White / Caucasian,05/25/2023
+MP37064,10/04/2016,Hyasman,Jerry,55 Years,Copalis Beach,Grays Harbor,WA,Male,American Indian / Alaska Native,03/18/2024
+MP64474,10/01/2016,Bohland,Amery,24 Years,Spokane,Spokane,WA,Female,Asian,09/01/2022
+MP71734,10/01/2016,Hale,Bradley,35 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/25/2023
+MP35924,09/28/2016,Burns,Jefferey,61 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/25/2023
+MP103190,09/12/2016,Critser,Reeba,38 Years,Seattle,King,WA,Female,Other,06/21/2023
+MP77952,09/07/2016,Han,Sarah,25 Years,Long Beach,Pacific,WA,Female,Asian,03/23/2021
+MP34550,07/06/2016,Garcia,Michael,47 Years,Colfax,Whitman,WA,Male,American Indian / Alaska Native,03/18/2024
+MP34388,06/20/2016,Rubio-Montejano,Jessie,23 Years,Wenatchee,Chelan,WA,Female,White / Caucasian,01/12/2024
+MP40075,06/08/2016,Haggard,Jamie,27 Years,Kenmore,King,WA,Female,White / Caucasian,05/25/2023
+MP34013,06/02/2016,Doyle,Gail,60 Years,Olympia,Thurston,WA,Female,White / Caucasian,01/12/2024
+MP34031,05/26/2016,Miranda Jr.,Joseph,23 Years,Granger,Yakima,WA,Male,Hispanic / Latino,01/12/2024
+MP67454,05/25/2016,Lebeau,Myrna,55 Years,Mossyrock,Lewis,WA,Female,White / Caucasian,05/25/2023
+MP38412,05/24/2016,Perecz,Brandon,28 Years,Sultan,Snohomish,WA,Male,White / Caucasian,03/04/2025
+MP34124,05/19/2016,Schiendelman,Logan,19 Years,Tumwater,Thurston,WA,Male,Black / African American,07/18/2024
+MP35258,05/12/2016,Schofield,Douglas,67 Years,Centralia,Lewis,WA,Male,White / Caucasian,01/12/2024
+MP34399,04/19/2016,Christensen,Tyler,16 Years,Edmonds,Snohomish,WA,Male,White / Caucasian,02/25/2025
+MP63579,04/17/2016,Smith,Michael,47 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP34598,04/12/2016,Chen,Qundan,26 Years,Seattle,King,WA,Female,Asian,01/08/2025
+MP33570,04/01/2016,Dhanani,Rizwan,46 Years,Redmond,King,WA,Male,Other,05/28/2025
+MP42389,03/31/2016,Mcerlean,Kevin,42 Years,Aberdeen,Grays Harbor,WA,Male,White / Caucasian,01/12/2024
+MP39439,03/11/2016,Woodward,Jonathan,36 Years,Des Moines,King,WA,Male,White / Caucasian,01/12/2024
+MP145935,03/10/2016,Gilleland,Jennifer,29 Years,Everett,Snohomish,WA,Female,White / Caucasian,08/27/2025
+MP32929,03/07/2016,Posadas,Adam,30 Years,Seattle,King,WA,Male,Asian,05/25/2023
+MP37100,01/05/2016,Kuroda,Maria,48 Years,Seattle,King,WA,Female,Asian,05/25/2023
+MP32262,12/11/2015,Milton,Joshua,36 Years,Bothell,King,WA,Male,White / Caucasian,05/25/2023
+MP124600,12/08/2015,Eberli,Andrew,42 Years,Acme,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP32263,12/03/2015,Snow,Bret,32 Years,Spokane,Spokane,WA,Male,White / Caucasian,05/06/2025
+MP35295,11/17/2015,Lemmon,Levi,34 Years,Vashon Island,King,WA,Male,White / Caucasian,03/13/2025
+MP32345,11/03/2015,Hastings,Deanne,35 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/06/2025
+MP32157,10/26/2015,Andersen,William,54 Years,Brainbridge Island,Kitsap,WA,Male,White / Caucasian,05/25/2023
+MP30727,09/17/2015,Oldfield II,Glen,39 Years,Lone Butte,Skamania,WA,Male,White / Caucasian,01/12/2024
+MP33166,09/11/2015,Kearns,Chrysti,37 Years,Tacoma,Pierce,WA,Female,White / Caucasian,01/12/2024
+MP31475,07/26/2015,Turner,Cody,24 Years,Yakima,Yakima,WA,Male,White / Caucasian,06/13/2024
+MP29570,07/21/2015,Foco,Jeremiah,34 Years,Bellevue,King,WA,Male,White / Caucasian,05/26/2023
+MP31304,07/10/2015,Stotz,Chad,36 Years,Yakima,Yakima,WA,Male,"White / Caucasian, Hispanic / Latino",01/12/2024
+MP30726,07/05/2015,Feider,Jon,52 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP34122,07/04/2015,Foster,Douglas,47 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP30736,06/30/2015,Longee,Rosalita,18 Years,Wapato,Yakima,WA,Female,American Indian / Alaska Native,03/18/2024
+MP29283,06/26/2015,Sutherland,Michael,20 Years,Shoreline,King,WA,Male,White / Caucasian,09/19/2024
+MP29885,06/09/2015,Tilton,David,60 Years,Trout Lake,Klickitat,WA,Male,White / Caucasian,05/26/2023
+MP28387,04/11/2015,Miller,Brison,18 Years,University Place,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP28682,01/26/2015,"Alexander, Jr.",Robert,65 Years,Fox Island,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP27858,01/15/2015,Schmidt,Wolfram,50 Years,Redmond,King,WA,Male,White / Caucasian,09/19/2024
+MP56618,01/14/2015,Hayes,Nathan,38 Years,Seattle,King,WA,Male,White / Caucasian,09/08/2020
+MP127418,01/01/2015,Pleiss,Randal,53 Years,Battle Ground,Clark,WA,Male,White / Caucasian,11/21/2024
+MP36730,01/01/2015,McConville,Justin,24 Years,Toppenish,Yakima,WA,Male,American Indian / Alaska Native,11/21/2024
+MP78212,11/25/2014,Harvey,Dean,49 Years,Friday Harbor,San Juan,WA,Male,American Indian / Alaska Native,05/06/2025
+MP30608,11/14/2014,Firth,Wesley,19 Years,Vancouver,Clark,WA,Male,White / Caucasian,07/09/2024
+MP27677,11/11/2014,Walker,"John ""Clint""",48 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP34860,11/06/2014,Potter,Julia,6 Years,Seattle,King,WA,Female,White / Caucasian,06/07/2023
+MP26533,10/15/2014,Venkatesh,Krishna,27 Years,Oak Harbor,Island,WA,Male,Other,06/02/2023
+MP50513,10/01/2014,Peters,Anthony,56 Years,Yakima,Yakima,WA,Male,American Indian / Alaska Native,12/11/2024
+MP96298,10/01/2014,Flores Fernandez,Saul,40 Years,Seattle,King,WA,Male,Hispanic / Latino,11/04/2022
+MP26142,09/10/2014,Elford,Victor,84 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/26/2023
+MP25791,08/19/2014,Uber,Christopher,54 Years,Gig Harbor,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP26672,07/25/2014,Koltsov,Sergey,22 Years,Seattle,King,WA,Male,White / Caucasian,01/12/2024
+MP27759,07/10/2014,VanderHouwen,Joseph,25 Years,Lynnwood,Snohomish,WA,Male,White / Caucasian,11/06/2024
+MP26144,07/07/2014,Harper,Dennis,55 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,09/27/2024
+MP38060,07/01/2014,Williams,Tilana,20 Years,Auburn,King,WA,Female,Asian,05/26/2023
+MP55448,06/30/2014,Welling,Tyler,26 Years,Tracyton,Kitsap,WA,Male,White / Caucasian,03/14/2024
+MP144080,06/13/2014,Baker Dizon,Jaidyn,5 Years,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,07/08/2025
+MP27708,06/11/2014,Nations,Dustin,39 Years,Concrete,Skagit,WA,Male,White / Caucasian,01/12/2024
+MP34628,06/04/2014,Leslie,Kenneth,46 Years,Bridgeport,Okanogan,WA,Male,White / Caucasian,01/12/2024
+MP33193,05/25/2014,Lomakin,David,22 Years,Lake Stevens,Snohomish,WA,Male,White / Caucasian,01/12/2024
+MP28356,04/29/2014,Soderberg,Robert,52 Years,Seattle,King,WA,Male,White / Caucasian,06/07/2023
+MP32871,04/28/2014,Vanzandt,Donna,32 Years,Neilton,Grays Harbor,WA,Female,White / Caucasian,01/12/2024
+MP137208,04/25/2014,Appel,Owen,36 Years,Everett,Snohomish,WA,Male,White / Caucasian,09/23/2025
+MP27122,04/04/2014,Dyer,Joyce,54 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP24542,03/27/2014,Healy,Tyler,24 Years,Tacoma,Pierce,WA,Male,White / Caucasian,04/17/2024
+MP117926,03/12/2014,Needler,Allan,67 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP25421,02/15/2014,Schmidt,Gina,48 Years,Centralia,Lewis,WA,Female,White / Caucasian,05/26/2023
+MP25877,01/10/2014,Billman,Steven,26 Years,Rochester,Thurston,WA,Male,White / Caucasian,06/07/2023
+MP23411,01/01/2014,Bernal-Valenzuela,Joaquin,45 Years,Orondo,Chelan,WA,Male,"White / Caucasian, Hispanic / Latino",06/02/2023
+MP23034,11/21/2013,Sconawah,Roland,23 Years,Dallesport,Klickitat,WA,Male,American Indian / Alaska Native,03/19/2024
+MP23217,11/12/2013,Bennett,Willard,73 Years,Olympia,Thurston,WA,Male,White / Caucasian,05/26/2023
+MP42430,11/10/2013,Mayer,Ryan,33 Years,Olympia,Thurston,WA,Male,White / Caucasian,12/30/2024
+MP23284,10/21/2013,Canfield,Kayann,24 Years,Wapato,Yakima,WA,Female,White / Caucasian,08/22/2024
+MP24763,10/05/2013,Lovelady,Jason,38 Years,Marblemount,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP59386,10/03/2013,Rios-Gonzalez,Esthela,30 Years,Toppenish,Yakima,WA,Female,Hispanic / Latino,08/22/2024
+MP23678,09/29/2013,Zitzewitz,Kristopher,31 Years,Gifford Pinchot National Forest,Skamania,WA,Male,White / Caucasian,05/05/2025
+MP22614,09/22/2013,Bacon,Gregory,66 Years,Edmonds,Snohomish,WA,Male,White / Caucasian,05/26/2023
+MP72640,09/13/2013,Mohammad,Iqbal,24 Years,Woodinville,King,WA,Male,Asian,09/19/2024
+MP96455,07/25/2013,Morness Kawabata,Maximus,5 Years,Kirkland,King,WA,Male,"White / Caucasian, Asian",02/02/2023
+MP20715,06/09/2013,Kelly,Maureen,19 Years,Cougar,Skamania,WA,Female,Asian,01/12/2024
+MP23131,06/08/2013,Hendrickson,Hildegard,79 Years,Leavenworth,Chelan,WA,Female,White / Caucasian,05/26/2023
+MP21439,05/10/2013,Viorato-Rodriguez,Alex,16 Years,Kelso,Cowlitz,WA,Male,"White / Caucasian, Hispanic / Latino",05/26/2023
+MP20274,04/11/2013,Todd,Robert,20 Years,Auburn,King,WA,Male,White / Caucasian,01/12/2024
+MP20507,02/21/2013,Perez-Gonzalez,Ener,43 Years,Aberdeen,Grays Harbor,WA,Male,"Hispanic / Latino, Uncertain",01/12/2024
+MP19272,01/03/2013,Ruppert,Kurt,29 Years,North Bend,King,WA,Male,White / Caucasian,09/19/2024
+MP83725,12/28/2012,Thorsteinson,Lawrence,76 Years,Morton,Lewis,WA,Male,White / Caucasian,12/21/2021
+MP150564,12/18/2012,Frazier,Dayton,22 Years,Renton,King,WA,Male,Black / African American,09/26/2025
+MP19181,12/15/2012,Nooney,Sean,26 Years,Gig Harbor,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP23720,11/04/2012,Boyle,David,48 Years,Marysville,Snohomish,WA,Male,White / Caucasian,05/26/2023
+MP55184,10/21/2012,Muller,Louis,62 Years,Elma,Grays Harbor,WA,Male,White / Caucasian,07/26/2022
+MP17607,09/15/2012,Mann,Cecil,76 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,01/12/2024
+MP22067,09/01/2012,Mikailians,Samson,45 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP18207,08/16/2012,Wirkkala,Traci,41 Years,Naselle,Pacific,WA,Female,White / Caucasian,05/26/2023
+MP130787,06/01/2012,Lewon,Randall,58 Years,unknown,Pierce,WA,Male,White / Caucasian,12/03/2024
+MP19132,05/31/2012,Kachur,Gregory,49 Years,Spokane Valley,Spokane,WA,Male,White / Caucasian,09/30/2024
+MP20570,05/28/2012,Whitlock,Jacob,13 Years,Camas,Clark,WA,Male,White / Caucasian,06/13/2023
+MP22395,05/22/2012,Zuniga,Frank,49 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/13/2023
+MP16969,04/15/2012,Shiflet,Raymond,47 Years,Federal Way,King,WA,Male,White / Caucasian,01/12/2024
+MP15090,04/12/2012,Moore,Ramon,55 Years,Tacoma,Pierce,WA,Male,"White / Caucasian, Hispanic / Latino",01/12/2024
+MP14856,02/21/2012,Schrattenholzer,Jonathan,20 Years,Clarkston,Asotin,WA,Male,White / Caucasian,07/17/2024
+MP19177,02/06/2012,Sine,Robert,18 Years,Mount Vernon,Skagit,WA,Male,White / Caucasian,04/17/2024
+MP18231,01/13/2012,Diaz-DeLeon,Dale,38 Years,Vancouver,Clark,WA,Male,"White / Caucasian, Hispanic / Latino",10/25/2023
+MP13594,01/01/2012,Ha,Jennifer,17 Years,Vancouver,Clark,WA,Female,Asian,06/17/2024
+MP55396,12/15/2011,Williams,Jack,36 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,08/27/2025
+MP32384,12/04/2011,Erb,Phil,58 Years,Seattle,King,WA,Male,White / Caucasian,06/13/2023
+MP13169,11/08/2011,Bryden,Lorill,48 Years,Bellevue,King,WA,Female,White / Caucasian,05/26/2023
+MP13544,11/06/2011,Metalwala,Sky,2 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP13040,10/27/2011,Scott,Miguel,19 Years,Bremerton,Kitsap,WA,Male,Asian,05/26/2023
+MP27760,10/13/2011,Brandley,Aaron,17 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/06/2025
+MP13796,09/18/2011,Reising,Daniel,52 Years,Tacoma,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP15149,09/16/2011,Thompson,Brandon,28 Years,Bainbridge Island,Kitsap,WA,Male,White / Caucasian,05/26/2023
+MP15381,08/08/2011,Margarito Sanchez,Misael,16 Years,Snohomish,Snohomish,WA,Male,Hispanic / Latino,05/26/2023
+MP20412,08/01/2011,Fisher,Edward,67 Years,Brush Prairie,Clark,WA,Male,White / Caucasian,03/04/2025
+MP20024,07/15/2011,Aarlie,John,52 Years,Yakima,Yakima,WA,Male,White / Caucasian,01/12/2024
+MP12845,07/08/2011,Najera,Alfonso,40 Years,Everett,Snohomish,WA,Male,"White / Caucasian, Hispanic / Latino",05/26/2023
+MP12694,06/30/2011,Tews,Betty,81 Years,Oak Harbor,Island,WA,Female,White / Caucasian,05/26/2023
+MP12257,06/02/2011,Gilbert,Angela,41 Years,Granite Falls,Snohomish,WA,Female,White / Caucasian,01/12/2024
+MP11878,04/29/2011,Munoz,Benjamin,32 Years,Tukwila,King,WA,Male,"White / Caucasian, Hispanic / Latino",09/19/2024
+MP9837,03/05/2011,Perez,Marizela,18 Years,Seattle,King,WA,Female,Asian,03/19/2025
+MP29875,03/01/2011,Montgomery,John,25 Years,Renton,King,WA,Male,Asian,09/19/2023
+MP13658,02/14/2011,Startzel,Jeffrey,51 Years,Elk,Spokane,WA,Male,White / Caucasian,05/26/2023
+MP10877,02/07/2011,Kindness,Ruthie,20 Years,Parkland,Pierce,WA,Female,American Indian / Alaska Native,09/23/2025
+MP134923,02/05/2011,Robichaux,Lucas,29 Years,Lynnwood,Snohomish,WA,Male,White / Caucasian,07/07/2025
+MP31409,01/31/2011,Collins,William,56 Years,Woodway,Snohomish,WA,Male,White / Caucasian,05/26/2023
+MP22412,01/21/2011,Kelly,Dennis,37 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/06/2025
+MP11736,01/02/2011,Riaz,Mansoor,31 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP112319,01/01/2011,York,Michael,49 Years,Lynnwood,Snohomish,WA,Male,White / Caucasian,05/16/2025
+MP14587,12/27/2010,Anderson,Thomas,62 Years,Shoreline,King,WA,Male,White / Caucasian,09/19/2024
+MP11737,11/24/2010,Wekesa,Eugene,22 Years,Bellevue,King,WA,Male,Black / African American,07/03/2025
+MP32596,11/17/2010,McCulloch,Bruce,50 Years,Coupeville,Island,WA,Male,White / Caucasian,04/27/2023
+MP9298,10/02/2010,Krieger,Patricia,65 Years,RockPort,Skagit,WA,Female,White / Caucasian,06/07/2023
+MP9340,09/20/2010,Higgins,Heather,39 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/06/2025
+MP36495,09/16/2010,Rosas,Antonio,25 Years,Lynnwood,Snohomish,WA,Male,"White / Caucasian, Hispanic / Latino",05/08/2024
+MP8491,08/02/2010,Mouton,Danielle,24 Years,Tacoma,Pierce,WA,Female,Black / African American,01/12/2024
+MP52268,08/01/2010,Sprague,Shane,34 Years,Mountlake Terrace,Snohomish,WA,Male,White / Caucasian,11/22/2024
+MP12524,05/05/2010,Croft-Payne,Kayla,18 Years,Vader,Lewis,WA,Female,White / Caucasian,04/29/2024
+MP7032,04/16/2010,Anderson,Rachael,40 Years,Clarkston,Asotin,WA,Female,White / Caucasian,05/26/2023
+MP14601,03/26/2010,Bradshaw,John,64 Years,Kirkland,King,WA,Male,White / Caucasian,09/19/2024
+MP22765,03/13/2010,Smiley,Shantina,29 Years,Olympia,Thurston,WA,Female,White / Caucasian,05/26/2023
+MP18349,03/07/2010,Honebrink,Denis,57 Years,Federal Way,King,WA,Male,White / Caucasian,01/12/2024
+MP4753,12/25/2009,Riegel,Lawrence,57 Years,Yakima,Yakima,WA,Male,White / Caucasian,06/13/2024
+MP5609,11/27/2009,Claver,Edith,47 Years,Renton,King,WA,Female,American Indian / Alaska Native,03/21/2024
+MP27129,10/29/2009,Stover,Theodore,57 Years,Anacortes,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP21574,10/12/2009,Brown,Galina,59 Years,Shohomish,Snohomish,WA,Female,White / Caucasian,03/24/2025
+MP14832,10/07/2009,Holmes,Brock,23 Years,Sultan,Snohomish,WA,Male,White / Caucasian,05/08/2024
+MP88721,09/20/2009,Rodrigues Gonzalez,Alejandro,31 Years,Everett,Snohomish,WA,Male,Hispanic / Latino,05/25/2023
+MP4905,09/17/2009,Schmidt,James,43 Years,Seattle,King,WA,Male,White / Caucasian,05/26/2023
+MP53157,09/01/2009,Tucksen,John,28 Years,Spanaway,Pierce,WA,Male,White / Caucasian,11/22/2024
+MP11920,07/31/2009,James,Meera,56 Years,Tacoma,Pierce,WA,Female,Asian,05/26/2023
+MP75696,07/30/2009,Gomez,Kino,57 Years,Okanogan,Okanogan,WA,Male,Asian,09/23/2025
+MP11921,07/09/2009,Lanning,Mark,43 Years,Orting,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP26176,07/04/2009,Adkins,John,53 Years,Long Beach,Pacific,WA,Male,White / Caucasian,05/26/2023
+MP38879,07/03/2009,Hernandez,Juan,28 Years,Yakima,Yakima,WA,Male,Hispanic / Latino,10/16/2024
+MP22686,06/09/2009,Williams,James,59 Years,Marblemount,Skagit,WA,Male,White / Caucasian,05/31/2023
+MP124615,06/05/2009,Frank,Gunther,35 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP124616,06/05/2009,Mansfield,Sean,29 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP7560,06/01/2009,Munro,Robert,25 Years,University Place,Pierce,WA,Male,White / Caucasian,11/26/2024
+MP3081,05/09/2009,Ingram,Richard,56 Years,Fort Lewis,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP2768,05/09/2009,Collins,Kelsey,18 Years,Everett,Snohomish,WA,Female,Other,08/25/2025
+MP9695,04/09/2009,McLemore,Alyssa,21 Years,Kent,King,WA,Female,American Indian / Alaska Native,05/06/2025
+MP5858,03/26/2009,Blakeley,Avery,2 Years,Malden,Whitman,WA,Male,"White / Caucasian, Hispanic / Latino",05/26/2023
+MP11924,03/22/2009,Pasola,Shawn,44 Years,Puyallup,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP2020,03/06/2009,Moyer,Nancy,36 Years,Tenino,Thurston,WA,Female,White / Caucasian,05/26/2023
+MP27869,02/02/2009,Chan,Jian,46 Years,Seattle,King,WA,Male,Asian,05/26/2023
+MP15259,01/18/2009,Greene,Trenton,18 Years,Bonney Lake,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP56026,01/13/2009,Stafford-Yilmaz,Lynn,45 Years,Bainbridge Island,Kitsap,WA,Female,White / Caucasian,05/06/2025
+MP111699,01/12/2009,Scherbakov,Oliver,17 Years,Everett,Snohomish,WA,Male,White / Caucasian,10/28/2024
+MP18481,11/22/2008,Miller,Virgil,59 Years,Mount Vernon,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP15192,11/14/2008,Krebser,Robin,44 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP14592,11/07/2008,Fuda,Austin,13 Years,Auburn,King,WA,Male,White / Caucasian,09/19/2024
+MP7264,10/02/2008,Griffin,Lesa,17 Years,Seattle,King,WA,Female,Other,02/04/2021
+MP77113,10/02/2008,Rodia,Ashley,17 Years,Seattle,King,WA,Female,White / Caucasian,11/21/2024
+MP18581,08/01/2008,Lopeman,Robert,51 Years,Longview,Cowlitz,WA,Male,White / Caucasian,09/30/2024
+MP18480,05/19/2008,Booth,Shari,20 Years,Anacortes,Skagit,WA,Female,White / Caucasian,05/26/2023
+MP7292,04/27/2008,Russell,Patricia,50 Years,Seattle,King,WA,Female,Black / African American,05/26/2023
+MP124607,04/25/2008,Lafleur,Kevin,31 Years,Glacier,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP11679,04/21/2008,Bemis,Nathan,22 Years,Sumner,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP15084,02/28/2008,Rudy,Michael,45 Years,Tacoma,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP123353,02/09/2008,Holt,Gregory,56 Years,Yakima,Yakima,WA,Male,White / Caucasian,11/09/2024
+MP118002,02/03/2008,Schuurman,Robin,48 Years,Lummi Island,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP24097,12/24/2007,Bannister,Clark,53 Years,Westport,Grays Harbor,WA,Male,White / Caucasian,01/12/2024
+MP5944,12/21/2007,Childs,Danica,17 Years,Federal Way,King,WA,Female,"White / Caucasian, Black / African American",05/26/2023
+MP3896,12/09/2007,Napier,Dion,48 Years,Seattle,King,WA,Male,White / Caucasian,12/11/2024
+MP78222,11/04/2007,Hansen,Michael,45 Years,Yakima,Yakima,WA,Male,American Indian / Alaska Native,05/06/2025
+MP6080,10/24/2007,Frazier,Joseph,17 Years,Tukwila,King,WA,Male,Black / African American,01/12/2024
+MP33056,09/12/2007,Haley,Lorie,54 Years,Longview,Cowlitz,WA,Female,White / Caucasian,01/12/2024
+MP6823,08/10/2007,Wilson,Angel,17 Years,Spokane,Spokane,WA,Female,White / Caucasian,06/08/2023
+MP7280,08/01/2007,Cardenas,Fernando,35 Years,Seattle,King,WA,Male,"White / Caucasian, Hispanic / Latino",05/26/2023
+MP6053,07/07/2007,Feebeck,Joshua,15 Years,Concrete,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP95951,07/06/2007,Clark,Patricia,62 Years,Orting,Pierce,WA,Female,White / Caucasian,05/25/2023
+MP37095,06/29/2007,Walston,Christopher,35 Years,Olympia,Thurston,WA,Male,White / Caucasian,01/12/2024
+MP4980,06/20/2007,Schwab,Ryan,32 Years,Lakewood,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP18478,04/15/2007,Pfluger,Jakeob,20 Years,Sedro Woolley,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP4037,04/07/2007,Vu,Khoi,25 Years,Vancouver,Clark,WA,Male,Asian,10/25/2023
+MP75953,01/28/2007,Kempf,Darrel,48 Years,North Cove,Pacific,WA,Male,White / Caucasian,05/26/2023
+MP104002,12/28/2006,Ruger,Dawn,44 Years,Mount Vernon,Skagit,WA,Female,White / Caucasian,09/03/2025
+MP36292,10/31/2006,Hinman,Michael,41 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/26/2023
+MP6803,08/28/2006,White,Caleta,18 Years,Auburn,King,WA,Female,Black / African American,05/26/2023
+MP111697,08/04/2006,Ramos-Garcia,Orfa,36 Years,Everett,Snohomish,WA,Female,Hispanic / Latino,11/21/2024
+MP22338,08/03/2006,Swineheart,Scott,38 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/08/2023
+MP68848,07/28/2006,Porterfield,Waltraud,67 Years,Seattle,King,WA,Female,White / Caucasian,05/08/2020
+MP13826,07/24/2006,Tadesse,Beza,26 Years,Seattle,King,WA,Male,Black / African American,09/19/2024
+MP20463,07/20/2006,McLean,James,56 Years,Puyallup,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP138438,07/08/2006,Macias,Rudy,50 Years,Aberdeen,Grays Harbor,WA,Male,American Indian / Alaska Native,02/12/2025
+MP22275,07/02/2006,Ehrgott,James,73 Years,Spokane,Spokane,WA,Male,White / Caucasian,05/26/2023
+MP37082,06/26/2006,Rose,Katharine,48 Years,Puyallup,Pierce,WA,Female,White / Caucasian,06/08/2023
+MP22763,06/24/2006,Gilman,Gilbert,47 Years,Hoodsport,Thurston,WA,Male,White / Caucasian,05/26/2023
+MP55490,06/20/2006,Mason,Stephen,52 Years,Sequim,Clallam,WA,Male,White / Caucasian,10/12/2022
+MP15198,06/16/2006,Winns,Chanier,18 Years,Tacoma,Pierce,WA,Male,Black / African American,01/12/2024
+MP37096,05/30/2006,DeVries,Cynthia,41 Years,Lynnwood,Snohomish,WA,Female,White / Caucasian,01/12/2024
+MP18477,05/22/2006,Morrison,Brian,25 Years,Sedro Woolley,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP844,05/20/2006,Moore,Joseph,66 Years,Ephrata,Grant,WA,Male,White / Caucasian,08/02/2023
+MP9629,05/03/2006,Duna,Iulian,27 Years,Auburn,King,WA,Male,White / Caucasian,09/19/2024
+MP118001,04/24/2006,Rideout,Sandy,41 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,05/06/2025
+MP26979,01/30/2006,Tademy,Cris,61 Years,Lakewood,Pierce,WA,Male,Black / African American,01/12/2024
+MP852,01/05/2006,Pichler,Joseph,18 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,05/26/2023
+MP55792,12/25/2005,Price,Porsha,18 Years,Seattle,King,WA,Female,Black / African American,01/12/2024
+MP851,12/08/2005,Ohana,Lyn,49 Years,Port Townsend,Jefferson,WA,Female,White / Caucasian,05/06/2025
+MP18350,11/05/2005,Shuster,Danny,48 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,01/11/2024
+MP92183,10/02/2005,Hoogen,Patrick,60 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP22746,09/26/2005,Chen,Rueyming,48 Years,Bellevue,King,WA,Male,Asian,07/03/2025
+MP111680,09/25/2005,Jung,Roger,30 Years,Everett,Snohomish,WA,Male,White / Caucasian,11/16/2023
+MP804,09/10/2005,Dulaney,Valerie,42 Years,Seattle,King,WA,Female,White / Caucasian,05/06/2025
+MP23090,08/12/2005,Weston,Zachary,22 Years,Mt. Ranier National Park,Lewis,WA,Male,White / Caucasian,05/26/2023
+MP75367,08/12/2005,Stromberg,Sally,46 Years,Yakima,Yakima,WA,Female,White / Caucasian,06/13/2024
+MP23370,07/05/2005,Brown,Gregrey,48 Years,Snoqualmie Pass,Kittitas,WA,Male,White / Caucasian,01/12/2024
+MP7738,06/20/2005,Kuich,Pamela,42 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP24746,03/19/2005,Marl,Cynthia,45 Years,Wenatchee,Chelan,WA,Female,White / Caucasian,12/30/2024
+MP1006,03/04/2005,Sample,Delmar,53 Years,Centralia,Lewis,WA,Male,White / Caucasian,04/29/2024
+MP12211,02/08/2005,Houston,Shawn,28 Years,Brinnon,Jefferson,WA,Male,White / Caucasian,05/26/2023
+MP14406,01/31/2005,Spann,Kyeimah,6 Years,Seattle,King,WA,Female,Black / African American,09/19/2024
+MP95956,01/23/2005,Rodriguez,Jesus,35 Years,Yakima,Yakima,WA,Male,"Hispanic / Latino, White / Caucasian",05/25/2023
+MP70188,12/15/2004,Jessup,Donald,60 Years,Enumclaw,King,WA,Male,White / Caucasian,09/19/2024
+MP95954,12/13/2004,Johnson,Clarence,35 Years,Marysville,Snohomish,WA,Male,White / Caucasian,01/12/2024
+MP1350,11/08/2004,Jenkins,Jessica,30 Years,Vancouver,Clark,WA,Female,White / Caucasian,09/17/2025
+MP95952,10/22/2004,Bilet,Tor,21 Years,Randle,Lewis,WA,Male,White / Caucasian,01/12/2024
+MP837,10/14/2004,Holway,Douglas,47 Years,Puyallup,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP6163,09/12/2004,Haynes,Richard,11 Years,Kittitas,Kittitas,WA,Male,White / Caucasian,10/21/2024
+MP12482,08/31/2004,Meyers,Richard,50 Years,Forks,Clallam,WA,Male,White / Caucasian,06/13/2023
+MP24126,08/28/2004,Carver,Merrian,40 Years,Seattle,King,WA,Female,White / Caucasian,04/24/2025
+MP122009,08/02/2004,Hagins,Bobbie,36 Years,Redmond,King,WA,Female,White / Caucasian,05/14/2024
+MP6834,07/26/2004,Wright,Shelby,14 Years,Snohomish,Snohomish,WA,Male,White / Caucasian,06/13/2023
+MP38050,06/01/2004,Wilson,Michelle,40 Years,Kennewick,Benton,WA,Female,White / Caucasian,01/12/2024
+MP796,04/13/2004,Cawston,Tina,36 Years,Nespelem,Okanogan,WA,Female,White / Caucasian,05/06/2025
+MP4305,03/28/2004,Tyler,Giovanna,29 Years,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,03/18/2024
+MP18380,03/18/2004,Backlund,Bruce,61 Years,Anacortes,Skagit,WA,Male,White / Caucasian,06/13/2023
+MP7989,03/17/2004,Korvin,Joshua,29 Years,Mount Vernon,Skagit,WA,Male,"White / Caucasian, Hispanic / Latino",10/21/2024
+MP7068,02/07/2004,MacRae,Robert,25 Years,Seattle,King,WA,Male,White / Caucasian,06/13/2023
+MP58397,02/02/2004,Keesy,David,33 Years,Tacoma,Pierce,WA,Male,American Indian / Alaska Native,09/09/2024
+MP118367,01/12/2004,White III,Kenneth,2 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP7559,12/28/2003,O'Neill,Jynenne,42 Years,Olympia,Pierce,WA,Female,Black / African American,06/13/2023
+MP14368,11/12/2003,Delaney,Donald,60 Years,Shoreline,King,WA,Male,White / Caucasian,09/19/2024
+MP14400,10/27/2003,Renshaw,Austin,22 Years,Maple Valley,King,WA,Male,White / Caucasian,04/02/2025
+MP35364,10/22/2003,McFarland,Alfred,32 Years,Seattle,King,WA,Male,White / Caucasian,12/27/2024
+MP15199,09/06/2003,Johnson,Dustin,24 Years,Seattle,King,WA,Male,White / Caucasian,06/13/2023
+MP116486,08/11/2003,Nilson,Bruce,50 Years,Kennewick,Benton,WA,Male,White / Caucasian,05/08/2025
+MP12742,08/01/2003,Patten-Shephard,Morae,35 Years,Tacoma,Pierce,WA,Female,Black / African American,06/13/2023
+MP36290,07/24/2003,Rhine,Michael,24 Years,Vancouver,Clark,WA,Male,White / Caucasian,06/13/2023
+MP25829,04/21/2003,Woldseth,George,47 Years,Kent,King,WA,Male,White / Caucasian,01/12/2024
+MP789,04/14/2003,Burke,Casey,19 Years,Nespelem,Okanogan,WA,Male,American Indian / Alaska Native,05/06/2025
+MP19260,04/09/2003,Gray,Cameron,23 Years,Spangle,Spokane,WA,Male,White / Caucasian,06/13/2023
+MP4527,03/23/2003,Alizio,Cherene,32 Years,Seattle,King,WA,Female,White / Caucasian,06/13/2023
+MP7791,03/05/2003,Cooper,Darlene,38 Years,Unknown,Pierce,WA,Female,White / Caucasian,06/13/2023
+MP1005,02/06/2003,Richards,Michael,28 Years,Woodland,Cowlitz,WA,Male,White / Caucasian,08/06/2024
+MP4006,02/04/2003,Juarez,Sofia,4 Years,Kennewick,Benton,WA,Female,"White / Caucasian, Hispanic / Latino",06/13/2023
+MP2874,01/24/2003,Anderson,Ace,67 Years,Lakebay,Pierce,WA,Male,White / Caucasian,06/13/2023
+MP25833,01/01/2003,Diimmel,Jenny,51 Years,Port Angeles,,WA,Female,White / Caucasian,07/23/2025
+MP12711,11/24/2002,Horton,Daniel,43 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,01/12/2024
+MP16985,10/29/2002,Zakia,Shannaz,29 Years,Seattle,King,WA,Female,Asian,06/13/2023
+MP34669,10/24/2002,Lee,Ken,38 Years,Seabeck,Kitsap,WA,Male,White / Caucasian,05/14/2025
+MP21965,09/05/2002,Gigena,Jared,20 Years,Rainer,Thurston,WA,Male,White / Caucasian,06/13/2023
+MP7742,07/19/2002,Christiansen,Elvin,69 Years,Unknown,Pierce,WA,Male,White / Caucasian,06/20/2023
+MP25072,05/25/2002,Nelson,Ronnie,35 Years,Moses Lake,Grant,WA,Male,White / Caucasian,01/12/2024
+MP7308,05/14/2002,Cumming,Nicholas,29 Years,Seattle,King,WA,Male,White / Caucasian,01/12/2024
+MP77935,05/13/2002,Wilson,Wendy,23 Years,Oak Harbor,Island,WA,Female,Asian,10/11/2022
+MP7697,04/13/2002,Carpenter,Kevin,34 Years,Lacey,Pierce,WA,Male,White / Caucasian,05/26/2023
+MP7304,04/09/2002,Meyers,James,87 Years,Seattle,King,WA,Male,White / Caucasian,05/26/2023
+MP838,03/22/2002,Jarvi,Michael,28 Years,Naselle,Pacific,WA,Male,White / Caucasian,05/26/2023
+MP95948,02/01/2002,Corey,Jonathan,20 Years,Olympia,Thurston,WA,Male,White / Caucasian,02/25/2025
+MP10777,11/26/2001,Castro,Guadalupe,23 Years,Longview,Cowlitz,WA,Female,Hispanic / Latino,05/26/2023
+MP20468,11/11/2001,O'Cain,Rex,49 Years,Castle Rock,Cowlitz,WA,Male,White / Caucasian,05/26/2023
+MP7752,09/12/2001,Beck,Janice,52 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP1349,09/02/2001,Engle,Nicole,19 Years,Vancouver,Clark,WA,Female,White / Caucasian,06/07/2023
+MP4896,09/01/2001,Aroner,Lee,51 Years,Seattle,King,WA,Male,White / Caucasian,05/26/2023
+MP57578,07/10/2001,Raines,Roberta,19 Years,Toppenish,Yakima,WA,Female,American Indian / Alaska Native,03/19/2024
+MP22764,04/28/2001,Dickerman,Michelle,41 Years,Lacy,Thurston,WA,Female,White / Caucasian,05/26/2023
+MP19443,04/19/2001,Garcia,Jose,1 Year,Longview,Cowlitz,WA,Male,Hispanic / Latino,05/26/2023
+MP2410,03/29/2001,Kline,Joseph,42 Years,Vancouver,Clark,WA,Male,White / Caucasian,05/26/2023
+MP117986,03/26/2001,Roffler,Jonathan,28 Years,Glacier,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP117975,03/11/2001,Lindholdt,Braden,20 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP117980,03/11/2001,Robinson,James,20 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP32744,02/19/2001,Santoso,Hartanto,31 Years,Kirkland,King,WA,Male,Asian,01/14/2025
+MP1004,01/11/2001,Rice,Timothy,40 Years,Kennewick,Benton,WA,Male,White / Caucasian,08/21/2024
+MP9934,01/01/2001,Wilk,Michael,36 Years,Renton,King,WA,Male,White / Caucasian,09/19/2024
+MP29815,12/10/2000,Thomas,Joseph,38 Years,Battle Ground,Clark,WA,Male,White / Caucasian,07/22/2024
+MP1249,12/02/2000,Anderson,Sharon,50 Years,Everett,Snohomish,WA,Female,White / Caucasian,08/04/2025
+MP14277,11/20/2000,McCluskey,Alvin,84 Years,Renton,King,WA,Male,White / Caucasian,09/19/2024
+MP5417,09/21/2000,Enyart,Jennifer,16 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP18372,07/10/2000,Barker,Michael,35 Years,Marblemount,Skagit,WA,Male,White / Caucasian,05/26/2023
+MP95959,06/17/2000,Meagher,Mark,48 Years,Port Townsend,Jefferson,WA,Male,White / Caucasian,05/25/2023
+MP5914,06/07/2000,Camacho,Jonathan,12 Years,Oak Harbor,Island,WA,Male,Hispanic / Latino,05/26/2023
+MP12737,06/05/2000,Denman,Tina,15 Years,Lakewood,Pierce,WA,Female,White / Caucasian,05/26/2023
+MP28799,05/12/2000,Jolley,Spencer,25 Years,Lacey,Thurston,WA,Male,White / Caucasian,12/06/2024
+MP150,03/09/2000,Roberts,Leah,23 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,08/05/2025
+MP117921,02/19/2000,Maurer II,Robert,31 Years,Glacier,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP7740,02/18/2000,Choi,Kyung,27 Years,Unknown,Pierce,WA,Female,Asian,05/30/2023
+MP26223,02/15/2000,Skunk,Sarah,47 Years,Seattle,King,WA,Female,Other,05/30/2023
+MP4732,12/25/1999,Kowalchuk,Tami,17 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP34660,11/28/1999,Bryant,Gary,32 Years,Morton,Lewis,WA,Male,White / Caucasian,01/12/2024
+MP32827,11/26/1999,Mercado,Saul,26 Years,Kennewick,Benton,WA,Male,"White / Caucasian, Hispanic / Latino",01/12/2024
+MP14617,10/27/1999,Delaney,Michael,35 Years,Tacoma,Pierce,WA,Male,White / Caucasian,05/30/2023
+MP24252,10/06/1999,Smith,Gary,35 Years,Everett,Snohomish,WA,Male,White / Caucasian,01/12/2024
+MP19550,09/13/1999,Orr,John,49 Years,Spokane,Spokane,WA,Male,White / Caucasian,09/30/2024
+MP120154,09/11/1999,Anderson,Craig,22 Years,Yakima,Yakima,WA,Male,White / Caucasian,02/22/2025
+MP7504,08/02/1999,Pilkey,Peter,42 Years,Tacoma,Pierce,WA,Male,White / Caucasian,06/08/2023
+MP92777,07/10/1999,Macias,Reyes,42 Years,Selah,Yakima,WA,Male,Hispanic / Latino,09/25/2024
+MP23390,07/08/1999,"Wood, Jr",Joseph,34 Years,Mt. Rainier Nat. Park,Lewis,WA,Male,Black / African American,05/30/2023
+MP95958,06/16/1999,Kays,Jeffrey,45 Years,Camano Island,Island,WA,Male,White / Caucasian,01/12/2024
+MP19654,06/14/1999,Helmuth,Brian,38 Years,Bremerton,,WA,Male,White / Caucasian,07/17/2025
+MP7761,05/04/1999,Ferguson III,Douglas,28 Years,Unknown,Pierce,WA,Male,White / Caucasian,01/12/2024
+MP36294,03/14/1999,Ellefson,Martin,38 Years,Spokane,Spokane,WA,Male,American Indian / Alaska Native,03/19/2024
+MP6299,01/23/1999,Lewis,Teekah,2 Years,Tacoma,Pierce,WA,Female,"Black / African American, American Indian / Alaska Native",01/21/2025
+MP29413,01/06/1999,Moilanen,Craig,46 Years,Olympia,Thurston,WA,Male,White / Caucasian,05/30/2023
+MP797,12/31/1998,Colegrove,Boyd,57 Years,Aberdeen,Grays Harbor,WA,Male,American Indian / Alaska Native,05/06/2025
+MP15138,11/26/1998,Brown,Sharon,40 Years,Tacoma,Pierce,WA,Female,White / Caucasian,01/12/2024
+MP14410,11/09/1998,Nguyen,Nguyet,32 Years,Seattle,King,WA,Female,Asian,08/07/2025
+MP19553,11/04/1998,Buckley,Paul,46 Years,Spokane,Spokane,WA,Male,White / Caucasian,05/30/2023
+MP28479,08/31/1998,Bennett,Pamela,49 Years,Clarkston,Asotin,WA,Female,White / Caucasian,06/07/2023
+MP34224,08/28/1998,Perez-Alpizar,Jose,42 Years,Kennewick,Benton,WA,Male,"White / Caucasian, Hispanic / Latino",08/01/2023
+MP22432,08/18/1998,Hams,Daryle,44 Years,Spokane,Spokane,WA,Male,White / Caucasian,11/05/2024
+MP20950,08/15/1998,Olmstead,Russell,24 Years,Ellisforde,Okanogan,WA,Male,White / Caucasian,01/12/2024
+MP2981,06/15/1998,Harrison,Jennifer,17 Years,Bremerton,Kitsap,WA,Female,White / Caucasian,10/25/2024
+MP137104,05/27/1998,Cruz,Jason,24 Years,Vancouver,Clark,WA,Male,White / Caucasian,01/27/2025
+MP68393,05/09/1998,Walthrop,Lyle,72 Years,Longview,Cowlitz,WA,Male,White / Caucasian,05/25/2023
+MP95957,04/29/1998,Simmons,Deborah,43 Years,Belfair,Mason,WA,Female,White / Caucasian,05/25/2023
+MP1020,04/18/1998,Valdovinos,Jesus,19 Years,Seattle,King,WA,Male,"White / Caucasian, Hispanic / Latino",05/30/2023
+MP35109,03/08/1998,Saunders,Joel,44 Years,Long Beach,Pacific,WA,Male,White / Caucasian,01/12/2024
+MP97280,02/18/1998,Brown,Steven,41 Years,Seattle,King,WA,Male,White / Caucasian,11/11/2022
+MP7278,01/22/1998,White,Odessa,17 Years,Seattle,King,WA,Female,American Indian / Alaska Native,03/19/2024
+MP18371,12/29/1997,Zalcberg,Andrew,27 Years,Sedro Woolley,Skagit,WA,Male,White / Caucasian,05/30/2023
+MP8375,12/08/1997,Sledge,Lisa,28 Years,Marysville,Snohomish,WA,Female,White / Caucasian,08/25/2025
+MP21781,11/23/1997,Valenti,Cheryl,33 Years,Vancouver,Clark,WA,Female,White / Caucasian,01/12/2024
+MP14363,11/18/1997,Weisz,John,29 Years,Auburn,King,WA,Male,White / Caucasian,09/19/2024
+MP23010,11/11/1997,Hanson,Chet,27 Years,Mount Ranier,Pierce,WA,Male,White / Caucasian,05/30/2023
+MP802,11/04/1997,DeVoe,Bruce,40 Years,Tenino,Thurston,WA,Male,White / Caucasian,06/07/2023
+MP15607,10/07/1997,March Jr.,Harry,76 Years,Sultan,Snohomish,WA,Male,White / Caucasian,05/30/2023
+MP18370,09/16/1997,McDonald,Jessica,21 Years,LaConner,Skagit,WA,Female,American Indian / Alaska Native,03/19/2024
+MP124603,08/01/1997,Mayer,Donald,47 Years,Bellingham,Whatcom,WA,Male,Uncertain,05/06/2025
+MP23261,07/19/1997,Graham,Darrell,37 Years,Cle Elum,Kittitas,WA,Male,White / Caucasian,01/12/2024
+MP18369,07/17/1997,Duxbury,James,64 Years,Concrete,Skagit,WA,Male,White / Caucasian,05/30/2023
+MP95962,06/15/1997,McElhenie,James,25 Years,Friday Harbor,San Juan,WA,Male,White / Caucasian,01/12/2024
+MP95961,06/15/1997,Bentzen,Dan,34 Years,Friday Harbor,San Juan,WA,Male,White / Caucasian,05/25/2023
+MP123828,06/04/1997,Carr,Jack,52 Years,Plymouth,Benton,WA,Male,White / Caucasian,11/03/2024
+MP31167,05/01/1997,Vandemortel,Janette,40 Years,Issaquah,King,WA,Female,White / Caucasian,07/24/2023
+MP57510,04/30/1997,Elmore,Billy,71 Years,Ephrata,Grant,WA,Male,White / Caucasian,10/10/2022
+MP19928,04/11/1997,Patten,Lester,48 Years,Vancouver,Clark,WA,Male,White / Caucasian,10/25/2023
+MP6336,03/21/1997,Lyne,Katya,15 Years,Federal Way,King,WA,Female,Hispanic / Latino,08/07/2025
+MP22502,03/21/1997,Cruser,Penney,30 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/30/2023
+MP18368,03/03/1997,Forbes,Bryce,58 Years,La Conner,Skagit,WA,Male,White / Caucasian,05/30/2023
+MP10102,12/27/1996,Lewellen,Phylis,36 Years,Kelso,Cowlitz,WA,Female,White / Caucasian,05/30/2023
+MP19552,11/18/1996,Rice,Shawn,28 Years,Spokane,Spokane,WA,Male,White / Caucasian,01/12/2024
+MP7503,09/12/1996,Maitland,Michelle,29 Years,Olympia,Pierce,WA,Female,White / Caucasian,08/21/2024
+MP79060,09/08/1996,Sanchez,Irma,15 Years,Tacoma,Pierce,WA,Female,White / Caucasian,10/28/2024
+MP4476,09/01/1996,Hunter,Mary,35 Years,Oak Harbor,Island,WA,Female,White / Caucasian,08/07/2025
+MP22476,07/01/1996,Cox,Jon,26 Years,Spokane,Spokane,WA,Male,White / Caucasian,04/30/2025
+MP28775,06/16/1996,Nielson,Steven,37 Years,Kirkland,King,WA,Male,White / Caucasian,04/30/2025
+MP7088,05/24/1996,Davis,Anthony,34 Years,Seattle,King,WA,Male,Black / African American,08/09/2024
+MP40996,05/06/1996,Griffiths,Norman,52 Years,Snohomish,Snohomish,WA,Male,White / Caucasian,08/24/2023
+MP18364,04/29/1996,Kalous,Joe,24 Years,Concrete,Skagit,WA,Male,White / Caucasian,06/13/2023
+MP28243,04/25/1996,Koenig,Donald,57 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,05/30/2023
+MP28241,04/25/1996,Koenig,Traudl,54 Years,Port Orchard,Kitsap,WA,Female,White / Caucasian,05/30/2023
+MP14279,04/17/1996,Sam,Anthony,29 Years,Auburn,King,WA,Male,American Indian / Alaska Native,09/19/2024
+MP4420,03/24/1996,Roof,Christina,27 Years,Lynden,Whatcom,WA,Female,White / Caucasian,05/06/2025
+MP4414,02/21/1996,Wykel,Robert,65 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP4408,02/06/1996,Phiangdae,Loukthayoth,11 Years,Raymond,Pacific,WA,Male,Asian,05/30/2023
+MP76158,02/01/1996,Trujillo,Eleanor,37 Years,Yakima,Yakima,WA,Female,American Indian / Alaska Native,06/13/2024
+MP19097,01/21/1996,Svoboda,Dennis,47 Years,Longview,Cowlitz,WA,Male,White / Caucasian,05/30/2023
+MP20296,01/17/1996,Carey,Sharman,39 Years,Puyallup,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP14278,12/28/1995,Lyons,Charles,42 Years,Vashon,King,WA,Male,White / Caucasian,09/19/2024
+MP20194,11/25/1995,Davidson,Russell,38 Years,Walla Walla,Walla Walla,WA,Male,White / Caucasian,05/30/2023
+MP20122,11/11/1995,Killaby,Carolyn,34 Years,Orchards,Clark,WA,Female,White / Caucasian,05/30/2023
+MP14141,11/01/1995,Caine,Jimmie,24 Years,Seattle,King,WA,Female,Black / African American,09/19/2024
+MP14353,09/04/1995,Shannon,William,47 Years,Skykomish,King,WA,Male,White / Caucasian,09/19/2024
+MP28337,09/01/1995,Shoemaker,Rory,34 Years,Everett,Snohomish,WA,Male,White / Caucasian,05/30/2023
+MP6241,07/20/1995,Jones,Lenoria,3 Years,Tacoma,Pierce,WA,Female,Black / African American,05/30/2023
+MP14348,07/17/1995,Fey,Ramona,39 Years,Longmire - Ashford,Pierce,WA,Female,White / Caucasian,09/19/2024
+MP18555,07/17/1995,Heidenreich,Mike,20 Years,Seattle,King,WA,Male,White / Caucasian,05/30/2023
+MP42757,06/09/1995,Briones-Madera,Juan,36 Years,Tacoma,Pierce,WA,Male,"White / Caucasian, Hispanic / Latino",05/30/2023
+MP8804,05/26/1995,Brazzel,Tracey,22 Years,Lynnwood,Snohomish,WA,Female,White / Caucasian,08/04/2025
+MP6171,04/09/1995,Herda,Bryce,6 Years,Neah Bay,Clallam,WA,Male,American Indian / Alaska Native,03/19/2024
+MP53782,02/23/1995,Henson,James,56 Years,Olympia,Thurston,WA,Male,White / Caucasian,05/30/2023
+MP24117,12/10/1994,Mackey,Lynn,30 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP78801,10/30/1994,Sampson,Daniel,71 Years,Yakima,Yakima,WA,Male,American Indian / Alaska Native,05/19/2025
+MP12099,10/26/1994,Needham,Steven,24 Years,Bellevue,King,WA,Male,White / Caucasian,07/03/2025
+MP20343,09/16/1994,Miles,Stephanie,33 Years,Puyallup,Pierce,WA,Female,White / Caucasian,10/10/2024
+MP118365,09/01/1994,Castillo,Richard,39 Years,Glacier,Whatcom,WA,Male,White / Caucasian,05/06/2025
+MP22547,08/26/1994,Willis,Christine,27 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP7086,08/11/1994,Lenart,Gyula,40 Years,Seattle,King,WA,Male,White / Caucasian,05/30/2023
+MP18105,08/04/1994,Hissom,Michael,29 Years,Ilwaco,Pacific,WA,Male,White / Caucasian,01/12/2024
+MP12258,07/25/1994,Eaton,Rose,73 Years,Chimicum,Jefferson,WA,Female,White / Caucasian,05/30/2023
+MP20314,07/07/1994,Maillard V,Henri,20 Years,Packwood,Lewis,WA,Male,White / Caucasian,04/29/2024
+MP18360,06/10/1994,Scheer,Lisa,32 Years,Auburn,King,WA,Female,White / Caucasian,05/30/2023
+MP53781,06/08/1994,Mendoza,Francisco,27 Years,Toppenish,Yakima,WA,Male,Hispanic / Latino,01/12/2024
+MP7805,06/06/1994,Price,Florence,42 Years,Unknown,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP7145,05/14/1994,Shaw,Lisa,19 Years,Seattle,King,WA,Female,White / Caucasian,10/03/2025
+MP80432,01/21/1994,Braddy,Timothy,22 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,01/12/2024
+MP80431,01/21/1994,Braddy,Frankie,25 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,01/12/2024
+MP80430,01/21/1994,Ham,Samantha,23 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,09/10/2021
+MP80428,01/21/1994,Rodriguez,Korina,20 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,09/10/2021
+MP4746,01/20/1994,Tucker,Helen,26 Years,Tacoma,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP4745,11/30/1993,Woods,Tommie,50 Years,Tacoma,Pierce,WA,Male,Black / African American,05/30/2023
+MP22548,10/20/1993,Baker,Michelle,25 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/30/2023
+MP6086,09/25/1993,Frye,Ronald,15 Years,Coupeville,Island,WA,Male,White / Caucasian,05/30/2023
+MP15141,08/24/1993,Thompson,Misty,14 Years,Woodland,Cowlitz,WA,Female,White / Caucasian,05/30/2023
+MP14343,07/10/1993,Gochanour,Rory,34 Years,Redmond,King,WA,Male,White / Caucasian,09/19/2024
+MP14341,06/16/1993,Hargis,Michael,33 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP51030,06/12/1993,Burgwinkel,Justin,21 Years,JB Lewis-McChord,Pierce,WA,Male,White / Caucasian,11/28/2024
+MP22576,06/01/1993,Champagne,Michaelle,29 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/30/2023
+MP22759,05/12/1993,Watson,Delight,40 Years,Lacy,Thurston,WA,Female,White / Caucasian,05/30/2023
+MP2978,05/01/1993,Vannausdle,Consuelo,31 Years,Lacey,Thurston,WA,Female,Asian,07/03/2023
+MP787,02/23/1993,Allen,Elizabeth,35 Years,Oak Harbor,Island,WA,Female,White / Caucasian,01/12/2024
+MP9848,02/21/1993,Gilchrist,David,30 Years,Steilacoom,Pierce,WA,Male,White / Caucasian,04/04/2024
+MP117919,02/14/1993,McKinnon,William,28 Years,Bellingham,Whatcom,WA,Male,Black / African American,05/06/2025
+MP18224,12/24/1992,Stewart,Arlene,49 Years,Concrete,Skagit,WA,Female,White / Caucasian,05/30/2023
+MP21729,11/15/1992,Echeandia,Victor,46 Years,Auburn,King,WA,Male,White / Caucasian,05/30/2023
+MP5836,11/05/1992,Becker,Douglas,16 Years,Anacortes,Island,WA,Male,"American Indian / Alaska Native, White / Caucasian",03/19/2024
+MP22551,10/10/1992,Stone,Roseann,35 Years,Spokane,Spokane,WA,Female,Black / African American,01/12/2024
+MP2301,09/17/1992,Copsey,Misty,14 Years,Tacoma,Pierce,WA,Female,White / Caucasian,04/25/2023
+MP20123,08/09/1992,"Koller, Sr.",Charles,56 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,05/30/2023
+MP37072,07/26/1992,Arnhold,Marilyn,38 Years,Milton,Pierce,WA,Female,White / Caucasian,05/30/2023
+MP7117,07/01/1992,Gray,Peter,32 Years,Seattle,King,WA,Male,American Indian / Alaska Native,10/22/2024
+MP7070,03/21/1992,Chamorro,Benito,15 Years,Seattle,King,WA,Male,American Indian / Alaska Native,03/19/2024
+MP37070,03/20/1992,Fisher,Christie,44 Years,Edmonds,Snohomish,WA,Female,White / Caucasian,05/30/2023
+MP7276,03/13/1992,Walker,Sue,32 Years,Seattle,King,WA,Female,White / Caucasian,07/30/2025
+MP14339,01/28/1992,Zeidell,Kenneth,44 Years,Redmond,King,WA,Male,White / Caucasian,09/19/2024
+MP14324,12/01/1991,Kamrath,Neil,38 Years,Ravensdale,King,WA,Male,White / Caucasian,05/27/2025
+MP6795,10/21/1991,West,Rebecca,12 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/31/2023
+MP111702,09/29/1991,Sugita,Yoshio,54 Years,Everett,Snohomish,WA,Male,Uncertain,11/22/2024
+MP7256,09/20/1991,Villegas,Jose,34 Years,Seattle,King,WA,Male,"White / Caucasian, Hispanic / Latino",09/30/2024
+MP7108,09/11/1991,Jennings,Mark,34 Years,Seattle,King,WA,Male,Black / African American,05/31/2023
+MP7131,07/08/1991,McGuirk,Cora,22 Years,Seattle,King,WA,Female,Black / African American,05/24/2024
+MP124251,07/01/1991,Madera,Norma,27 Years,Yakima,Yakima,WA,Female,American Indian / Alaska Native,11/21/2024
+MP20083,05/09/1991,Phung,Nguyet,19 Years,Lynnwood,Snohomish,WA,Female,Asian,04/17/2024
+MP36341,05/04/1991,Petig,Leslie,47 Years,Tracyton,Kitsap,WA,Male,White / Caucasian,05/31/2023
+MP20410,04/23/1991,Marable,Susan,34 Years,Yakima,Yakima,WA,Female,White / Caucasian,08/25/2025
+MP1003,04/14/1991,Pooler,Edwin,45 Years,Keller,Okanogan,WA,Male,American Indian / Alaska Native,05/06/2025
+MP95960,03/13/1991,Pfulmann,Anthony,18 Years,Renton,King,WA,Male,White / Caucasian,05/25/2023
+MP22522,03/01/1991,Brown,Dale,30 Years,Spokane,Spokane,WA,Male,White / Caucasian,01/12/2024
+MP839,02/21/1991,Lewis,Reuben,20 Years,Everett,Snohomish,WA,Male,White / Caucasian,04/29/2025
+MP15162,01/03/1991,Tucker,Karen,40 Years,Port Angeles,Clallam,WA,Female,White / Caucasian,05/31/2023
+MP5624,12/19/1990,Moranda,Julie,31 Years,Yakima,Yakima,WA,Female,White / Caucasian,06/04/2025
+MP96453,12/16/1990,Kardas,Susan,38 Years,Snoqualmie,King,WA,Female,White / Caucasian,10/24/2022
+MP33540,11/15/1990,Sterbinsky,Barbara,31 Years,Auburn,King,WA,Female,White / Caucasian,01/12/2024
+MP7288,10/29/1990,Moore,Linda,29 Years,Seattle,King,WA,Female,White / Caucasian,01/12/2024
+MP40817,10/28/1990,Loran,Michelle,19 Years,Kalama,Cowlitz,WA,Female,White / Caucasian,11/21/2024
+MP14096,10/25/1990,Wims,Deborah,31 Years,Seattle,King,WA,Female,Black / African American,09/04/2025
+MP19384,10/16/1990,Sims,Kelly,27 Years,Kelso,Cowlitz,WA,Female,"American Indian / Alaska Native, White / Caucasian",03/19/2024
+MP26999,10/06/1990,Hummel,Alice,46 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,05/31/2023
+MP22082,09/30/1990,Sherer,Jami,26 Years,Redmond,King,WA,Female,White / Caucasian,05/31/2023
+MP27091,08/24/1990,Bartschot,Rita,40 Years,Seattle,King,WA,Female,White / Caucasian,05/31/2023
+MP77015,07/30/1990,Fox,Jacqueline,29 Years,Longview,Cowlitz,WA,Female,White / Caucasian,01/06/2025
+MP14322,07/20/1990,Herding,Irene,75 Years,Darrington,Snohomish,WA,Female,White / Caucasian,09/19/2024
+MP12087,07/18/1990,Cummings,Beverly,53 Years,Federal Way,King,WA,Female,White / Caucasian,09/19/2024
+MP18223,07/11/1990,Bremer,Eugene,74 Years,Anacortes,Skagit,WA,Male,White / Caucasian,12/10/2019
+MP14291,06/27/1990,Putnam,Ronald,48 Years,Kirkland,King,WA,Male,White / Caucasian,09/19/2024
+MP14318,05/18/1990,Chandler,Stanley,23 Years,Seattle,King,WA,Male,Black / African American,09/19/2024
+MP6787,04/24/1990,Warde,Darci,16 Years,Seattle,King,WA,Female,White / Caucasian,05/31/2023
+MP28473,03/05/1990,Goddard,Jason,21 Years,Clarkston,Asotin,WA,Male,White / Caucasian,01/12/2024
+MP7309,02/24/1990,Alley,John,29 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP75942,01/05/1990,Taylor,Ronald,22 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,07/08/2025
+MP7049,12/29/1989,Larson,Gregory,63 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP20399,12/28/1989,Thompson,Glenn,33 Years,Quincy,Grant,WA,Male,White / Caucasian,06/18/2024
+MP75226,11/24/1989,Wallace,Sarah,36 Years,Tacoma,Pierce,WA,Female,White / Caucasian,11/13/2020
+MP7026,09/02/1989,Coffin,Wallace,74 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP6183,08/25/1989,Hetzell,Marti,18 Years,Orchards,Clark,WA,Male,Hispanic / Latino,05/31/2023
+MP7143,07/28/1989,Poysky,Ronald,25 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP7496,07/28/1989,Turpin,Daniel,26 Years,Lakewood,Pierce,WA,Male,White / Caucasian,05/31/2023
+MP56561,07/26/1989,Reeves,Diane,23 Years,Ferndale,Whatcom,WA,Female,White / Caucasian,05/06/2025
+MP1329,07/04/1989,Schubert,Juliana,30 Years,Arlington,Snohomish,WA,Female,White / Caucasian,05/31/2023
+MP1642,04/24/1989,Baker,Jeffrey,27 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,03/21/2025
+MP13907,04/17/1989,Newcombe,Ralph,35 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP842,04/01/1989,Mock,Misty,22 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/07/2023
+MP55067,03/20/1989,Moore,David,33 Years,Seabeck,Kitsap,WA,Male,White / Caucasian,12/24/2024
+MP55069,03/20/1989,Moore,Teresa,29 Years,Seabeck,Kitsap,WA,Female,White / Caucasian,03/14/2024
+MP76106,02/09/1989,Mullen,Choung,19 Years,Bellingham,Whatcom,WA,Female,Asian,07/18/2022
+MP19563,12/30/1988,Deetz,John,38 Years,Spokane Valley,Spokane,WA,Male,White / Caucasian,05/31/2023
+MP1002,11/18/1988,Pooler,George,37 Years,Omak,Okanogan,WA,Male,American Indian / Alaska Native,05/06/2025
+MP7027,11/16/1988,Barton,Jesse,15 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP14292,11/05/1988,Scholz,Jason,20 Years,Black Diamond,King,WA,Male,White / Caucasian,03/21/2025
+MP59028,10/01/1988,Sayler,Jarvis,37 Years,Vancouver,Clark,WA,Male,White / Caucasian,01/27/2025
+MP10584,07/04/1988,Diaz,Margaret,32 Years,Tacoma,Pierce,WA,Female,"White / Caucasian, Black / African American",05/31/2023
+MP14260,06/25/1988,Schone,Max,80 Years,Skykomish,King,WA,Male,White / Caucasian,09/19/2024
+MP7134,03/14/1988,Metcalf,Teresa,14 Years,Seattle,King,WA,Female,White / Caucasian,06/07/2023
+MP33559,02/26/1988,Hembd,Doris,71 Years,Bremerton,Kitsap,WA,Female,White / Caucasian,05/31/2023
+MP7028,11/13/1987,Caldwell,Susan,17 Years,Seattle,King,WA,Female,White / Caucasian,06/07/2023
+MP52233,11/07/1987,Johnley Wallahee,Karen,28 Years,Yakama,Yakima,WA,Female,American Indian / Alaska Native,01/10/2025
+MP7050,11/05/1987,Mitchell,Paul,37 Years,Seattle,King,WA,Male,White / Caucasian,05/31/2023
+MP22760,09/18/1987,Hill,Allan,30 Years,Yelm,Thurston,WA,Male,White / Caucasian,09/12/2025
+MP2816,09/16/1987,Weflen,Julie,29 Years,Spokane,Spokane,WA,Female,White / Caucasian,05/31/2023
+MP22601,08/07/1987,Akkerman,John,27 Years,Spokane,Spokane,WA,Male,White / Caucasian,05/31/2023
+MP41418,07/25/1987,Hanehan,Lawrence,37 Years,Unknown,Stevens,WA,Male,White / Caucasian,12/24/2024
+MP19222,07/20/1987,Chapman,Arthur,68 Years,Kalama,Cowlitz,WA,Male,White / Caucasian,06/01/2023
+MP6026,05/08/1987,Downey,William,12 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP67484,04/25/1987,Aughe,Wendy,29 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,03/08/2024
+MP6480,04/15/1987,Owens,Alexis,16 Years,Port Orchard,King,WA,Female,White / Caucasian,09/19/2024
+MP4035,03/11/1987,Kersey,Kimberly,18 Years,Vancouver,Clark,WA,Female,White / Caucasian,06/01/2023
+MP14069,03/05/1987,Mulhern,Doris,21 Years,Federal Way,King,WA,Female,White / Caucasian,09/19/2024
+MP7547,01/07/1987,Hoober,David,39 Years,Gig Harbor,Pierce,WA,Male,White / Caucasian,06/13/2023
+MP75229,12/10/1986,Evers,Rosia,30 Years,Toppenish,Yakima,WA,Female,White / Caucasian,09/12/2024
+MP41033,11/26/1986,Hampton,Robert,17 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,09/12/2025
+MP55525,11/26/1986,Sigo,Frederick,22 Years,Port Orchard,Kitsap,WA,Male,American Indian / Alaska Native,10/24/2024
+MP79460,11/22/1986,Currie,Pamela,36 Years,Everett,Snohomish,WA,Female,Uncertain,03/19/2025
+MP32573,10/12/1986,Wilker,Peggy,32 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/13/2023
+MP11140,09/27/1986,Fullerton,Michael,26 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP53780,09/15/1986,Madden,Michael,32 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,06/13/2023
+MP12238,08/22/1986,Linton,Robert,62 Years,Brinnon,Jefferson,WA,Male,White / Caucasian,12/24/2024
+MP12240,08/22/1986,Linton,Dagmar,59 Years,Brinnon,Jefferson,WA,Female,White / Caucasian,06/19/2023
+MP77894,08/01/1986,Williams,Robin,24 Years,Port Angeles,Clallam,WA,Female,White / Caucasian,02/25/2025
+MP4728,07/04/1986,Colyer,Patricia,37 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/04/2024
+MP120156,06/25/1986,Contreras,Marcelina,76 Years,Yakima,Yakima,WA,Female,White / Caucasian,06/03/2024
+MP14267,04/19/1986,Klopfenstein,Kenneth,34 Years,Bellevue,King,WA,Male,White / Caucasian,12/24/2024
+MP5503,04/01/1986,Johnson,Archer,42 Years,Brooklyn,Pacific,WA,Male,White / Caucasian,03/21/2025
+MP95963,03/12/1986,Ekholm,Erik,83 Years,Bellingham,Whatcom,WA,Male,White / Caucasian,12/24/2024
+MP75944,03/02/1986,Turnley,Patrick,20 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,07/08/2025
+MP4528,03/01/1986,Allenbach,Elaine,20 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP8789,02/28/1986,Lawrence,Richard,63 Years,Tacoma,Pierce,WA,Male,Black / African American,06/19/2023
+MP14621,02/26/1986,Welcher,Alexander,72 Years,Tacoma,Pierce,WA,Male,White / Caucasian,06/19/2023
+MP14317,01/25/1986,Humenik,Keith,16 Years,Anacortes,Skagit,WA,Male,White / Caucasian,12/24/2024
+MP18219,01/25/1986,Beirnes,Anthony,17 Years,Anacortes,Skagit,WA,Male,White / Caucasian,12/24/2024
+MP18221,01/25/1986,Zimny,Mitchell,17 Years,Anacortes,Skagit,WA,Male,White / Caucasian,12/24/2024
+MP18168,12/25/1985,Gomez,Augustine,27 Years,Othello,Adams,WA,Male,Hispanic / Latino,07/07/2021
+MP75230,12/11/1985,Taylor,Judith,28 Years,Anacortes,Skagit,WA,Female,White / Caucasian,10/10/2022
+MP55059,10/21/1985,Merrick,Roy,24 Years,Port Orchard,Kitsap,WA,Male,White / Caucasian,12/24/2024
+MP55062,10/21/1985,Merrick,Constance,20 Years,Port Orchard,Kitsap,WA,Female,White / Caucasian,04/28/2021
+MP76172,09/27/1985,Hindman,Eugene,45 Years,Dryden,Chelan,WA,Male,White / Caucasian,07/26/2022
+MP76173,09/27/1985,Hindman,Sharon,49 Years,Dryden,Chelan,WA,Female,White / Caucasian,07/26/2022
+MP11854,09/03/1985,Eisel,Elizabeth,23 Years,Seattle,King,WA,Female,White / Caucasian,07/03/2025
+MP55520,08/20/1985,Moran,Colleen,24 Years,Port Orchard,Kitsap,WA,Female,"White / Caucasian, American Indian / Alaska Native",03/19/2024
+MP4907,07/25/1985,Logan,Tasha,15 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP7126,06/25/1985,Huff,Kelly,25 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP6581,06/18/1985,Robbins,Diane,13 Years,Richland,Benton,WA,Female,White / Caucasian,06/19/2023
+MP11898,06/01/1985,Jaillet,Julianne,36 Years,Bellevue,King,WA,Female,White / Caucasian,08/14/2025
+MP5679,05/20/1985,Rambus,Virginia,19 Years,Seattle,King,WA,Female,Black / African American,09/19/2024
+MP6740,05/15/1985,Traxler,Rima,8 Years,Longview,Cowlitz,WA,Female,White / Caucasian,06/19/2023
+MP25757,05/01/1985,Nguyen,Nhi,32 Years,Port Angeles,Clallam,WA,Female,Asian,06/19/2023
+MP1009,04/17/1985,Torgeson,Dana,19 Years,Ford,Stevens,WA,Male,White / Caucasian,05/06/2025
+MP7295,04/11/1985,Washington  Jr.,Bennie,40 Years,Seattle,King,WA,Male,Black / African American,08/09/2024
+MP7493,03/20/1985,Duffy,Christopher,16 Years,Unknown,Pierce,WA,Male,White / Caucasian,12/24/2024
+MP14274,03/02/1985,Daily,Kenneth,16 Years,Redmond,King,WA,Male,White / Caucasian,12/24/2024
+MP7120,01/29/1985,Kores,Wanda,68 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP6107,12/26/1984,Garnes,Matthew,16 Years,Tacoma,Pierce,WA,Male,White / Caucasian,12/24/2024
+MP14273,11/28/1984,Larson,Donald,35 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP5934,10/29/1984,Carter,Pollyanne,15 Years,Graham,Pierce,WA,Female,White / Caucasian,09/19/2024
+MP33299,10/26/1984,Pozar,Tessie,56 Years,Spokane,Spokane,WA,Female,White / Caucasian,06/19/2023
+MP33143,10/26/1984,Pozar,Frank,61 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/19/2023
+MP14296,09/14/1984,Johanson,Robert,66 Years,Issaquah,King,WA,Male,White / Caucasian,09/19/2024
+MP7045,09/14/1984,Beeson,Corey,26 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP15250,07/01/1984,Colon Seda,Maria,29 Years,Tacoma,Pierce,WA,Female,"White / Caucasian, Hispanic / Latino",06/19/2023
+MP23251,06/16/1984,Cooke,Susan,29 Years,Cle Elum,Kittitas,WA,Female,White / Caucasian,06/19/2023
+MP4684,05/25/1984,Spencer III,Roland,3 Years,Toppenish,Yakima,WA,Male,American Indian / Alaska Native,03/21/2024
+MP18217,12/24/1983,Civille,Christine,31 Years,Conway,Skagit,WA,Female,White / Caucasian,06/19/2023
+MP53779,11/10/1983,Delano,William,34 Years,Humptulips,Grays Harbor,WA,Male,White / Caucasian,06/19/2023
+MP7042,11/05/1983,Clemmons,Tonya,26 Years,Seattle,King,WA,Female,Black / African American,06/19/2023
+MP14132,10/20/1983,Osborn,Patricia,19 Years,Seattle,King,WA,Female,Black / African American,09/19/2024
+MP6286,08/12/1983,Leblanc,Patricia,15 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP24661,08/07/1983,Jordan,Raymond,50 Years,Burlington,Skagit,WA,Male,White / Caucasian,06/19/2023
+MP14131,06/28/1983,McGinness,Kelly,18 Years,Des Moines,King,WA,Female,White / Caucasian,01/21/2025
+MP4743,05/26/1983,Penson,Karen,31 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP14016,05/03/1983,Jackson,Linda,19 Years,Seattle,King,WA,Female,American Indian / Alaska Native,09/19/2024
+MP12873,03/02/1983,Bell,Gary,33 Years,Tacoma,Pierce,WA,Male,White / Caucasian,06/19/2023
+MP19338,02/08/1983,Guy,Heather,29 Years,Vancouver,Clark,WA,Female,White / Caucasian,09/20/2024
+MP24291,02/05/1983,Darlington,Mitchell,17 Years,Snohomish,Snohomish,WA,Male,White / Caucasian,06/19/2023
+MP1853,01/10/1983,Guidroz,Wallace,2 Years,Tacoma,Pierce,WA,Male,"Asian, Black / African American",06/19/2023
+MP58044,01/01/1983,Trower,Robert,25 Years,Bremerton,Kitsap,WA,Male,"White / Caucasian, Asian",12/24/2024
+MP6209,12/21/1982,Inman,Tyler,3 Years,Aberdeen,Grays Harbor,WA,Male,White / Caucasian,06/19/2023
+MP6782,10/31/1982,Vorak,Kristi,13 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP14129,08/28/1982,Lee,Kase,16 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP7137,08/17/1982,McWherter,Paul,35 Years,Seattle,King,WA,Male,White / Caucasian,06/19/2023
+MP14297,08/15/1982,Stewart,Reba,46 Years,Federal Way,King,WA,Female,American Indian / Alaska Native,09/19/2024
+MP27152,08/06/1982,Sellers,Pamela,26 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP14622,07/26/1982,King,Debra,22 Years,Tacoma,Pierce,WA,Female,White / Caucasian,01/12/2024
+MP841,07/14/1982,McDonald,George,34 Years,Omak,Okanogan,WA,Male,American Indian / Alaska Native,05/06/2025
+MP40492,07/02/1982,Ridley,Benjamin,15 Years,Burien,King,WA,Male,White / Caucasian,05/06/2025
+MP55949,06/14/1982,Coulson,Timothy,25 Years,Kirkland,King,WA,Male,White / Caucasian,12/24/2024
+MP128620,06/13/1982,Liedes,Arthur,73 Years,Aberdeen,Grays Harbor,WA,Male,White / Caucasian,05/27/2025
+MP14065,05/19/1982,Bull,Robin,37 Years,Issaquah,King,WA,Female,White / Caucasian,09/19/2024
+MP7149,04/03/1982,Trang,Sieu,13 Years,Seattle,King,WA,Female,Asian,06/20/2023
+MP40957,03/28/1982,Vandekamp,Nicholas,31 Years,Whidbey Island,Island,WA,Male,White / Caucasian,12/24/2024
+MP1022,01/04/1982,Summers Jr.,William,22 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,05/06/2025
+MP14230,01/01/1982,Sanders,Louise,36 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP14271,11/28/1981,Keenan,Robert,56 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP31388,11/25/1981,Bullitt,Benjamin,24 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP20998,11/19/1981,Small,Marty,47 Years,Seattle,King,WA,Male,White / Caucasian,09/19/2024
+MP10414,11/04/1981,Gregory,Kathryn,24 Years,Spokane,Spokane,WA,Female,White / Caucasian,06/19/2023
+MP4641,07/01/1981,Owens,Carla,14 Years,Clearwater,Jefferson,WA,Female,White / Caucasian,07/25/2025
+MP19539,06/24/1981,Thrasher,Robert,29 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/19/2023
+MP7958,01/02/1981,Edwards,Carol,25 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP7793,11/19/1980,Long,Cynthia,28 Years,Graham,Pierce,WA,Female,"White / Caucasian, Other",06/19/2023
+MP25756,08/05/1980,Neslund,Rolf,79 Years,Lopez Island,San Juan,WA,Male,White / Caucasian,06/19/2023
+MP27335,07/30/1980,Foster,James,19 Years,Steilacoom,Pierce,WA,Male,Black / African American,06/19/2023
+MP24057,04/29/1980,Weisenburger,John,83 Years,Sultan,Snohomish,WA,Male,White / Caucasian,06/19/2023
+MP136369,04/01/1980,Wheeler,Gary,36 Years,Auburn,King,WA,Male,White / Caucasian,01/13/2025
+MP18469,01/24/1980,Gartner,Vincent,23 Years,North Bend,King,WA,Male,White / Caucasian,09/19/2024
+MP88250,01/01/1980,Brown,Karan,26 Years,Olympia,Thurston,WA,Female,White / Caucasian,02/03/2022
+MP15200,11/23/1979,Vandermeer,Thomas,37 Years,Tacoma,Pierce,WA,Male,White / Caucasian,06/19/2023
+MP5814,10/29/1979,Bailey,Andria,16 Years,Spanaway,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP26183,09/22/1979,Ashmun,Russell,22 Years,Olympia,Thurston,WA,Male,White / Caucasian,12/24/2024
+MP7001,08/30/1979,Sanchez,Carlota,12 Years,Taholah,Grays Harbor,WA,Female,"American Indian / Alaska Native, Hispanic / Latino",03/19/2024
+MP7002,08/30/1979,Luscier,Elsie,13 Years,Taholah,Grays Harbor,WA,Female,American Indian / Alaska Native,03/19/2024
+MP22999,08/24/1979,Hagen,Titanic,26 Years,Marysville,Snohomish,WA,Male,White / Caucasian,12/24/2024
+MP39979,08/01/1979,Gutierrez,Gary,20 Years,Wenatchee,Chelan,WA,Male,White / Caucasian,12/24/2024
+MP6391,07/07/1979,Meeker,Angela,13 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP75794,07/01/1979,Paulsen,Kathleen,22 Years,Yakima,Yakima,WA,Female,White / Caucasian,06/13/2024
+MP18215,06/28/1979,Otis,Debra,18 Years,Anacortes,Skagit,WA,Female,American Indian / Alaska Native,03/19/2024
+MP4998,05/27/1979,Robertson,Elaine,24 Years,Mt. Rainer,Pierce,WA,Female,White / Caucasian,05/06/2025
+MP2785,04/28/1979,White,Christina,12 Years,Asotin,Asotin,WA,Female,White / Caucasian,06/19/2023
+MP122678,04/09/1979,McMillan,Marshall,19 Years,Lakebay,Pierce,WA,Male,White / Caucasian,11/21/2024
+MP14266,11/03/1978,McClure,Barbara,24 Years,Seattle,King,WA,Female,White / Caucasian,08/07/2025
+MP32122,10/31/1978,Bonnell,Donna,35 Years,Graham,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP19747,08/30/1978,Joyce,Marcia,28 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,05/06/2025
+MP7794,08/12/1978,Nace,George,36 Years,Lakewood,Pierce,WA,Male,White / Caucasian,12/24/2024
+MP21953,06/01/1978,Adams,Linda,15 Years,Yakima,Yakima,WA,Female,White / Caucasian,06/19/2023
+MP17790,03/20/1978,Kennedy,Joyce,44 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP54740,01/01/1978,Tweten,Glenn,23 Years,Amanda Park,Grays Harbor,WA,Male,White / Caucasian,12/24/2024
+MP22715,12/13/1977,Burns,Mary,30 Years,Bothell,King,WA,Female,White / Caucasian,04/03/2024
+MP7127,11/13/1977,Kanol,Julia,30 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP5896,08/08/1977,Burse,Rhonda,21 Years,Burien,King,WA,Female,Black / African American,09/19/2024
+MP17959,07/23/1977,Boniske,David,21 Years,Olympia,Thurston,WA,Male,White / Caucasian,09/09/2023
+MP14227,06/02/1977,Stone,Myrna,38 Years,Shoreline,King,WA,Female,White / Caucasian,07/09/2025
+MP7130,04/12/1977,Kimble,Ronald,23 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP14272,03/01/1977,Sampson,David,21 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP25750,01/01/1977,Glovick,Nancy,33 Years,Aberdeen,Grays Harbor,WA,Female,White / Caucasian,06/19/2023
+MP14071,12/08/1976,Endorf,Linda,31 Years,Tukwila,King,WA,Female,White / Caucasian,09/19/2024
+MP4398,09/14/1976,Greenman,Cherry,20 Years,Waterville,King,WA,Female,White / Caucasian,09/19/2024
+MP4935,08/22/1976,Jolly,Barbara,19 Years,Seattle,King,WA,Female,Black / African American,06/19/2023
+MP22893,03/14/1976,Gesler,Esther,37 Years,Kent,King,WA,Female,White / Caucasian,07/19/2023
+MP1632,07/03/1975,Cantea,Francis,19 Years,Bremerton,Kitsap,WA,Male,White / Caucasian,07/08/2025
+MP24236,06/18/1975,Collier,Tony,24 Years,Wenatchee,Chelan,WA,Male,White / Caucasian,12/24/2024
+MP11981,01/27/1975,Davis,Nellie,35 Years,Duvall,King,WA,Female,White / Caucasian,09/19/2024
+MP14228,01/01/1975,Lhotka,Lorelee,19 Years,Seattle,King,WA,Female,"Uncertain, American Indian / Alaska Native",09/19/2024
+MP31485,12/11/1974,Thomas,Marla,22 Years,Anacortes,Skagit,WA,Female,White / Caucasian,06/19/2023
+MP6496,12/04/1974,Partridge,Laurie,17 Years,Spokane,Spokane,WA,Female,White / Caucasian,06/19/2023
+MP117911,11/17/1974,Jones,Joyce,46 Years,Bellingham,Whatcom,WA,Female,White / Caucasian,05/06/2025
+MP93891,07/14/1974,Thompson,Robert,42 Years,Spokane,Spokane,WA,Male,White / Caucasian,09/03/2025
+MP5875,06/15/1974,Bratcher,Jeffrey,7 Years,Ocean Shores,Grays Harbor,WA,Male,White / Caucasian,06/19/2023
+MP19039,06/11/1974,Hawkins,Georgann,18 Years,Seattle,King,WA,Female,White / Caucasian,06/19/2023
+MP20347,05/29/1974,Gilchrist,Diane,14 Years,Vancouver,Clark,WA,Female,White / Caucasian,03/17/2025
+MP22761,03/12/1974,Manson,Donna,19 Years,Olympia,Thurston,WA,Female,White / Caucasian,06/19/2023
+MP14223,11/01/1973,Davis,Teresa,18 Years,Tacoma,Pierce,WA,Female,American Indian / Alaska Native,09/19/2024
+MP23114,10/19/1973,Duffy Jr.,James,2 Years,Leavenworth,Chelan,WA,Male,White / Caucasian,06/19/2023
+MP14240,07/10/1973,Siskar,Donald,18 Years,Enumclaw,King,WA,Male,White / Caucasian,09/19/2024
+MP14018,06/01/1973,Signani,Salie,32 Years,Renton,King,WA,Female,White / Caucasian,09/19/2024
+MP10196,03/27/1973,Blankinship,Jeffrey,3 Years,Port Townsend,Jefferson,WA,Male,White / Caucasian,06/19/2023
+MP22894,03/27/1973,Blankinship,Althea,23 Years,Hadlock,Jefferson,WA,Female,White / Caucasian,06/04/2025
+MP14106,01/01/1973,Burrows,Pamela,23 Years,Seattle,King,WA,Female,White / Caucasian,09/19/2024
+MP7290,12/16/1972,Wells,Christopher,16 Years,Seattle,King,WA,Male,White / Caucasian,12/24/2024
+MP14225,01/01/1972,Watson,Alisa,14 Years,Tacoma,Pierce,WA,Female,Black / African American,09/19/2024
+MP2716,12/07/1971,Grissim,Jamie,16 Years,Vancouver,Clark,WA,Female,White / Caucasian,03/13/2025
+MP77394,10/08/1971,Pratt,Marilyn,30 Years,Spokane,Spokane,WA,Female,"White / Caucasian, Asian",10/21/2022
+MP13660,08/26/1971,Conner,Kevin,13 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,12/24/2024
+MP13661,08/26/1971,Peal,Mark,10 Years,Port Angeles,Clallam,WA,Male,White / Caucasian,06/19/2023
+MP30849,03/01/1971,Hannigan,Janice,15 Years,Wapato,Yakima,WA,Female,American Indian / Alaska Native,03/19/2024
+MP4581,09/16/1970,Miller,Jeannette,17 Years,Arlington,Snohomish,WA,Female,White / Caucasian,06/19/2023
+MP25714,02/20/1970,Burke,Bertha,29 Years,Port Angeles,Clallam,WA,Female,White / Caucasian,06/19/2023
+MP7258,02/20/1970,Williams,Gladys,19 Years,Seattle,King,WA,Female,Black / African American,07/13/2023
+MP4503,08/25/1969,Thompson,Dorothy,53 Years,Walla Walla,Walla Walla,WA,Female,White / Caucasian,10/25/2023
+MP836,02/21/1969,Flink,Laura,21 Years,Pacific Beach,Grays Harbor,WA,Female,White / Caucasian,05/06/2025
+MP75400,11/19/1968,Garrison,Linda,19 Years,Sumner,Pierce,WA,Female,White / Caucasian,11/16/2020
+MP11810,10/21/1968,Winter,Verla,28 Years,Kent,King,WA,Female,White / Caucasian,09/19/2024
+MP4683,05/03/1968,Adams,David,8 Years,Issaquah,King,WA,Male,White / Caucasian,09/19/2024
+MP27151,10/24/1964,Lung,Celina,48 Years,Everett,Snohomish,WA,Female,White / Caucasian,08/24/2023
+MP53261,08/03/1963,Panknin,Bobby,4 Years,Colville,Stevens,WA,Male,White / Caucasian,05/25/2023
+MP12230,03/09/1963,Giusti,Sharon,20 Years,Port Townsend,Jefferson,WA,Female,White / Caucasian,06/19/2023
+MP12506,03/05/1963,Giusti,Michelle,1 Year,Port Townsend,Jefferson,WA,Female,White / Caucasian,06/19/2023
+MP12507,03/05/1963,Giusti,Clara,< 1 Year,Port Townsend,Jefferson,WA,Female,White / Caucasian,06/19/2023
+MP22762,01/01/1963,"Bridgeman, Jr.",Christopher,33 Years,Unknown,Thurston,WA,Male,White / Caucasian,12/24/2024
+MP13656,10/12/1962,Selby,Bernice,27 Years,Everett,Snohomish,WA,Female,White / Caucasian,06/19/2023
+MP13921,08/10/1962,Hansen,Joan,30 Years,Des Moines,King,WA,Female,White / Caucasian,09/19/2024
+MP30450,05/06/1962,Hannah,James,31 Years,Auburn,King,WA,Male,White / Caucasian,12/24/2024
+MP25713,03/01/1962,Peters,Margaret,40 Years,Seattle,King,WA,Female,White / Caucasian,09/17/2024
+MP35935,02/15/1962,Winget,Duane,23 Years,Fort Lewis,Pierce,WA,Male,White / Caucasian,12/24/2024
+MP4593,08/31/1961,Burr,Ann,8 Years,Tacoma,Pierce,WA,Female,White / Caucasian,06/19/2023
+MP14236,12/14/1958,Anderson,Nancy,60 Years,Palmer,King,WA,Female,White / Caucasian,09/19/2024
+MP13670,03/01/1951,Matlock,Alvin,21 Years,Spokane,Spokane,WA,Male,White / Caucasian,06/19/2023

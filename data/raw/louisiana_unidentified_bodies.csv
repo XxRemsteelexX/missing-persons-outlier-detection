@@ -1,0 +1,147 @@
+Case,ME/C Case,DBF,Age From,Age To,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+UP148150,ME/C Case 134178-25,04/09/2025,,,Baton Rouge,East Baton Rouge,Louisiana,Male,Hispanic / Latino,10/01/2025
+UP97812,ME/C Case LSU 22-44,07/06/2022,50.0,65.0,Baton Rouge,East Baton Rouge,Louisiana,Male,Uncertain,07/25/2025
+UP96593,ME/C Case LSU 21-69,09/14/2021,45.0,65.0,Baton Rouge,East Baton Rouge,Louisiana,Male,White / Caucasian,10/31/2022
+UP96587,ME/C Case LSU 21-31,03/10/2021,45.0,75.0,Baton Rouge,East Baton Rouge,Louisiana,Female,Uncertain,10/31/2022
+UP91749,ME/C Case LSU 21-06,01/19/2021,30.0,50.0,Baton Rouge,East Baton Rouge,Louisiana,Male,Black / African American,10/24/2022
+UP76537,ME/C Case LSU 20-41,07/03/2020,35.0,55.0,Reserve,St. John the Baptist,Louisiana,Male,Black / African American,03/16/2021
+UP70436,ME/C Case LSU 20-03,01/07/2020,,,Eunice,St. Landry,Louisiana,Unsure,Uncertain,11/20/2024
+UP82978,ME/C Case STPCO 2048-19 / LSU 19-15,03/14/2019,18.0,40.0,Slidell,St. Tammany,Louisiana,Male,Uncertain,10/23/2023
+UP55516,ME/C Case LA 067-19,02/10/2019,,,West Monroe,Ouachita,Louisiana,Male,White / Caucasian,12/02/2021
+UP91719,ME/C Case LSU 18-68 ; OPCO 181206-170,12/06/2018,40.0,60.0,New Orleans,Orleans,Louisiana,Male,Black / African American,07/13/2022
+UP54169,ME/C Case 587-18-P / LSU 19-16,12/01/2018,25.0,40.0,Belle Chasse,Plaquemines,Louisiana,Male,Black / African American,01/17/2023
+UP54017,ME/C Case LSU 17-43,07/12/2017,45.0,65.0,Baton Rouge,East Baton Rouge,Louisiana,Male,Black / African American,08/30/2024
+UP16659,ME/C Case LSU 17-03 ; 340-16,08/12/2016,35.0,55.0,Metairie,Jefferson,Louisiana,Male,"White / Caucasian, Hispanic / Latino",04/01/2025
+UP16196,ME/C Case LSU 15-49,08/10/2015,50.0,100.0,Cedar Grove,Plaquemines,Louisiana,Male,Black / African American,04/21/2025
+UP13308,ME/C Case LSU 14-35,10/20/2014,35.0,50.0,Belle Chasse,Plaquemines,Louisiana,Male,Uncertain,09/26/2024
+UP14016,ME/C Case LSU 14-30,02/01/2014,25.0,50.0,,Natchitoches,Louisiana,Male,Uncertain,09/26/2024
+UP15507,ME/C Case LSU 13-33,08/14/2013,60.0,100.0,Opelousas,St. Landry,Louisiana,Male,Black / African American,02/01/2023
+UP10861,ME/C Case LSU 12-42 ; OPCO K-2775-12,11/20/2012,55.0,70.0,New Orleans,Orleans,Louisiana,Male,Black / African American,08/04/2020
+UP10041,ME/C Case LSU 11-39 ; 200918,11/05/2011,25.0,40.0,Rayne,Acadia,Louisiana,Male,Black / African American,10/26/2018
+UP9319,ME/C Case LSU 11-24,06/30/2011,30.0,43.0,Bossier City,Bossier,Louisiana,Female,Black / African American,10/25/2022
+UP13302,ME/C Case LSU 13-16 ; JPCO 92111,06/11/2011,38.0,48.0,Jefferson,Jefferson,Louisiana,Female,"Black / African American, Hispanic / Latino",07/11/2022
+UP8863,ME/C Case LSU 11-11 ; 145-11,03/28/2011,38.0,50.0,Gretna,Jefferson,Louisiana,Male,White / Caucasian,07/11/2022
+UP8713,ME/C Case LSU 11-02 ; 463-E-10,12/10/2010,25.0,35.0,Terrytown,Jefferson,Louisiana,Male,White / Caucasian,07/11/2022
+UP15690,ME/C Case LSU 10-18,06/03/2010,30.0,100.0,Shreveport,Caddo,Louisiana,Male,Uncertain,02/01/2023
+UP7111,ME/C Case LSU 10-01,01/02/2010,55.0,90.0,Woodworth,Rapides,Louisiana,Male,Uncertain,02/01/2023
+UP6884,ME/C Case LSU 09-26 ; 09-000299,10/28/2009,18.0,35.0,Lake Providence,East Carroll,Louisiana,Male,Black / African American,07/11/2022
+UP5777,ME/C Case LSU 09-12 ; APCO 48203,06/26/2009,40.0,50.0,Marksville,Avoyelles,Louisiana,Male,"White / Caucasian, Hispanic / Latino",02/01/2023
+UP5877,ME/C Case LSU 09-08,06/20/2009,18.0,99.0,,Avoyelles,Louisiana,Male,Uncertain,05/17/2023
+UP5571,ME/C Case LSU 09-03,04/27/2009,50.0,80.0,Morgan City,St. Mary,Louisiana,Male,Uncertain,03/22/2019
+UP2273,ME/C Case LSU 08-02 ; OPCO A-0048-08,01/04/2008,45.0,60.0,New Orleans,Orleans,Louisiana,Male,Black / African American,02/01/2023
+UP2272,ME/C Case LSU 07-48 ; OPCO J-1603-07,10/17/2007,30.0,40.0,New Orleans,Orleans,Louisiana,Female,Uncertain,02/01/2023
+UP2784,ME/C Case LSU 07-42,09/11/2007,10.0,14.0,,Caddo,Louisiana,Female,Black / African American,02/01/2023
+UP16708,ME/C Case LSU 07-39-6,08/30/2007,20.0,90.0,,Caddo,Louisiana,Male,Uncertain,06/01/2017
+UP2268,ME/C Case LSU 07-37 ; CPCO 741-07,02/07/2007,18.0,25.0,Shreveport,Caddo,Louisiana,Female,Black / African American,02/01/2023
+UP683,ME/C Case LSU 07-08 ; A-0048-1,01/11/2007,60.0,70.0,New Orleans,Orleans,Louisiana,Male,Black / African American,07/11/2022
+UP684,ME/C Case LSU 06-29 ; H-0776-06,08/02/2006,25.0,35.0,New Orleans,Orleans,Louisiana,Male,Black / African American,10/05/2023
+UP14667,ME/C Case KAT-K-0718-05,11/08/2005,49.0,73.0,,Orleans,Louisiana,Male,White / Caucasian,01/13/2016
+UP14676,ME/C Case KAT-K-0640-05,11/03/2005,60.0,110.0,,Orleans,Louisiana,Male,Black / African American,01/13/2016
+UP845,ME/C Case LSU 05-35 ; C1-4995-05,10/27/2005,20.0,40.0,,Caddo,Louisiana,Male,White / Caucasian,02/01/2023
+UP846,ME/C Case LSU 05-34 ; J-00506-05,10/16/2005,18.0,30.0,Clarence,Natchitoches,Louisiana,Male,Black / African American,12/08/2023
+UP14657,ME/C Case KAT-L-1071-05,10/10/2005,28.0,35.0,,Orleans,Louisiana,Male,Black / African American,01/13/2016
+UP14655,ME/C Case KAT-K-0662-05,10/04/2005,51.0,51.0,,Orleans,Louisiana,Male,Black / African American,01/13/2016
+UP14679,ME/C Case KAT-K-0884-05,09/15/2005,50.0,110.0,,Orleans,Louisiana,Male,White / Caucasian,06/16/2023
+UP14675,ME/C Case KAT-K-0649-05,09/12/2005,55.0,110.0,New Orleans,Orleans,Louisiana,Female,Black / African American,07/06/2021
+UP14672,ME/C Case KAT-K-1030-05,09/12/2005,50.0,60.0,Arabi,St. Bernard,Louisiana,Female,White / Caucasian,05/27/2022
+UP14677,ME/C Case KAT-K-0643,09/11/2005,,,,Orleans,Louisiana,Unsure,Uncertain,07/06/2021
+UP847,ME/C Case LSU 05-23,09/06/2004,45.0,55.0,Garyville,St. John the Baptist,Louisiana,Male,Black / African American,04/01/2025
+UP849,ME/C Case LSU 04-27 ; CO2004-1468,05/04/2004,35.0,45.0,New Orleans East,Orleans,Louisiana,Female,Black / African American,02/01/2023
+UP8199,ME/C Case LSU 02-24,11/17/2002,18.0,99.0,Clayton,Concordia,Louisiana,Male,Black / African American,05/24/2019
+UP848,ME/C Case LSU 05-06 ; CO-0656-2002,02/24/2002,32.0,45.0,New Orleans,Orleans,Louisiana,Female,White / Caucasian,02/01/2023
+UP855,ME/C Case LSU 01-24 ; CO-729,03/06/2001,28.0,38.0,,Orleans,Louisiana,Male,Black / African American,02/01/2023
+UP857,ME/C Case LSU 01-09 ; CO-0551,02/17/2001,18.0,25.0,New Orleans,Orleans,Louisiana,Male,Black / African American,02/01/2023
+UP858,ME/C Case LSU 01-08 ; CO-448,02/07/2001,35.0,45.0,New Orleans,Orleans,Louisiana,Male,Black / African American,02/01/2023
+UP2264,ME/C Case LSU 01-03,01/21/2001,25.0,35.0,,St. Tammany,Louisiana,Male,"White / Caucasian, American Indian / Alaska Native",08/02/2024
+UP2246,ME/C Case LSU 00-25,09/21/2000,28.0,40.0,Amelia,St. Mary,Louisiana,Male,White / Caucasian,02/01/2023
+UP5611,ME/C Case LSU 99-22,10/01/1999,32.0,42.0,,Orleans,Louisiana,Male,White / Caucasian,02/01/2023
+UP862,ME/C Case LSU 99-21 ; CO-2844,09/30/1999,28.0,38.0,New Orleans,Orleans,Louisiana,Female,Black / African American,02/01/2023
+UP15084,ME/C Case LSU 16-17,12/10/1998,25.0,35.0,Slidell,St. Tammany,Louisiana,Male,White / Caucasian,07/27/2023
+UP2131,ME/C Case LSU 98-32,10/01/1998,22.0,28.0,,Orleans,Louisiana,Male,Black / African American,02/01/2023
+UP872,ME/C Case LSU 98-28 ; CO-2424,08/24/1998,25.0,35.0,New Orleans,Orleans,Louisiana,Female,Black / African American,02/01/2023
+UP2263,ME/C Case LSU 00-29,08/19/1998,45.0,55.0,,Jefferson,Louisiana,Male,White / Caucasian,02/01/2023
+UP2092,ME/C Case LSU 98-19,07/15/1998,18.0,40.0,LaPlace,St. John the Baptist,Louisiana,Male,Black / African American,02/01/2023
+UP2093,ME/C Case LSU 98-12,06/04/1998,32.0,42.0,,Livingston,Louisiana,Male,Black / African American,03/23/2023
+UP2130,ME/C Case LSU 98-10,05/12/1998,50.0,65.0,Marion,Union,Louisiana,Male,Black / African American,02/01/2023
+UP2245,ME/C Case LSU 97-30,11/24/1997,20.0,30.0,Baton Rouge,East Baton Rouge,Louisiana,Female,Uncertain,02/01/2023
+UP2267,ME/C Case LSU 07-34 ; JPCO 412-97,08/16/1997,30.0,45.0,,Jefferson,Louisiana,Male,"Black / African American, Hispanic / Latino",02/01/2023
+UP2122,ME/C Case LSU 97-18,08/15/1997,19.0,27.0,Moonshine,St. James,Louisiana,Male,Uncertain,02/01/2023
+UP865,ME/C Case LSU 97-12 ; CO-1674,06/16/1997,30.0,40.0,New Orleans,Orleans,Louisiana,Female,Black / African American,02/01/2023
+UP11395,ME/C Case CPCO 003-97 - LSU 15-45,01/07/1997,18.0,22.0,Starks,Calcasieu,Louisiana,Female,Black / African American,10/24/2023
+UP2799,ME/C Case LSU 07-51-1 ; FA-97-95,03/02/1995,24.0,32.0,Shreveport,Caddo,Louisiana,Female,Black / African American,01/12/2021
+UP2153,ME/C Case LSU 94-24,06/01/1994,25.0,38.0,,Orleans,Louisiana,Female,Black / African American,09/27/2024
+UP8694,ME/C Case LSU 10-30,05/31/1994,23.0,33.0,,Jefferson,Louisiana,Male,"White / Caucasian, Hispanic / Latino, Asian",09/27/2024
+UP14250,ME/C Case B0210094,02/05/1994,25.0,35.0,,Tangipahoa,Louisiana,Female,Black / African American,08/10/2022
+UP2152,ME/C Case LSU 93-28,10/22/1993,25.0,38.0,,Jefferson,Louisiana,Female,Black / African American,08/21/2025
+UP1867,ME/C Case LSU 93-18,06/18/1993,22.0,29.0,Belle Chasse,Plaquemines,Louisiana,Male,White / Caucasian,07/08/2022
+UP879,ME/C Case LSU 96-03 ; CPCO 004-93,01/04/1993,25.0,35.0,,Beauregard,Louisiana,Male,Black / African American,10/24/2023
+UP2240,ME/C Case LSU 92-26,11/01/1992,17.0,25.0,,West Feliciana,Louisiana,Male,White / Caucasian,05/24/2018
+UP14648,ME/C Case LSU 06-12-E ; FA-267-92,06/01/1992,25.0,40.0,,Red River,Louisiana,Male,"White / Caucasian, Hispanic / Latino",02/01/2023
+UP2156,ME/C Case LSU 92-07,01/24/1992,25.0,40.0,,Plaquemines,Louisiana,Male,Other,07/11/2022
+UP2321,ME/C Case LSU 07-39-3 ; FA-19-92,01/13/1992,40.0,55.0,,Caddo,Louisiana,Female,Black / African American,10/31/2018
+UP1868,ME/C Case LSU 92-16 ; CPCO-191-91,12/22/1991,22.0,29.0,Vinton,Calcasieu,Louisiana,Female,"White / Caucasian, Black / African American, Hispanic / Latino, American Indian / Alaska Native",06/12/2025
+UP2160,ME/C Case LSU 91-12 ; SCPSO J-293-91,10/04/1991,26.0,36.0,,St. Charles,Louisiana,Male,White / Caucasian,07/08/2022
+UP2796,ME/C Case LSU 08-20-1 ; FA-494-91,09/26/1991,35.0,49.0,Greenwood,Caddo,Louisiana,Male,Black / African American,10/31/2018
+UP15097,ME/C Case LSU 16-20C,06/21/1991,20.0,45.0,,Iberville,Louisiana,Male,Black / African American,05/11/2016
+UP2077,ME/C Case LSU  91-07,06/13/1991,25.0,35.0,Sorrento,Ascension,Louisiana,Male,White / Caucasian,07/08/2022
+UP2322,ME/C Case LSU 07-39-1 ; FA-258-91,06/01/1991,15.0,21.0,Shreveport,Caddo,Louisiana,Male,Black / African American,10/31/2018
+UP14650,ME/C Case LSU 91-06,01/01/1991,35.0,45.0,,Plaquemines,Louisiana,Male,Asian,02/01/2023
+UP2164,ME/C Case LSU 90-13,09/20/1990,40.0,55.0,Metarie,Jefferson,Louisiana,Female,White / Caucasian,11/02/2018
+UP2247,ME/C Case LSU 00-26,04/16/1990,35.0,45.0,,St. Mary,Louisiana,Male,Black / African American,07/11/2022
+UP14646,ME/C Case LSU 15-59,02/04/1990,50.0,60.0,Baton Rouge,East Baton Rouge,Louisiana,Male,White / Caucasian,10/19/2022
+UP2165,ME/C Case LSU 89-17,08/29/1989,30.0,40.0,,Jefferson,Louisiana,Male,Black / African American,07/08/2022
+UP15711,ME/C Case LSU 08-29-50,08/14/1989,55.0,60.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,09/06/2016
+UP15093,ME/C Case LSU 16-20B,05/05/1989,,,,Iberville,Louisiana,Male,Black / African American,05/10/2016
+UP2161,ME/C Case LSU 90-05,12/13/1988,18.0,35.0,,Jefferson,Louisiana,Female,Uncertain,08/14/2020
+UP2167,ME/C Case LSU 88-07,07/01/1988,21.0,30.0,New Orleans,Orleans,Louisiana,Male,Asian,07/08/2022
+UP15090,ME/C Case LSU 16-19,06/06/1987,,,Lafayette,Lafayette,Louisiana,Male,Uncertain,05/10/2016
+UP851,ME/C Case LSU 04-23,05/09/1987,19.0,28.0,,St. James,Louisiana,Male,White / Caucasian,07/11/2022
+UP11672,ME/C Case LSU 06-17-A ; FA-739-86,12/01/1986,35.0,50.0,,Bossier,Louisiana,Male,"White / Caucasian, Hispanic / Latino",07/12/2022
+UP2169,ME/C Case LSU 86-05,04/25/1986,40.0,50.0,Amite,Tangipahoa,Louisiana,Male,White / Caucasian,07/08/2022
+UP2151,ME/C Case LSU 85-20 ; SJPSO 12-051-85,12/05/1985,40.0,50.0,Gramercy,St. James,Louisiana,Male,White / Caucasian,03/12/2025
+UP2239,ME/C Case LSU 86-02,10/09/1985,40.0,55.0,Westlake,Calcasieu,Louisiana,Male,White / Caucasian,07/08/2022
+UP2207,ME/C Case LSU 85-11,07/17/1985,40.0,60.0,,Tangipahoa,Louisiana,Female,White / Caucasian,10/06/2022
+UP1872,ME/C Case LSU 85-01,02/20/1985,25.0,33.0,Port Allen,West Baton Rouge,Louisiana,Female,White / Caucasian,02/12/2025
+UP7417,ME/C Case LSU 08-29-41 ; F85-2,02/18/1985,20.0,38.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,01/31/2019
+UP2210,ME/C Case LSU 84-10,10/12/1984,26.0,36.0,,Lafourche,Louisiana,Male,White / Caucasian,04/07/2020
+UP7411,ME/C Case LSU 08-29-40 ; F84-19,08/15/1984,35.0,49.0,New Orleans,Orleans,Louisiana,Female,White / Caucasian,07/31/2019
+UP2211,ME/C Case LSU 84-03,02/16/1984,35.0,50.0,,St. Landry,Louisiana,Female,Black / African American,05/24/2018
+UP7863,ME/C Case LSU 08-29-37 ; F83-9,06/03/1983,35.0,49.0,,Plaquemines,Louisiana,Male,White / Caucasian,02/14/2019
+UP2214,ME/C Case LSU 83-04,05/06/1983,20.0,30.0,,St. Martin,Louisiana,Male,Black / African American,10/01/2018
+UP2215,ME/C Case LSU 82-15,12/07/1982,45.0,55.0,,Orleans,Louisiana,Male,Black / African American,06/19/2018
+UP2213,ME/C Case LSU 83-10,12/03/1982,34.0,44.0,,Orleans,Louisiana,Female,White / Caucasian,09/12/2025
+UP1876,ME/C Case LSU 82-16,11/14/1982,42.0,50.0,,Ouachita,Louisiana,Male,White / Caucasian,07/07/2022
+UP7410,ME/C Case LSU 08-29-34 ; F82-15,06/16/1982,30.0,39.0,,Plaquemines,Louisiana,Male,Black / African American,11/02/2018
+UP7397,ME/C Case LSU 08-29-32 ; F82-8,06/01/1982,26.0,34.0,,Plaquemines,Louisiana,Male,White / Caucasian,11/02/2018
+UP7396,ME/C Case LSU 08-29-31 ; F82-7,05/31/1982,26.0,34.0,New Orleans,Orleans,Louisiana,Male,Uncertain,07/12/2022
+UP2296,ME/C Case LSU 82-01,03/15/1982,40.0,50.0,,Claiborne,Louisiana,Male,White / Caucasian,07/07/2022
+UP682,ME/C Case LSU 07-26,02/19/1982,40.0,55.0,Nine Mile Board on La Highway 70,St. Martin,Louisiana,Female,White / Caucasian,10/01/2018
+UP1874,ME/C Case LSU 82-03 ; A-82-4,02/02/1982,18.0,21.0,Darrow,Ascension,Louisiana,Male,White / Caucasian,11/20/2020
+UP2216,ME/C Case LSU 82-02,02/01/1982,50.0,60.0,,Claiborne,Louisiana,Male,Black / African American,06/01/2018
+UP2217,ME/C Case LSU 81-09,11/16/1981,35.0,45.0,Morgan City,St. Mary,Louisiana,Female,White / Caucasian,03/22/2019
+UP2218,ME/C Case LSU 81-06,10/21/1981,35.0,45.0,Union,St. James,Louisiana,Male,Black / African American,03/28/2013
+UP2293,ME/C Case LSU 81-04,08/15/1981,19.0,24.0,,Plaquemines,Louisiana,Male,White / Caucasian,02/01/2019
+UP7392,ME/C Case LSU 08-29-25 ; F81-18,06/25/1981,25.0,34.0,New Orleans,Orleans,Louisiana,Unsure,"Black / African American, Hispanic / Latino",07/12/2022
+UP2292,ME/C Case LSU 81-03,06/15/1981,44.0,54.0,Port Allen,West Baton Rouge,Louisiana,Male,Black / African American,07/07/2022
+UP7391,ME/C Case LSU 08-29-24 ; F81-14,05/29/1981,19.0,26.0,,St. James,Louisiana,Unsure,Black / African American,09/06/2016
+UP2219,ME/C Case LSU 81-02,04/15/1981,43.0,53.0,,Ouachita,Louisiana,Male,Black / African American,07/07/2022
+UP7387,ME/C Case LSU 08-29-23 ; F81-9,04/05/1981,23.0,33.0,,Plaquemines,Louisiana,Male,"White / Caucasian, Hispanic / Latino",07/12/2022
+UP2291,ME/C Case LSU 80-01,08/28/1980,35.0,45.0,,Ascension,Louisiana,Male,White / Caucasian,01/02/2025
+UP7383,ME/C Case LSU 08-29-19 ; F80-18,07/21/1980,20.0,34.0,New Orleans,Orleans,Louisiana,Male,Black / African American,06/19/2018
+UP7380,ME/C Case LSU 08-29-18 ; F80-17,06/15/1980,26.0,36.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,06/19/2018
+UP7377,ME/C Case LSU 08-29-17 ; F80-14,05/09/1980,35.0,49.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,06/19/2018
+UP7361,ME/C Case LSU 08-29-16 ; F80-10,04/09/1980,23.0,33.0,New Orleans,Orleans,Louisiana,Male,Black / African American,06/19/2018
+UP7360,ME/C Case LSU 08-29-15 ; F80-1,12/12/1979,35.0,49.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,06/19/2018
+UP7862,ME/C Case LSU 08-29-13 ; F79-17,11/23/1979,23.0,33.0,New Orleans,Orleans,Louisiana,Male,White / Caucasian,06/08/2020
+UP7320,ME/C Case LSU 08-29-12 ; F79-16,11/16/1979,18.0,69.0,,Orleans,Louisiana,Male,Uncertain,06/19/2018
+UP6895,ME/C Case LSU 08-29-10 ; F79-9,07/31/1979,26.0,34.0,,St. Charles,Louisiana,Male,"White / Caucasian, Hispanic / Latino",07/12/2022
+UP6942,ME/C Case LSU 08-29-11 ; F79-11,07/22/1979,18.0,25.0,,Jefferson,Louisiana,Female,White / Caucasian,07/28/2025
+UP6893,ME/C Case LSU 08-29-9 ; F79-8,06/22/1979,8.0,10.0,,Orleans,Louisiana,Male,Black / African American,06/19/2018
+UP6891,ME/C Case LSU 08-29-8 ; F79-6;,05/15/1979,26.0,36.0,,Plaquemines,Louisiana,Male,Black / African American,07/12/2022
+UP6890,ME/C Case LSU 08-29-7 ; F79-5,05/15/1979,26.0,36.0,,Plaquemines,Louisiana,Male,Uncertain,07/12/2022
+UP6887,ME/C Case LSU 08-29-6 ; F79-4,05/08/1979,35.0,49.0,,Jefferson,Louisiana,Male,Uncertain,07/12/2022
+UP15091,ME/C Case LSU 16-20A,06/07/1978,,,,Iberville,Louisiana,Male,White / Caucasian,05/10/2016
+UP7311,ME/C Case LSU 08-29-4 ; F78-11,04/30/1978,28.0,40.0,,Orleans,Louisiana,Male,White / Caucasian,10/06/2022
+UP6885,ME/C Case LSU 08-29-1 ; F77-2,05/25/1977,35.0,49.0,,St. John the Baptist,Louisiana,Male,Uncertain,10/06/2022
+UP15088,ME/C Case LSU 16-18A,11/16/1975,15.0,20.0,Baton Rouge,East Baton Rouge,Louisiana,Female,Uncertain,07/16/2025
+UP88342,ME/C Case 117-15-979 ; LSU 22-05,02/14/1975,16.0,18.0,,Plaquemines,Louisiana,Male,White / Caucasian,06/12/2025

@@ -1,0 +1,85 @@
+Case,ME/C Case,DBF,Age From,Age To,City,County,State,Biological Sex,Race / Ethnicity,Date Modified
+UP149548,ME/C Case ME25-0705,06/30/2025,,,Stephensport,Breckinridge,Kentucky,Male,White / Caucasian,09/15/2025
+UP145486,ME/C Case ME25-0452,04/18/2025,,,Louisville,Jefferson,Kentucky,Unsure,Uncertain,07/31/2025
+UP146380,ME/C Case ME25-0288,03/09/2025,,,Falls of Rough,Breckinridge,Kentucky,Unsure,Uncertain,06/30/2025
+UP134259,ME/C Case ME24-1069,09/11/2024,,,Louisville,Jefferson,Kentucky,Male,Uncertain,12/05/2024
+UP131204,ME/C Case ME24-1047,09/05/2024,,,Louisville,Jefferson,Kentucky,Unsure,Uncertain,12/14/2024
+UP131209,ME/C Case ME24-0974,08/19/2024,,,Louisville,Jefferson,Kentucky,Unsure,Uncertain,10/24/2024
+UP127874,ME/C Case ME24-0741,06/28/2024,,,Henderson,Henderson,Kentucky,Unsure,Uncertain,01/25/2025
+UP142138,ME/C Case ME24-0730,06/28/2024,30.0,49.0,Louisville,Jefferson,Kentucky,Female,Black / African American,09/26/2025
+UP141888,ME/C Case ME24-0469,04/29/2024,,,Shepherdsville,Bullitt,Kentucky,Unsure,Uncertain,04/14/2025
+UP121635,ME/C Case ME24-0352,04/01/2024,,,Louisville,Jefferson,Kentucky,Unsure,Uncertain,05/17/2025
+UP117533,ME/C Case ME24-0159,02/12/2024,25.0,25.0,Carrollton,Carroll,Kentucky,Unsure,Uncertain,03/28/2025
+UP126205,ME/C Case MEC23-1088,12/15/2023,8.0,10.0,Albany,Clinton,Kentucky,Unsure,Uncertain,08/09/2024
+UP106037,ME/C Case MEC23-0606,07/17/2023,21.0,46.0,Lexington,Fayette,Kentucky,Male,Hispanic / Latino,09/16/2025
+UP118993,ME/C Case ME23-0171,02/13/2023,,,Louisville,Jefferson,Kentucky,Unsure,Uncertain,06/18/2025
+UP98432,ME/C Case MEC22-0992,11/18/2022,,,Lexington,Fayette,Kentucky,Unsure,Uncertain,12/20/2022
+UP91249,ME/C Case WKY22-0076,04/19/2022,,,trenton,Todd,Kentucky,Unsure,Uncertain,06/18/2025
+UP89928,ME/C Case ME22-0319,03/14/2022,19.0,99.0,Louisville,Jefferson,Kentucky,Unsure,Uncertain,06/05/2024
+UP89990,ME/C Case ME22-0276,03/03/2022,,,Bardstown,Nelson,Kentucky,Male,White / Caucasian,09/16/2025
+UP109856,ME/C Case MEC22-0043,01/15/2022,,,Ashland,Boyd,Kentucky,Male,White / Caucasian,09/16/2025
+UP85793,ME/C Case ME21-1747,10/22/2021,27.0,61.0,,Henderson,Kentucky,Male,Other,06/18/2025
+UP87018,ME/C Case WKY21-143,07/27/2021,,,Cadiz,Trigg,Kentucky,Unsure,Uncertain,09/16/2025
+UP80867,ME/C Case KY ME21-130,01/19/2021,44.0,86.0,Center,Metcalfe,Kentucky,Female,White / Caucasian,06/18/2025
+UP77337,ME/C Case KY ME21-0095,01/14/2021,15.0,20.0,Louisville,Jefferson,Kentucky,Male,Black / African American,06/18/2025
+UP79787,ME/C Case ME20-1756,12/19/2020,36.0,48.0,Louisville,Jefferson,Kentucky,Male,Uncertain,09/16/2025
+UP76723,ME/C Case KY ME20-1250,09/23/2020,,,,Bullitt,Kentucky,Female,White / Caucasian,06/18/2025
+UP91409,ME/C Case ME20-908,07/22/2020,,,Bardstown,Nelson,Kentucky,Female,Uncertain,06/18/2025
+UP74949,ME/C Case MEC2020-0492,07/16/2020,,,Nicholasville,Jessamine,Kentucky,Female,Asian,07/22/2024
+UP72963,ME/C Case WKY ME20-0052,03/12/2020,,,Sedalia,Graves,Kentucky,Unsure,White / Caucasian,06/18/2025
+UP58534,ME/C Case KY ME19-342,04/03/2019,60.0,80.0,Bardstown,Nelson,Kentucky,Male,White / Caucasian,06/18/2025
+UP55760,ME/C Case ME19-0200,02/22/2019,58.0,68.0,Warsaw,Gallatin,Kentucky,Male,White / Caucasian,10/01/2025
+UP54482,ME/C Case ME-C -18-0726,12/15/2018,,,Morehead,Rowan,Kentucky,Female,Black / African American,06/18/2025
+UP58057,ME/C Case KY ME 19-596,05/07/2018,,,Worthville,Carroll,Kentucky,Male,White / Caucasian,06/18/2025
+UP58056,ME/C Case KY ME18-470,05/07/2018,,,Worthville,Carroll,Kentucky,Unsure,White / Caucasian,06/18/2025
+UP58058,ME/C Case KY ME 19-597,05/07/2018,,,Worthville,Carroll,Kentucky,Male,White / Caucasian,06/18/2025
+UP59143,ME/C Case MEC2018-0123,02/20/2018,,,Winchester,Clark,Kentucky,Unsure,Uncertain,07/22/2024
+UP16351,ME/C Case MEC2016-387,06/01/2016,20.0,70.0,Lexington,Fayette,Kentucky,Male,White / Caucasian,09/04/2024
+UP13107,ME/C Case MEC2014-575,10/29/2014,26.0,41.0,Lexington,Fayette,Kentucky,Male,White / Caucasian,09/04/2024
+UP13064,ME/C Case KY ME14-1278,10/27/2014,,,Carrollton,Carroll,Kentucky,Male,Uncertain,06/18/2025
+UP13915,ME/C Case KY ME15-647,04/29/2014,,,Rineyville,Hardin,Kentucky,Unsure,Uncertain,06/18/2025
+UP12249,ME/C Case WK14-055,02/28/2014,,,Beaver Dam,Ohio,Kentucky,Unsure,Uncertain,10/01/2025
+UP10354,ME/C Case ME-C2012-217,04/30/2012,17.0,25.0,,Fleming,Kentucky,Male,Hispanic / Latino,06/18/2025
+UP10353,ME/C Case ME-C2012-206,04/27/2012,20.0,35.0,,Fleming,Kentucky,Male,Hispanic / Latino,06/18/2025
+UP7293,ME/C Case ME-09-1257,12/03/2009,30.0,40.0,Louisville,Jefferson,Kentucky,Male,"White / Caucasian, Hispanic / Latino",10/01/2025
+UP5270,ME/C Case ME-09-102,05/21/2009,45.0,65.0,Wickliffe,Ballard,Kentucky,Male,White / Caucasian,10/01/2025
+UP74,ME/C Case FA-2005-41; ME05-751,07/22/2005,20.0,40.0,Shively,Jefferson,Kentucky,Female,White / Caucasian,10/01/2025
+UP110,ME/C Case FA-2003-40,08/03/2003,25.0,50.0,,Ballard,Kentucky,Male,Uncertain,10/01/2025
+UP76,ME/C Case FA-2003-03,01/25/2003,40.0,55.0,Erlanger,Kenton,Kentucky,Male,White / Caucasian,10/01/2025
+UP98,ME/C Case FA-2002-36,11/10/2002,16.0,80.0,Stanton,Powell,Kentucky,Male,Uncertain,10/01/2025
+UP97,ME/C Case ME02-021,01/27/2002,30.0,40.0,Hopkinsville,Christian,Kentucky,Male,Hispanic / Latino,10/01/2025
+UP92,ME/C Case FA-2000-44,07/11/2000,18.0,25.0,,Hickman,Kentucky,Male,Black / African American,10/01/2025
+UP84,ME/C Case FA-1999-19,05/08/1999,25.0,35.0,"across river from Cincinnati, Ohio",Kenton,Kentucky,Male,White / Caucasian,10/01/2025
+UP79,ME/C Case ME-98-520,08/07/1998,25.0,35.0,,Jefferson,Kentucky,Male,White / Caucasian,10/01/2025
+UP80,ME/C Case FA-1998-40,07/09/1998,25.0,35.0,Somerset,Pulaski,Kentucky,Male,White / Caucasian,10/01/2025
+UP96966,ME/C Case ME-C98-03-177,03/24/1998,0.0,1.0,Wallins Creek,Harlan,Kentucky,Female,White / Caucasian,10/01/2025
+UP109,ME/C Case FA-97-21; ME97-228,04/06/1997,20.0,50.0,Louisville,Jefferson,Kentucky,Male,Uncertain,10/01/2025
+UP81,ME/C Case FA-1996-25,07/06/1996,25.0,45.0,Falmouth,Pendleton,Kentucky,Male,"White / Caucasian, Hispanic / Latino",10/01/2025
+UP12696,ME/C Case KY ME 96-334,05/06/1996,,,,Warren,Kentucky,Male,White / Caucasian,06/18/2025
+UP121297,ME/C Case ME92-955,12/23/1992,,,Louisville,Jefferson,Kentucky,Female,Black / African American,05/02/2024
+UP114480,ME/C Case ME-92-362,05/11/1992,,,Bowling Green,Warren,Kentucky,Female,White / Caucasian,01/31/2024
+UP94,ME/C Case ME-92-329,04/30/1992,20.0,40.0,East of Keysburg,Logan,Kentucky,Male,Hispanic / Latino,10/01/2025
+UP114368,ME/C Case ME90-1013,11/20/1990,,,Lebanon,Marion,Kentucky,Unsure,Uncertain,10/01/2025
+UP100,ME/C Case 89F-37; ME89-656,08/08/1989,2.0,3.0,Glasgow,Barren,Kentucky,Female,Other,10/01/2025
+UP86,ME/C Case ME-89-274,04/09/1989,25.0,35.0,Williamstown,Grant,Kentucky,Male,White / Caucasian,10/01/2025
+UP114429,ME/C Case ME-87-263,04/20/1987,,,Mt Vernon,Rockcastle,Kentucky,Male,White / Caucasian,01/11/2024
+UP85,ME/C Case ME 86-04-099,04/17/1986,24.0,35.0,Lexington,Fayette,Kentucky,Male,White / Caucasian,10/01/2025
+UP93,ME/C Case FA-2004-62 (1986),01/01/1986,35.0,45.0,Somerset,Pulaski,Kentucky,Male,Other,10/01/2025
+UP111,ME/C Case ME-84-359,06/20/1984,45.0,60.0,Glasgow,Barren,Kentucky,Female,White / Caucasian,10/01/2025
+UP95,ME/C Case 83-F-37,08/15/1983,20.0,30.0,Near Scottsville,Allen,Kentucky,Male,White / Caucasian,08/25/2025
+UP752,ME/C Case ME-07-048/A83-52,04/22/1983,30.0,50.0,Cadiz,Trigg,Kentucky,Male,White / Caucasian,10/01/2025
+UP6715,ME/C Case OC-180-82,11/04/1982,40.0,70.0,,Kenton,Kentucky,Male,White / Caucasian,10/01/2025
+UP114479,ME/C Case ME-82-453,07/08/1982,,,Louisville,Jefferson,Kentucky,Female,White / Caucasian,07/12/2024
+UP6714,ME/C Case OC-43-82,03/21/1982,25.0,50.0,,Boone,Kentucky,Female,White / Caucasian,10/01/2025
+UP105,ME/C Case 81-F-15,10/20/1981,20.0,35.0,Pine Mountain in Letcher County,Letcher,Kentucky,Male,White / Caucasian,10/01/2025
+UP16396,ME/C Case KY ME 81-190,04/09/1981,,,Nicholasville,Jessamine,Kentucky,Male,White / Caucasian,10/01/2025
+UP6710,ME/C Case OC-60-80,05/26/1980,25.0,40.0,,Boone,Kentucky,Female,White / Caucasian,10/01/2025
+UP103,ME/C Case 79-F-1,01/27/1979,35.0,45.0,Jackson,Breathitt,Kentucky,Male,White / Caucasian,09/26/2025
+UP955,ME/C Case 78-244 KSP,05/19/1978,25.0,45.0,Bowling Green,Warren,Kentucky,Female,White / Caucasian,10/01/2025
+UP54900,ME/C Case KY ME 78-153,04/11/1978,,,Louisville,Jefferson,Kentucky,Female,Black / African American,10/01/2025
+UP6717,ME/C Case OC-74-76,07/02/1976,60.0,80.0,Constance,Boone,Kentucky,Male,White / Caucasian,10/01/2025
+UP14560,ME/C Case 04-76-0526,05/09/1976,18.0,22.0,Shepherdsville,Bullitt,Kentucky,Male,White / Caucasian,10/01/2025
+UP6711,ME/C Case OC-42-76 *,04/17/1976,13.0,15.0,,Grant,Kentucky,Female,White / Caucasian,10/01/2025
+UP107,ME/C Case ME-73-22,11/02/1973,20.0,50.0,,Barren,Kentucky,Female,White / Caucasian,05/15/2025
+UP753,ME/C Case ME-07-049,03/28/1973,20.0,40.0,Cadiz,Trigg,Kentucky,Male,Black / African American,10/01/2025
+UP16003,ME/C Case KSP 16-4691,08/14/1971,,,DeKoven,Union,Kentucky,Male,White / Caucasian,10/01/2025

@@ -1,0 +1,1355 @@
+year,state,population,source
+2000,Alabama,3,census_intercensal
+2001,Alabama,3,census_intercensal
+2002,Alabama,4,census_intercensal
+2003,Alabama,5,census_intercensal
+2004,Alabama,5,census_intercensal
+2005,Alabama,3,census_intercensal
+2006,Alabama,5,census_intercensal
+2007,Alabama,5,census_intercensal
+2008,Alabama,7,census_intercensal
+2009,Alabama,7,census_intercensal
+2010,Alabama,7,census_intercensal
+2011,Alabama,4799642,census_nst_est
+2012,Alabama,4816632,census_nst_est
+2013,Alabama,4831586,census_nst_est
+2014,Alabama,4843737,census_nst_est
+2015,Alabama,4854803,census_nst_est
+2016,Alabama,4866824,census_nst_est
+2017,Alabama,4877989,census_nst_est
+2018,Alabama,4891628,census_nst_est
+2019,Alabama,4907965,census_nst_est
+2020,Alabama,4921532,census_nst_est
+2021,Alabama,5050380,census_nst_est
+2022,Alabama,5073903,census_nst_est
+2023,Alabama,5108468,census_nst_est
+2000,Alaska,0,census_intercensal
+2001,Alaska,0,census_intercensal
+2002,Alaska,0,census_intercensal
+2003,Alaska,0,census_intercensal
+2004,Alaska,0,census_intercensal
+2005,Alaska,0,census_intercensal
+2006,Alaska,0,census_intercensal
+2007,Alaska,0,census_intercensal
+2008,Alaska,0,census_intercensal
+2009,Alaska,0,census_intercensal
+2010,Alaska,0,census_intercensal
+2011,Alaska,722349,census_nst_est
+2012,Alaska,730810,census_nst_est
+2013,Alaska,737626,census_nst_est
+2014,Alaska,737075,census_nst_est
+2015,Alaska,738430,census_nst_est
+2016,Alaska,742575,census_nst_est
+2017,Alaska,740983,census_nst_est
+2018,Alaska,736624,census_nst_est
+2019,Alaska,733603,census_nst_est
+2020,Alaska,731158,census_nst_est
+2021,Alaska,734923,census_nst_est
+2022,Alaska,733276,census_nst_est
+2023,Alaska,733406,census_nst_est
+2000,Arizona,20,census_intercensal
+2001,Arizona,18,census_intercensal
+2002,Arizona,21,census_intercensal
+2003,Arizona,24,census_intercensal
+2004,Arizona,23,census_intercensal
+2005,Arizona,29,census_intercensal
+2006,Arizona,32,census_intercensal
+2007,Arizona,31,census_intercensal
+2008,Arizona,32,census_intercensal
+2009,Arizona,38,census_intercensal
+2010,Arizona,38,census_intercensal
+2011,Arizona,6473416,census_nst_est
+2012,Arizona,6556344,census_nst_est
+2013,Arizona,6634690,census_nst_est
+2014,Arizona,6732873,census_nst_est
+2015,Arizona,6832810,census_nst_est
+2016,Arizona,6944767,census_nst_est
+2017,Arizona,7048088,census_nst_est
+2018,Arizona,7164228,census_nst_est
+2019,Arizona,7291843,census_nst_est
+2020,Arizona,7421401,census_nst_est
+2021,Arizona,7272487,census_nst_est
+2022,Arizona,7365684,census_nst_est
+2023,Arizona,7431344,census_nst_est
+2000,Arkansas,3,census_intercensal
+2001,Arkansas,3,census_intercensal
+2002,Arkansas,3,census_intercensal
+2003,Arkansas,3,census_intercensal
+2004,Arkansas,2,census_intercensal
+2005,Arkansas,2,census_intercensal
+2006,Arkansas,3,census_intercensal
+2007,Arkansas,3,census_intercensal
+2008,Arkansas,3,census_intercensal
+2009,Arkansas,3,census_intercensal
+2010,Arkansas,1,census_intercensal
+2011,Arkansas,2941038,census_nst_est
+2012,Arkansas,2952876,census_nst_est
+2013,Arkansas,2960459,census_nst_est
+2014,Arkansas,2968759,census_nst_est
+2015,Arkansas,2979732,census_nst_est
+2016,Arkansas,2991815,census_nst_est
+2017,Arkansas,3003855,census_nst_est
+2018,Arkansas,3012161,census_nst_est
+2019,Arkansas,3020985,census_nst_est
+2020,Arkansas,3030522,census_nst_est
+2021,Arkansas,3028443,census_nst_est
+2022,Arkansas,3046404,census_nst_est
+2023,Arkansas,3067732,census_nst_est
+2000,California,189,census_intercensal
+2001,California,227,census_intercensal
+2002,California,255,census_intercensal
+2003,California,279,census_intercensal
+2004,California,305,census_intercensal
+2005,California,353,census_intercensal
+2006,California,389,census_intercensal
+2007,California,450,census_intercensal
+2008,California,507,census_intercensal
+2009,California,573,census_intercensal
+2010,California,728,census_intercensal
+2011,California,37636311,census_nst_est
+2012,California,37944551,census_nst_est
+2013,California,38253768,census_nst_est
+2014,California,38586706,census_nst_est
+2015,California,38904296,census_nst_est
+2016,California,39149186,census_nst_est
+2017,California,39337785,census_nst_est
+2018,California,39437463,census_nst_est
+2019,California,39437610,census_nst_est
+2020,California,39368078,census_nst_est
+2021,California,39145060,census_nst_est
+2022,California,39040616,census_nst_est
+2023,California,38965193,census_nst_est
+2000,Colorado,30,census_intercensal
+2001,Colorado,31,census_intercensal
+2002,Colorado,24,census_intercensal
+2003,Colorado,27,census_intercensal
+2004,Colorado,29,census_intercensal
+2005,Colorado,31,census_intercensal
+2006,Colorado,35,census_intercensal
+2007,Colorado,39,census_intercensal
+2008,Colorado,41,census_intercensal
+2009,Colorado,43,census_intercensal
+2010,Colorado,47,census_intercensal
+2011,Colorado,5121900,census_nst_est
+2012,Colorado,5193660,census_nst_est
+2013,Colorado,5270774,census_nst_est
+2014,Colorado,5352637,census_nst_est
+2015,Colorado,5454328,census_nst_est
+2016,Colorado,5543844,census_nst_est
+2017,Colorado,5617421,census_nst_est
+2018,Colorado,5697155,census_nst_est
+2019,Colorado,5758486,census_nst_est
+2020,Colorado,5807719,census_nst_est
+2021,Colorado,5811596,census_nst_est
+2022,Colorado,5841039,census_nst_est
+2023,Colorado,5877610,census_nst_est
+2000,Connecticut,7,census_intercensal
+2001,Connecticut,9,census_intercensal
+2002,Connecticut,10,census_intercensal
+2003,Connecticut,12,census_intercensal
+2004,Connecticut,16,census_intercensal
+2005,Connecticut,18,census_intercensal
+2006,Connecticut,20,census_intercensal
+2007,Connecticut,24,census_intercensal
+2008,Connecticut,27,census_intercensal
+2009,Connecticut,31,census_intercensal
+2010,Connecticut,30,census_intercensal
+2011,Connecticut,3588632,census_nst_est
+2012,Connecticut,3595211,census_nst_est
+2013,Connecticut,3595792,census_nst_est
+2014,Connecticut,3595697,census_nst_est
+2015,Connecticut,3588561,census_nst_est
+2016,Connecticut,3579830,census_nst_est
+2017,Connecticut,3575324,census_nst_est
+2018,Connecticut,3574561,census_nst_est
+2019,Connecticut,3566022,census_nst_est
+2020,Connecticut,3557006,census_nst_est
+2021,Connecticut,3603691,census_nst_est
+2022,Connecticut,3608706,census_nst_est
+2023,Connecticut,3617176,census_nst_est
+2000,Delaware,0,census_intercensal
+2001,Delaware,0,census_intercensal
+2002,Delaware,0,census_intercensal
+2003,Delaware,0,census_intercensal
+2004,Delaware,0,census_intercensal
+2005,Delaware,1,census_intercensal
+2006,Delaware,1,census_intercensal
+2007,Delaware,1,census_intercensal
+2008,Delaware,1,census_intercensal
+2009,Delaware,1,census_intercensal
+2010,Delaware,1,census_intercensal
+2011,Delaware,907590,census_nst_est
+2012,Delaware,915518,census_nst_est
+2013,Delaware,924062,census_nst_est
+2014,Delaware,933131,census_nst_est
+2015,Delaware,942065,census_nst_est
+2016,Delaware,949989,census_nst_est
+2017,Delaware,957942,census_nst_est
+2018,Delaware,966985,census_nst_est
+2019,Delaware,976668,census_nst_est
+2020,Delaware,986809,census_nst_est
+2021,Delaware,1004881,census_nst_est
+2022,Delaware,1019459,census_nst_est
+2023,Delaware,1031890,census_nst_est
+2000,District of Columbia,4,census_intercensal
+2001,District of Columbia,4,census_intercensal
+2002,District of Columbia,4,census_intercensal
+2003,District of Columbia,4,census_intercensal
+2004,District of Columbia,4,census_intercensal
+2005,District of Columbia,5,census_intercensal
+2006,District of Columbia,4,census_intercensal
+2007,District of Columbia,5,census_intercensal
+2008,District of Columbia,5,census_intercensal
+2009,District of Columbia,5,census_intercensal
+2010,District of Columbia,5,census_intercensal
+2011,District of Columbia,620290,census_nst_est
+2012,District of Columbia,635737,census_nst_est
+2013,District of Columbia,651559,census_nst_est
+2014,District of Columbia,663603,census_nst_est
+2015,District of Columbia,677014,census_nst_est
+2016,District of Columbia,687576,census_nst_est
+2017,District of Columbia,697079,census_nst_est
+2018,District of Columbia,704147,census_nst_est
+2019,District of Columbia,708253,census_nst_est
+2020,District of Columbia,712816,census_nst_est
+2021,District of Columbia,669037,census_nst_est
+2022,District of Columbia,670949,census_nst_est
+2023,District of Columbia,678972,census_nst_est
+2020,East North Central,47345074,census_nst_est
+2021,East North Central,47187461,census_nst_est
+2022,East North Central,47098310,census_nst_est
+2023,East North Central,47146039,census_nst_est
+2020,East South Central,19424519,census_nst_est
+2021,East South Central,19471271,census_nst_est
+2022,East South Central,19573370,census_nst_est
+2023,East South Central,19700801,census_nst_est
+2000,Florida,75,census_intercensal
+2001,Florida,80,census_intercensal
+2002,Florida,81,census_intercensal
+2003,Florida,85,census_intercensal
+2004,Florida,95,census_intercensal
+2005,Florida,105,census_intercensal
+2006,Florida,114,census_intercensal
+2007,Florida,122,census_intercensal
+2008,Florida,138,census_intercensal
+2009,Florida,154,census_intercensal
+2010,Florida,158,census_intercensal
+2011,Florida,19055607,census_nst_est
+2012,Florida,19302016,census_nst_est
+2013,Florida,19551678,census_nst_est
+2014,Florida,19853880,census_nst_est
+2015,Florida,20219111,census_nst_est
+2016,Florida,20627237,census_nst_est
+2017,Florida,20977089,census_nst_est
+2018,Florida,21254926,census_nst_est
+2019,Florida,21492056,census_nst_est
+2020,Florida,21733312,census_nst_est
+2021,Florida,21830708,census_nst_est
+2022,Florida,22245521,census_nst_est
+2023,Florida,22610726,census_nst_est
+2000,Georgia,11,census_intercensal
+2001,Georgia,11,census_intercensal
+2002,Georgia,14,census_intercensal
+2003,Georgia,14,census_intercensal
+2004,Georgia,17,census_intercensal
+2005,Georgia,18,census_intercensal
+2006,Georgia,19,census_intercensal
+2007,Georgia,19,census_intercensal
+2008,Georgia,20,census_intercensal
+2009,Georgia,20,census_intercensal
+2010,Georgia,17,census_intercensal
+2011,Georgia,9803630,census_nst_est
+2012,Georgia,9903580,census_nst_est
+2013,Georgia,9975592,census_nst_est
+2014,Georgia,10071204,census_nst_est
+2015,Georgia,10183353,census_nst_est
+2016,Georgia,10308442,census_nst_est
+2017,Georgia,10417031,census_nst_est
+2018,Georgia,10519389,census_nst_est
+2019,Georgia,10628020,census_nst_est
+2020,Georgia,10710017,census_nst_est
+2021,Georgia,10790385,census_nst_est
+2022,Georgia,10913150,census_nst_est
+2023,Georgia,11029227,census_nst_est
+2000,Hawaii,18,census_intercensal
+2001,Hawaii,23,census_intercensal
+2002,Hawaii,27,census_intercensal
+2003,Hawaii,34,census_intercensal
+2004,Hawaii,37,census_intercensal
+2005,Hawaii,42,census_intercensal
+2006,Hawaii,49,census_intercensal
+2007,Hawaii,55,census_intercensal
+2008,Hawaii,59,census_intercensal
+2009,Hawaii,69,census_intercensal
+2010,Hawaii,68,census_intercensal
+2011,Hawaii,1379562,census_nst_est
+2012,Hawaii,1395199,census_nst_est
+2013,Hawaii,1408822,census_nst_est
+2014,Hawaii,1415335,census_nst_est
+2015,Hawaii,1422999,census_nst_est
+2016,Hawaii,1428885,census_nst_est
+2017,Hawaii,1425763,census_nst_est
+2018,Hawaii,1423102,census_nst_est
+2019,Hawaii,1415615,census_nst_est
+2020,Hawaii,1407006,census_nst_est
+2021,Hawaii,1446745,census_nst_est
+2022,Hawaii,1439399,census_nst_est
+2023,Hawaii,1435138,census_nst_est
+2000,Idaho,2,census_intercensal
+2001,Idaho,3,census_intercensal
+2002,Idaho,2,census_intercensal
+2003,Idaho,2,census_intercensal
+2004,Idaho,3,census_intercensal
+2005,Idaho,3,census_intercensal
+2006,Idaho,3,census_intercensal
+2007,Idaho,4,census_intercensal
+2008,Idaho,3,census_intercensal
+2009,Idaho,4,census_intercensal
+2010,Idaho,4,census_intercensal
+2011,Idaho,1584272,census_nst_est
+2012,Idaho,1595910,census_nst_est
+2013,Idaho,1612053,census_nst_est
+2014,Idaho,1632248,census_nst_est
+2015,Idaho,1652495,census_nst_est
+2016,Idaho,1684036,census_nst_est
+2017,Idaho,1719745,census_nst_est
+2018,Idaho,1752074,census_nst_est
+2019,Idaho,1789060,census_nst_est
+2020,Idaho,1826913,census_nst_est
+2021,Idaho,1904537,census_nst_est
+2022,Idaho,1938996,census_nst_est
+2023,Idaho,1964726,census_nst_est
+2000,Illinois,21,census_intercensal
+2001,Illinois,24,census_intercensal
+2002,Illinois,25,census_intercensal
+2003,Illinois,27,census_intercensal
+2004,Illinois,29,census_intercensal
+2005,Illinois,32,census_intercensal
+2006,Illinois,36,census_intercensal
+2007,Illinois,41,census_intercensal
+2008,Illinois,45,census_intercensal
+2009,Illinois,48,census_intercensal
+2010,Illinois,48,census_intercensal
+2011,Illinois,12867783,census_nst_est
+2012,Illinois,12883029,census_nst_est
+2013,Illinois,12895778,census_nst_est
+2014,Illinois,12885092,census_nst_est
+2015,Illinois,12859585,census_nst_est
+2016,Illinois,12821709,census_nst_est
+2017,Illinois,12779893,census_nst_est
+2018,Illinois,12724685,census_nst_est
+2019,Illinois,12667017,census_nst_est
+2020,Illinois,12587530,census_nst_est
+2021,Illinois,12690341,census_nst_est
+2022,Illinois,12582515,census_nst_est
+2023,Illinois,12549689,census_nst_est
+2000,Indiana,4,census_intercensal
+2001,Indiana,4,census_intercensal
+2002,Indiana,4,census_intercensal
+2003,Indiana,4,census_intercensal
+2004,Indiana,4,census_intercensal
+2005,Indiana,7,census_intercensal
+2006,Indiana,8,census_intercensal
+2007,Indiana,7,census_intercensal
+2008,Indiana,7,census_intercensal
+2009,Indiana,8,census_intercensal
+2010,Indiana,7,census_intercensal
+2011,Indiana,6517250,census_nst_est
+2012,Indiana,6538989,census_nst_est
+2013,Indiana,6570575,census_nst_est
+2014,Indiana,6596019,census_nst_est
+2015,Indiana,6611442,census_nst_est
+2016,Indiana,6637898,census_nst_est
+2017,Indiana,6662068,census_nst_est
+2018,Indiana,6698481,census_nst_est
+2019,Indiana,6731010,census_nst_est
+2020,Indiana,6754953,census_nst_est
+2021,Indiana,6813798,census_nst_est
+2022,Indiana,6832274,census_nst_est
+2023,Indiana,6862199,census_nst_est
+2000,Iowa,3,census_intercensal
+2001,Iowa,3,census_intercensal
+2002,Iowa,2,census_intercensal
+2003,Iowa,2,census_intercensal
+2004,Iowa,2,census_intercensal
+2005,Iowa,3,census_intercensal
+2006,Iowa,3,census_intercensal
+2007,Iowa,3,census_intercensal
+2008,Iowa,2,census_intercensal
+2009,Iowa,2,census_intercensal
+2010,Iowa,2,census_intercensal
+2011,Iowa,3066772,census_nst_est
+2012,Iowa,3076844,census_nst_est
+2013,Iowa,3093935,census_nst_est
+2014,Iowa,3110643,census_nst_est
+2015,Iowa,3122541,census_nst_est
+2016,Iowa,3133210,census_nst_est
+2017,Iowa,3143734,census_nst_est
+2018,Iowa,3149900,census_nst_est
+2019,Iowa,3159596,census_nst_est
+2020,Iowa,3163561,census_nst_est
+2021,Iowa,3197944,census_nst_est
+2022,Iowa,3199693,census_nst_est
+2023,Iowa,3207004,census_nst_est
+2000,Kansas,4,census_intercensal
+2001,Kansas,3,census_intercensal
+2002,Kansas,4,census_intercensal
+2003,Kansas,5,census_intercensal
+2004,Kansas,5,census_intercensal
+2005,Kansas,5,census_intercensal
+2006,Kansas,6,census_intercensal
+2007,Kansas,7,census_intercensal
+2008,Kansas,8,census_intercensal
+2009,Kansas,8,census_intercensal
+2010,Kansas,7,census_intercensal
+2011,Kansas,2869677,census_nst_est
+2012,Kansas,2886024,census_nst_est
+2013,Kansas,2894306,census_nst_est
+2014,Kansas,2901861,census_nst_est
+2015,Kansas,2910717,census_nst_est
+2016,Kansas,2912977,census_nst_est
+2017,Kansas,2910892,census_nst_est
+2018,Kansas,2912748,census_nst_est
+2019,Kansas,2912635,census_nst_est
+2020,Kansas,2913805,census_nst_est
+2021,Kansas,2937946,census_nst_est
+2022,Kansas,2936716,census_nst_est
+2023,Kansas,2940546,census_nst_est
+2000,Kentucky,8,census_intercensal
+2001,Kentucky,8,census_intercensal
+2002,Kentucky,9,census_intercensal
+2003,Kentucky,9,census_intercensal
+2004,Kentucky,10,census_intercensal
+2005,Kentucky,9,census_intercensal
+2006,Kentucky,8,census_intercensal
+2007,Kentucky,8,census_intercensal
+2008,Kentucky,9,census_intercensal
+2009,Kentucky,9,census_intercensal
+2010,Kentucky,10,census_intercensal
+2011,Kentucky,4370817,census_nst_est
+2012,Kentucky,4387865,census_nst_est
+2013,Kentucky,4406906,census_nst_est
+2014,Kentucky,4416992,census_nst_est
+2015,Kentucky,4429126,census_nst_est
+2016,Kentucky,4440306,census_nst_est
+2017,Kentucky,4455590,census_nst_est
+2018,Kentucky,4464273,census_nst_est
+2019,Kentucky,4472345,census_nst_est
+2020,Kentucky,4477251,census_nst_est
+2021,Kentucky,4507600,census_nst_est
+2022,Kentucky,4511563,census_nst_est
+2023,Kentucky,4526154,census_nst_est
+2000,Louisiana,9,census_intercensal
+2001,Louisiana,9,census_intercensal
+2002,Louisiana,9,census_intercensal
+2003,Louisiana,9,census_intercensal
+2004,Louisiana,11,census_intercensal
+2005,Louisiana,10,census_intercensal
+2006,Louisiana,10,census_intercensal
+2007,Louisiana,11,census_intercensal
+2008,Louisiana,12,census_intercensal
+2009,Louisiana,12,census_intercensal
+2010,Louisiana,14,census_intercensal
+2011,Louisiana,4576244,census_nst_est
+2012,Louisiana,4602067,census_nst_est
+2013,Louisiana,4626040,census_nst_est
+2014,Louisiana,4645938,census_nst_est
+2015,Louisiana,4666998,census_nst_est
+2016,Louisiana,4681346,census_nst_est
+2017,Louisiana,4673673,census_nst_est
+2018,Louisiana,4664450,census_nst_est
+2019,Louisiana,4658285,census_nst_est
+2020,Louisiana,4645318,census_nst_est
+2021,Louisiana,4627047,census_nst_est
+2022,Louisiana,4588023,census_nst_est
+2023,Louisiana,4573749,census_nst_est
+2000,Maine,2,census_intercensal
+2001,Maine,2,census_intercensal
+2002,Maine,2,census_intercensal
+2003,Maine,2,census_intercensal
+2004,Maine,2,census_intercensal
+2005,Maine,1,census_intercensal
+2006,Maine,2,census_intercensal
+2007,Maine,2,census_intercensal
+2008,Maine,2,census_intercensal
+2009,Maine,2,census_intercensal
+2010,Maine,2,census_intercensal
+2011,Maine,1328473,census_nst_est
+2012,Maine,1328094,census_nst_est
+2013,Maine,1328543,census_nst_est
+2014,Maine,1331217,census_nst_est
+2015,Maine,1329098,census_nst_est
+2016,Maine,1332348,census_nst_est
+2017,Maine,1335743,census_nst_est
+2018,Maine,1340123,census_nst_est
+2019,Maine,1345770,census_nst_est
+2020,Maine,1350141,census_nst_est
+2021,Maine,1378787,census_nst_est
+2022,Maine,1389338,census_nst_est
+2023,Maine,1395722,census_nst_est
+2000,Maryland,9,census_intercensal
+2001,Maryland,9,census_intercensal
+2002,Maryland,12,census_intercensal
+2003,Maryland,15,census_intercensal
+2004,Maryland,16,census_intercensal
+2005,Maryland,20,census_intercensal
+2006,Maryland,20,census_intercensal
+2007,Maryland,21,census_intercensal
+2008,Maryland,24,census_intercensal
+2009,Maryland,27,census_intercensal
+2010,Maryland,24,census_intercensal
+2011,Maryland,5840241,census_nst_est
+2012,Maryland,5888375,census_nst_est
+2013,Maryland,5925197,census_nst_est
+2014,Maryland,5960064,census_nst_est
+2015,Maryland,5988528,census_nst_est
+2016,Maryland,6007014,census_nst_est
+2017,Maryland,6028186,census_nst_est
+2018,Maryland,6042153,census_nst_est
+2019,Maryland,6054954,census_nst_est
+2020,Maryland,6055802,census_nst_est
+2021,Maryland,6175045,census_nst_est
+2022,Maryland,6163981,census_nst_est
+2023,Maryland,6180253,census_nst_est
+2000,Massachusetts,22,census_intercensal
+2001,Massachusetts,24,census_intercensal
+2002,Massachusetts,28,census_intercensal
+2003,Massachusetts,30,census_intercensal
+2004,Massachusetts,32,census_intercensal
+2005,Massachusetts,37,census_intercensal
+2006,Massachusetts,38,census_intercensal
+2007,Massachusetts,43,census_intercensal
+2008,Massachusetts,39,census_intercensal
+2009,Massachusetts,41,census_intercensal
+2010,Massachusetts,39,census_intercensal
+2011,Massachusetts,6614218,census_nst_est
+2012,Massachusetts,6664269,census_nst_est
+2013,Massachusetts,6715158,census_nst_est
+2014,Massachusetts,6764864,census_nst_est
+2015,Massachusetts,6797484,census_nst_est
+2016,Massachusetts,6827280,census_nst_est
+2017,Massachusetts,6863560,census_nst_est
+2018,Massachusetts,6885720,census_nst_est
+2019,Massachusetts,6894883,census_nst_est
+2020,Massachusetts,6893574,census_nst_est
+2021,Massachusetts,6991951,census_nst_est
+2022,Massachusetts,6982740,census_nst_est
+2023,Massachusetts,7001399,census_nst_est
+2000,Michigan,9,census_intercensal
+2001,Michigan,9,census_intercensal
+2002,Michigan,12,census_intercensal
+2003,Michigan,12,census_intercensal
+2004,Michigan,12,census_intercensal
+2005,Michigan,11,census_intercensal
+2006,Michigan,16,census_intercensal
+2007,Michigan,15,census_intercensal
+2008,Michigan,15,census_intercensal
+2009,Michigan,17,census_intercensal
+2010,Michigan,17,census_intercensal
+2011,Michigan,9883053,census_nst_est
+2012,Michigan,9898289,census_nst_est
+2013,Michigan,9914802,census_nst_est
+2014,Michigan,9932033,census_nst_est
+2015,Michigan,9934483,census_nst_est
+2016,Michigan,9954117,census_nst_est
+2017,Michigan,9976752,census_nst_est
+2018,Michigan,9987286,census_nst_est
+2019,Michigan,9984795,census_nst_est
+2020,Michigan,9966555,census_nst_est
+2021,Michigan,10038117,census_nst_est
+2022,Michigan,10033281,census_nst_est
+2023,Michigan,10037261,census_nst_est
+2020,Middle Atlantic,42372579,census_nst_est
+2021,Middle Atlantic,42137315,census_nst_est
+2022,Middle Atlantic,41906108,census_nst_est
+2023,Middle Atlantic,41823740,census_nst_est
+2010,Midwest Region,66975328,census_nst_est
+2011,Midwest Region,67164092,census_nst_est
+2012,Midwest Region,67348275,census_nst_est
+2013,Midwest Region,67576524,census_nst_est
+2014,Midwest Region,67765576,census_nst_est
+2015,Midwest Region,67885682,census_nst_est
+2016,Midwest Region,68018175,census_nst_est
+2017,Midwest Region,68160342,census_nst_est
+2018,Midwest Region,68263019,census_nst_est
+2019,Midwest Region,68340091,census_nst_est
+2020,Midwest Region,68316744,census_nst_est
+2021,Midwest Region,68850246,census_nst_est
+2022,Midwest Region,68783028,census_nst_est
+2023,Midwest Region,68909283,census_nst_est
+2000,Minnesota,1,census_intercensal
+2001,Minnesota,2,census_intercensal
+2002,Minnesota,3,census_intercensal
+2003,Minnesota,5,census_intercensal
+2004,Minnesota,6,census_intercensal
+2005,Minnesota,10,census_intercensal
+2006,Minnesota,10,census_intercensal
+2007,Minnesota,10,census_intercensal
+2008,Minnesota,13,census_intercensal
+2009,Minnesota,15,census_intercensal
+2010,Minnesota,14,census_intercensal
+2011,Minnesota,5346620,census_nst_est
+2012,Minnesota,5377500,census_nst_est
+2013,Minnesota,5414722,census_nst_est
+2014,Minnesota,5452665,census_nst_est
+2015,Minnesota,5484002,census_nst_est
+2016,Minnesota,5525360,census_nst_est
+2017,Minnesota,5569283,census_nst_est
+2018,Minnesota,5608762,census_nst_est
+2019,Minnesota,5640053,census_nst_est
+2020,Minnesota,5657342,census_nst_est
+2021,Minnesota,5717968,census_nst_est
+2022,Minnesota,5714300,census_nst_est
+2023,Minnesota,5737915,census_nst_est
+2000,Mississippi,5,census_intercensal
+2001,Mississippi,6,census_intercensal
+2002,Mississippi,6,census_intercensal
+2003,Mississippi,5,census_intercensal
+2004,Mississippi,6,census_intercensal
+2005,Mississippi,6,census_intercensal
+2006,Mississippi,4,census_intercensal
+2007,Mississippi,7,census_intercensal
+2008,Mississippi,4,census_intercensal
+2009,Mississippi,6,census_intercensal
+2010,Mississippi,6,census_intercensal
+2011,Mississippi,2979147,census_nst_est
+2012,Mississippi,2984599,census_nst_est
+2013,Mississippi,2989839,census_nst_est
+2014,Mississippi,2991892,census_nst_est
+2015,Mississippi,2990231,census_nst_est
+2016,Mississippi,2990595,census_nst_est
+2017,Mississippi,2990674,census_nst_est
+2018,Mississippi,2982879,census_nst_est
+2019,Mississippi,2978227,census_nst_est
+2020,Mississippi,2966786,census_nst_est
+2021,Mississippi,2949582,census_nst_est
+2022,Mississippi,2938928,census_nst_est
+2023,Mississippi,2939690,census_nst_est
+2000,Missouri,10,census_intercensal
+2001,Missouri,11,census_intercensal
+2002,Missouri,11,census_intercensal
+2003,Missouri,12,census_intercensal
+2004,Missouri,11,census_intercensal
+2005,Missouri,10,census_intercensal
+2006,Missouri,11,census_intercensal
+2007,Missouri,9,census_intercensal
+2008,Missouri,10,census_intercensal
+2009,Missouri,13,census_intercensal
+2010,Missouri,13,census_intercensal
+2011,Missouri,6011182,census_nst_est
+2012,Missouri,6026027,census_nst_est
+2013,Missouri,6042989,census_nst_est
+2014,Missouri,6059130,census_nst_est
+2015,Missouri,6075411,census_nst_est
+2016,Missouri,6091384,census_nst_est
+2017,Missouri,6111382,census_nst_est
+2018,Missouri,6125986,census_nst_est
+2019,Missouri,6140475,census_nst_est
+2020,Missouri,6151548,census_nst_est
+2021,Missouri,6170393,census_nst_est
+2022,Missouri,6177168,census_nst_est
+2023,Missouri,6196156,census_nst_est
+2000,Montana,1,census_intercensal
+2001,Montana,1,census_intercensal
+2002,Montana,1,census_intercensal
+2003,Montana,1,census_intercensal
+2004,Montana,1,census_intercensal
+2005,Montana,0,census_intercensal
+2006,Montana,0,census_intercensal
+2007,Montana,0,census_intercensal
+2008,Montana,0,census_intercensal
+2009,Montana,0,census_intercensal
+2010,Montana,0,census_intercensal
+2011,Montana,997518,census_nst_est
+2012,Montana,1004168,census_nst_est
+2013,Montana,1014158,census_nst_est
+2014,Montana,1022657,census_nst_est
+2015,Montana,1031495,census_nst_est
+2016,Montana,1042137,census_nst_est
+2017,Montana,1053862,census_nst_est
+2018,Montana,1061818,census_nst_est
+2019,Montana,1070123,census_nst_est
+2020,Montana,1080577,census_nst_est
+2021,Montana,1106366,census_nst_est
+2022,Montana,1122878,census_nst_est
+2023,Montana,1132812,census_nst_est
+2020,Mountain,25004426,census_nst_est
+2021,Mountain,25277400,census_nst_est
+2022,Mountain,25522359,census_nst_est
+2023,Mountain,25716830,census_nst_est
+2000,Nebraska,1,census_intercensal
+2001,Nebraska,1,census_intercensal
+2002,Nebraska,1,census_intercensal
+2003,Nebraska,2,census_intercensal
+2004,Nebraska,2,census_intercensal
+2005,Nebraska,3,census_intercensal
+2006,Nebraska,3,census_intercensal
+2007,Nebraska,3,census_intercensal
+2008,Nebraska,4,census_intercensal
+2009,Nebraska,4,census_intercensal
+2010,Nebraska,4,census_intercensal
+2011,Nebraska,1840914,census_nst_est
+2012,Nebraska,1853691,census_nst_est
+2013,Nebraska,1865813,census_nst_est
+2014,Nebraska,1879955,census_nst_est
+2015,Nebraska,1892059,census_nst_est
+2016,Nebraska,1906483,census_nst_est
+2017,Nebraska,1916998,census_nst_est
+2018,Nebraska,1925512,census_nst_est
+2019,Nebraska,1932571,census_nst_est
+2020,Nebraska,1937552,census_nst_est
+2021,Nebraska,1964253,census_nst_est
+2022,Nebraska,1968060,census_nst_est
+2023,Nebraska,1978379,census_nst_est
+2000,Nevada,2,census_intercensal
+2001,Nevada,4,census_intercensal
+2002,Nevada,4,census_intercensal
+2003,Nevada,4,census_intercensal
+2004,Nevada,7,census_intercensal
+2005,Nevada,7,census_intercensal
+2006,Nevada,9,census_intercensal
+2007,Nevada,11,census_intercensal
+2008,Nevada,12,census_intercensal
+2009,Nevada,14,census_intercensal
+2010,Nevada,13,census_intercensal
+2011,Nevada,2713114,census_nst_est
+2012,Nevada,2744670,census_nst_est
+2013,Nevada,2776956,census_nst_est
+2014,Nevada,2818935,census_nst_est
+2015,Nevada,2868531,census_nst_est
+2016,Nevada,2919555,census_nst_est
+2017,Nevada,2972097,census_nst_est
+2018,Nevada,3030725,census_nst_est
+2019,Nevada,3090771,census_nst_est
+2020,Nevada,3138259,census_nst_est
+2021,Nevada,3146632,census_nst_est
+2022,Nevada,3177421,census_nst_est
+2023,Nevada,3194176,census_nst_est
+2020,New England,15057898,census_nst_est
+2021,New England,15106108,census_nst_est
+2022,New England,15120739,census_nst_est
+2023,New England,15159777,census_nst_est
+2000,New Hampshire,1,census_intercensal
+2001,New Hampshire,1,census_intercensal
+2002,New Hampshire,1,census_intercensal
+2003,New Hampshire,1,census_intercensal
+2004,New Hampshire,1,census_intercensal
+2005,New Hampshire,0,census_intercensal
+2006,New Hampshire,1,census_intercensal
+2007,New Hampshire,1,census_intercensal
+2008,New Hampshire,1,census_intercensal
+2009,New Hampshire,1,census_intercensal
+2010,New Hampshire,1,census_intercensal
+2011,New Hampshire,1320444,census_nst_est
+2012,New Hampshire,1324677,census_nst_est
+2013,New Hampshire,1327272,census_nst_est
+2014,New Hampshire,1334257,census_nst_est
+2015,New Hampshire,1337480,census_nst_est
+2016,New Hampshire,1343694,census_nst_est
+2017,New Hampshire,1350395,census_nst_est
+2018,New Hampshire,1355064,census_nst_est
+2019,New Hampshire,1360783,census_nst_est
+2020,New Hampshire,1366275,census_nst_est
+2021,New Hampshire,1387494,census_nst_est
+2022,New Hampshire,1399003,census_nst_est
+2023,New Hampshire,1402054,census_nst_est
+2000,New Jersey,23,census_intercensal
+2001,New Jersey,25,census_intercensal
+2002,New Jersey,31,census_intercensal
+2003,New Jersey,39,census_intercensal
+2004,New Jersey,42,census_intercensal
+2005,New Jersey,47,census_intercensal
+2006,New Jersey,60,census_intercensal
+2007,New Jersey,62,census_intercensal
+2008,New Jersey,70,census_intercensal
+2009,New Jersey,79,census_intercensal
+2010,New Jersey,81,census_intercensal
+2011,New Jersey,8828552,census_nst_est
+2012,New Jersey,8845671,census_nst_est
+2013,New Jersey,8857821,census_nst_est
+2014,New Jersey,8867277,census_nst_est
+2015,New Jersey,8870312,census_nst_est
+2016,New Jersey,8873584,census_nst_est
+2017,New Jersey,8888147,census_nst_est
+2018,New Jersey,8891730,census_nst_est
+2019,New Jersey,8891258,census_nst_est
+2020,New Jersey,8882371,census_nst_est
+2021,New Jersey,9269175,census_nst_est
+2022,New Jersey,9260817,census_nst_est
+2023,New Jersey,9290841,census_nst_est
+2000,New Mexico,9,census_intercensal
+2001,New Mexico,8,census_intercensal
+2002,New Mexico,10,census_intercensal
+2003,New Mexico,9,census_intercensal
+2004,New Mexico,13,census_intercensal
+2005,New Mexico,20,census_intercensal
+2006,New Mexico,28,census_intercensal
+2007,New Mexico,30,census_intercensal
+2008,New Mexico,35,census_intercensal
+2009,New Mexico,39,census_intercensal
+2010,New Mexico,39,census_intercensal
+2011,New Mexico,2080707,census_nst_est
+2012,New Mexico,2087715,census_nst_est
+2013,New Mexico,2092833,census_nst_est
+2014,New Mexico,2090236,census_nst_est
+2015,New Mexico,2090071,census_nst_est
+2016,New Mexico,2092555,census_nst_est
+2017,New Mexico,2092844,census_nst_est
+2018,New Mexico,2093754,census_nst_est
+2019,New Mexico,2099634,census_nst_est
+2020,New Mexico,2106319,census_nst_est
+2021,New Mexico,2116950,census_nst_est
+2022,New Mexico,2113476,census_nst_est
+2023,New Mexico,2114371,census_nst_est
+2000,New York,146,census_intercensal
+2001,New York,175,census_intercensal
+2002,New York,199,census_intercensal
+2003,New York,215,census_intercensal
+2004,New York,238,census_intercensal
+2005,New York,266,census_intercensal
+2006,New York,307,census_intercensal
+2007,New York,328,census_intercensal
+2008,New York,366,census_intercensal
+2009,New York,418,census_intercensal
+2010,New York,430,census_intercensal
+2011,New York,19499921,census_nst_est
+2012,New York,19574362,census_nst_est
+2013,New York,19626488,census_nst_est
+2014,New York,19653431,census_nst_est
+2015,New York,19657321,census_nst_est
+2016,New York,19636391,census_nst_est
+2017,New York,19593849,census_nst_est
+2018,New York,19544098,census_nst_est
+2019,New York,19463131,census_nst_est
+2020,New York,19336776,census_nst_est
+2021,New York,19854526,census_nst_est
+2022,New York,19673200,census_nst_est
+2023,New York,19571216,census_nst_est
+2000,North Carolina,10,census_intercensal
+2001,North Carolina,11,census_intercensal
+2002,North Carolina,13,census_intercensal
+2003,North Carolina,16,census_intercensal
+2004,North Carolina,18,census_intercensal
+2005,North Carolina,21,census_intercensal
+2006,North Carolina,22,census_intercensal
+2007,North Carolina,24,census_intercensal
+2008,North Carolina,27,census_intercensal
+2009,North Carolina,28,census_intercensal
+2010,North Carolina,29,census_intercensal
+2011,North Carolina,9658913,census_nst_est
+2012,North Carolina,9751810,census_nst_est
+2013,North Carolina,9846717,census_nst_est
+2014,North Carolina,9937295,census_nst_est
+2015,North Carolina,10037218,census_nst_est
+2016,North Carolina,10161802,census_nst_est
+2017,North Carolina,10275758,census_nst_est
+2018,North Carolina,10391358,census_nst_est
+2019,North Carolina,10501384,census_nst_est
+2020,North Carolina,10600823,census_nst_est
+2021,North Carolina,10567100,census_nst_est
+2022,North Carolina,10695965,census_nst_est
+2023,North Carolina,10835491,census_nst_est
+2000,North Dakota,1,census_intercensal
+2001,North Dakota,1,census_intercensal
+2002,North Dakota,1,census_intercensal
+2003,North Dakota,1,census_intercensal
+2004,North Dakota,1,census_intercensal
+2005,North Dakota,0,census_intercensal
+2006,North Dakota,0,census_intercensal
+2007,North Dakota,0,census_intercensal
+2008,North Dakota,0,census_intercensal
+2009,North Dakota,0,census_intercensal
+2010,North Dakota,0,census_intercensal
+2011,North Dakota,685526,census_nst_est
+2012,North Dakota,702227,census_nst_est
+2013,North Dakota,723149,census_nst_est
+2014,North Dakota,738736,census_nst_est
+2015,North Dakota,755537,census_nst_est
+2016,North Dakota,756114,census_nst_est
+2017,North Dakota,756755,census_nst_est
+2018,North Dakota,760062,census_nst_est
+2019,North Dakota,763724,census_nst_est
+2020,North Dakota,765309,census_nst_est
+2021,North Dakota,777982,census_nst_est
+2022,North Dakota,778912,census_nst_est
+2023,North Dakota,783926,census_nst_est
+2010,Northeast Region,55380764,census_nst_est
+2011,Northeast Region,55608318,census_nst_est
+2012,Northeast Region,55782661,census_nst_est
+2013,Northeast Region,55912775,census_nst_est
+2014,Northeast Region,56021339,census_nst_est
+2015,Northeast Region,56052790,census_nst_est
+2016,Northeast Region,56063777,census_nst_est
+2017,Northeast Region,56083383,census_nst_est
+2018,Northeast Region,56084543,census_nst_est
+2019,Northeast Region,56002934,census_nst_est
+2020,Northeast Region,55849869,census_nst_est
+2021,Northeast Region,57243423,census_nst_est
+2022,Northeast Region,57026847,census_nst_est
+2023,Northeast Region,56983517,census_nst_est
+2000,Ohio,10,census_intercensal
+2001,Ohio,10,census_intercensal
+2002,Ohio,11,census_intercensal
+2003,Ohio,13,census_intercensal
+2004,Ohio,13,census_intercensal
+2005,Ohio,12,census_intercensal
+2006,Ohio,11,census_intercensal
+2007,Ohio,14,census_intercensal
+2008,Ohio,17,census_intercensal
+2009,Ohio,18,census_intercensal
+2010,Ohio,18,census_intercensal
+2011,Ohio,11545735,census_nst_est
+2012,Ohio,11550971,census_nst_est
+2013,Ohio,11579692,census_nst_est
+2014,Ohio,11606573,census_nst_est
+2015,Ohio,11622315,census_nst_est
+2016,Ohio,11640060,census_nst_est
+2017,Ohio,11665706,census_nst_est
+2018,Ohio,11680892,census_nst_est
+2019,Ohio,11696507,census_nst_est
+2020,Ohio,11693217,census_nst_est
+2021,Ohio,11765227,census_nst_est
+2022,Ohio,11759697,census_nst_est
+2023,Ohio,11785935,census_nst_est
+2000,Oklahoma,7,census_intercensal
+2001,Oklahoma,7,census_intercensal
+2002,Oklahoma,6,census_intercensal
+2003,Oklahoma,7,census_intercensal
+2004,Oklahoma,8,census_intercensal
+2005,Oklahoma,9,census_intercensal
+2006,Oklahoma,9,census_intercensal
+2007,Oklahoma,11,census_intercensal
+2008,Oklahoma,11,census_intercensal
+2009,Oklahoma,12,census_intercensal
+2010,Oklahoma,11,census_intercensal
+2011,Oklahoma,3788824,census_nst_est
+2012,Oklahoma,3819320,census_nst_est
+2013,Oklahoma,3853891,census_nst_est
+2014,Oklahoma,3879187,census_nst_est
+2015,Oklahoma,3910518,census_nst_est
+2016,Oklahoma,3928143,census_nst_est
+2017,Oklahoma,3933602,census_nst_est
+2018,Oklahoma,3943488,census_nst_est
+2019,Oklahoma,3960676,census_nst_est
+2020,Oklahoma,3980783,census_nst_est
+2021,Oklahoma,3991634,census_nst_est
+2022,Oklahoma,4019271,census_nst_est
+2023,Oklahoma,4053824,census_nst_est
+2000,Oregon,3,census_intercensal
+2001,Oregon,4,census_intercensal
+2002,Oregon,5,census_intercensal
+2003,Oregon,5,census_intercensal
+2004,Oregon,6,census_intercensal
+2005,Oregon,10,census_intercensal
+2006,Oregon,14,census_intercensal
+2007,Oregon,13,census_intercensal
+2008,Oregon,14,census_intercensal
+2009,Oregon,17,census_intercensal
+2010,Oregon,14,census_intercensal
+2011,Oregon,3872672,census_nst_est
+2012,Oregon,3900102,census_nst_est
+2013,Oregon,3924110,census_nst_est
+2014,Oregon,3965447,census_nst_est
+2015,Oregon,4018542,census_nst_est
+2016,Oregon,4093271,census_nst_est
+2017,Oregon,4147294,census_nst_est
+2018,Oregon,4183538,census_nst_est
+2019,Oregon,4216116,census_nst_est
+2020,Oregon,4241507,census_nst_est
+2021,Oregon,4256465,census_nst_est
+2022,Oregon,4239379,census_nst_est
+2023,Oregon,4233358,census_nst_est
+2020,Pacific,53656955,census_nst_est
+2021,Pacific,53324626,census_nst_est
+2022,Pacific,53237147,census_nst_est
+2023,Pacific,53179975,census_nst_est
+2000,Pennsylvania,17,census_intercensal
+2001,Pennsylvania,19,census_intercensal
+2002,Pennsylvania,21,census_intercensal
+2003,Pennsylvania,24,census_intercensal
+2004,Pennsylvania,28,census_intercensal
+2005,Pennsylvania,31,census_intercensal
+2006,Pennsylvania,34,census_intercensal
+2007,Pennsylvania,36,census_intercensal
+2008,Pennsylvania,39,census_intercensal
+2009,Pennsylvania,42,census_intercensal
+2010,Pennsylvania,41,census_intercensal
+2011,Pennsylvania,12747052,census_nst_est
+2012,Pennsylvania,12769123,census_nst_est
+2013,Pennsylvania,12779538,census_nst_est
+2014,Pennsylvania,12792392,census_nst_est
+2015,Pennsylvania,12789838,census_nst_est
+2016,Pennsylvania,12788468,census_nst_est
+2017,Pennsylvania,12794679,census_nst_est
+2018,Pennsylvania,12809107,census_nst_est
+2019,Pennsylvania,12798883,census_nst_est
+2020,Pennsylvania,12783254,census_nst_est
+2021,Pennsylvania,13013614,census_nst_est
+2022,Pennsylvania,12972091,census_nst_est
+2023,Pennsylvania,12961683,census_nst_est
+2010,Puerto Rico,3721525,census_nst_est
+2011,Puerto Rico,3678732,census_nst_est
+2012,Puerto Rico,3634488,census_nst_est
+2013,Puerto Rico,3593077,census_nst_est
+2014,Puerto Rico,3534874,census_nst_est
+2015,Puerto Rico,3473232,census_nst_est
+2016,Puerto Rico,3406672,census_nst_est
+2017,Puerto Rico,3325284,census_nst_est
+2018,Puerto Rico,3193344,census_nst_est
+2019,Puerto Rico,3193553,census_nst_est
+2020,Puerto Rico,3159343,census_nst_est
+2021,Puerto Rico,3262693,census_nst_est
+2022,Puerto Rico,3220113,census_nst_est
+2023,Puerto Rico,3205691,census_nst_est
+2000,Rhode Island,2,census_intercensal
+2001,Rhode Island,2,census_intercensal
+2002,Rhode Island,3,census_intercensal
+2003,Rhode Island,3,census_intercensal
+2004,Rhode Island,4,census_intercensal
+2005,Rhode Island,4,census_intercensal
+2006,Rhode Island,6,census_intercensal
+2007,Rhode Island,6,census_intercensal
+2008,Rhode Island,6,census_intercensal
+2009,Rhode Island,7,census_intercensal
+2010,Rhode Island,5,census_intercensal
+2011,Rhode Island,1053829,census_nst_est
+2012,Rhode Island,1054893,census_nst_est
+2013,Rhode Island,1055560,census_nst_est
+2014,Rhode Island,1056511,census_nst_est
+2015,Rhode Island,1056886,census_nst_est
+2016,Rhode Island,1057816,census_nst_est
+2017,Rhode Island,1056554,census_nst_est
+2018,Rhode Island,1059338,census_nst_est
+2019,Rhode Island,1058158,census_nst_est
+2020,Rhode Island,1057125,census_nst_est
+2021,Rhode Island,1097092,census_nst_est
+2022,Rhode Island,1093842,census_nst_est
+2023,Rhode Island,1095962,census_nst_est
+2020,South Atlantic,66174797,census_nst_est
+2021,South Atlantic,66673601,census_nst_est
+2022,South Atlantic,67445114,census_nst_est
+2023,South Atlantic,68225883,census_nst_est
+2000,South Carolina,3,census_intercensal
+2001,South Carolina,3,census_intercensal
+2002,South Carolina,3,census_intercensal
+2003,South Carolina,3,census_intercensal
+2004,South Carolina,2,census_intercensal
+2005,South Carolina,2,census_intercensal
+2006,South Carolina,3,census_intercensal
+2007,South Carolina,3,census_intercensal
+2008,South Carolina,3,census_intercensal
+2009,South Carolina,3,census_intercensal
+2010,South Carolina,3,census_intercensal
+2011,South Carolina,4672655,census_nst_est
+2012,South Carolina,4719027,census_nst_est
+2013,South Carolina,4766469,census_nst_est
+2014,South Carolina,4826858,census_nst_est
+2015,South Carolina,4896006,census_nst_est
+2016,South Carolina,4963031,census_nst_est
+2017,South Carolina,5027102,census_nst_est
+2018,South Carolina,5091702,census_nst_est
+2019,South Carolina,5157702,census_nst_est
+2020,South Carolina,5218040,census_nst_est
+2021,South Carolina,5193848,census_nst_est
+2022,South Carolina,5282955,census_nst_est
+2023,South Carolina,5373555,census_nst_est
+2000,South Dakota,1,census_intercensal
+2001,South Dakota,1,census_intercensal
+2002,South Dakota,1,census_intercensal
+2003,South Dakota,1,census_intercensal
+2004,South Dakota,1,census_intercensal
+2005,South Dakota,1,census_intercensal
+2006,South Dakota,2,census_intercensal
+2007,South Dakota,2,census_intercensal
+2008,South Dakota,2,census_intercensal
+2009,South Dakota,2,census_intercensal
+2010,South Dakota,2,census_intercensal
+2011,South Dakota,823740,census_nst_est
+2012,South Dakota,833859,census_nst_est
+2013,South Dakota,842751,census_nst_est
+2014,South Dakota,849670,census_nst_est
+2015,South Dakota,854663,census_nst_est
+2016,South Dakota,863693,census_nst_est
+2017,South Dakota,873732,census_nst_est
+2018,South Dakota,879386,census_nst_est
+2019,South Dakota,887127,census_nst_est
+2020,South Dakota,892717,census_nst_est
+2021,South Dakota,896299,census_nst_est
+2022,South Dakota,909869,census_nst_est
+2023,South Dakota,919318,census_nst_est
+2010,South Region,114869421,census_nst_est
+2011,South Region,116019483,census_nst_est
+2012,South Region,117264196,census_nst_est
+2013,South Region,118397213,census_nst_est
+2014,South Region,119666248,census_nst_est
+2015,South Region,121049223,census_nst_est
+2016,South Region,122419547,census_nst_est
+2017,South Region,123611036,census_nst_est
+2018,South Region,124649156,census_nst_est
+2019,South Region,125686544,census_nst_est
+2020,South Region,126662754,census_nst_est
+2021,South Region,127353282,census_nst_est
+2022,South Region,128702030,census_nst_est
+2023,South Region,130125290,census_nst_est
+2000,Tennessee,12,census_intercensal
+2001,Tennessee,12,census_intercensal
+2002,Tennessee,10,census_intercensal
+2003,Tennessee,11,census_intercensal
+2004,Tennessee,13,census_intercensal
+2005,Tennessee,14,census_intercensal
+2006,Tennessee,13,census_intercensal
+2007,Tennessee,15,census_intercensal
+2008,Tennessee,14,census_intercensal
+2009,Tennessee,13,census_intercensal
+2010,Tennessee,14,census_intercensal
+2011,Tennessee,6400298,census_nst_est
+2012,Tennessee,6455752,census_nst_est
+2013,Tennessee,6496943,census_nst_est
+2014,Tennessee,6544617,census_nst_est
+2015,Tennessee,6595354,census_nst_est
+2016,Tennessee,6651277,census_nst_est
+2017,Tennessee,6714748,census_nst_est
+2018,Tennessee,6778180,census_nst_est
+2019,Tennessee,6830325,census_nst_est
+2020,Tennessee,6886834,census_nst_est
+2021,Tennessee,6963709,census_nst_est
+2022,Tennessee,7048976,census_nst_est
+2023,Tennessee,7126489,census_nst_est
+2000,Texas,68,census_intercensal
+2001,Texas,67,census_intercensal
+2002,Texas,77,census_intercensal
+2003,Texas,71,census_intercensal
+2004,Texas,77,census_intercensal
+2005,Texas,88,census_intercensal
+2006,Texas,96,census_intercensal
+2007,Texas,114,census_intercensal
+2008,Texas,115,census_intercensal
+2009,Texas,136,census_intercensal
+2010,Texas,142,census_intercensal
+2011,Texas,25645504,census_nst_est
+2012,Texas,26084120,census_nst_est
+2013,Texas,26479646,census_nst_est
+2014,Texas,26963092,census_nst_est
+2015,Texas,27468531,census_nst_est
+2016,Texas,27914064,census_nst_est
+2017,Texas,28291024,census_nst_est
+2018,Texas,28624564,census_nst_est
+2019,Texas,28986794,census_nst_est
+2020,Texas,29360759,census_nst_est
+2021,Texas,29561286,census_nst_est
+2022,Texas,30029848,census_nst_est
+2023,Texas,30503301,census_nst_est
+2000,United States,818,census_intercensal
+2001,United States,914,census_intercensal
+2002,United States,1011,census_intercensal
+2003,United States,1095,census_intercensal
+2004,United States,1203,census_intercensal
+2005,United States,1358,census_intercensal
+2006,United States,1525,census_intercensal
+2007,United States,1676,census_intercensal
+2008,United States,1835,census_intercensal
+2009,United States,2062,census_intercensal
+2010,United States,2228,census_intercensal
+2011,United States,311583481,census_nst_est
+2012,United States,313877662,census_nst_est
+2013,United States,316059947,census_nst_est
+2014,United States,318386329,census_nst_est
+2015,United States,320738994,census_nst_est
+2016,United States,323071755,census_nst_est
+2017,United States,325122128,census_nst_est
+2018,United States,326838199,census_nst_est
+2019,United States,328329953,census_nst_est
+2020,United States,329484123,census_nst_est
+2021,United States,332048977,census_nst_est
+2022,United States,333271411,census_nst_est
+2023,United States,334914895,census_nst_est
+2000,Utah,5,census_intercensal
+2001,Utah,6,census_intercensal
+2002,Utah,6,census_intercensal
+2003,Utah,8,census_intercensal
+2004,Utah,8,census_intercensal
+2005,Utah,9,census_intercensal
+2006,Utah,8,census_intercensal
+2007,Utah,9,census_intercensal
+2008,Utah,11,census_intercensal
+2009,Utah,12,census_intercensal
+2010,Utah,12,census_intercensal
+2011,Utah,2814797,census_nst_est
+2012,Utah,2854146,census_nst_est
+2013,Utah,2898773,census_nst_est
+2014,Utah,2938327,census_nst_est
+2015,Utah,2983626,census_nst_est
+2016,Utah,3044241,census_nst_est
+2017,Utah,3103540,census_nst_est
+2018,Utah,3155153,census_nst_est
+2019,Utah,3203383,census_nst_est
+2020,Utah,3249879,census_nst_est
+2021,Utah,3339284,census_nst_est
+2022,Utah,3381236,census_nst_est
+2023,Utah,3417734,census_nst_est
+2000,Vermont,0,census_intercensal
+2001,Vermont,0,census_intercensal
+2002,Vermont,0,census_intercensal
+2003,Vermont,0,census_intercensal
+2004,Vermont,0,census_intercensal
+2005,Vermont,1,census_intercensal
+2006,Vermont,1,census_intercensal
+2007,Vermont,1,census_intercensal
+2008,Vermont,1,census_intercensal
+2009,Vermont,1,census_intercensal
+2010,Vermont,1,census_intercensal
+2011,Vermont,627197,census_nst_est
+2012,Vermont,626361,census_nst_est
+2013,Vermont,626603,census_nst_est
+2014,Vermont,625693,census_nst_est
+2015,Vermont,625810,census_nst_est
+2016,Vermont,624366,census_nst_est
+2017,Vermont,625132,census_nst_est
+2018,Vermont,624802,census_nst_est
+2019,Vermont,624046,census_nst_est
+2020,Vermont,623347,census_nst_est
+2021,Vermont,647093,census_nst_est
+2022,Vermont,647110,census_nst_est
+2023,Vermont,647464,census_nst_est
+2000,Virginia,11,census_intercensal
+2001,Virginia,12,census_intercensal
+2002,Virginia,12,census_intercensal
+2003,Virginia,13,census_intercensal
+2004,Virginia,15,census_intercensal
+2005,Virginia,14,census_intercensal
+2006,Virginia,18,census_intercensal
+2007,Virginia,18,census_intercensal
+2008,Virginia,19,census_intercensal
+2009,Virginia,20,census_intercensal
+2010,Virginia,20,census_intercensal
+2011,Virginia,8102437,census_nst_est
+2012,Virginia,8187456,census_nst_est
+2013,Virginia,8255861,census_nst_est
+2014,Virginia,8315430,census_nst_est
+2015,Virginia,8367303,census_nst_est
+2016,Virginia,8417651,census_nst_est
+2017,Virginia,8471011,census_nst_est
+2018,Virginia,8510920,census_nst_est
+2019,Virginia,8556642,census_nst_est
+2020,Virginia,8590563,census_nst_est
+2021,Virginia,8657348,census_nst_est
+2022,Virginia,8679099,census_nst_est
+2023,Virginia,8715698,census_nst_est
+2000,Washington,8,census_intercensal
+2001,Washington,9,census_intercensal
+2002,Washington,11,census_intercensal
+2003,Washington,11,census_intercensal
+2004,Washington,12,census_intercensal
+2005,Washington,13,census_intercensal
+2006,Washington,15,census_intercensal
+2007,Washington,14,census_intercensal
+2008,Washington,15,census_intercensal
+2009,Washington,19,census_intercensal
+2010,Washington,20,census_intercensal
+2011,Washington,6827479,census_nst_est
+2012,Washington,6898599,census_nst_est
+2013,Washington,6966252,census_nst_est
+2014,Washington,7057531,census_nst_est
+2015,Washington,7167287,census_nst_est
+2016,Washington,7299961,census_nst_est
+2017,Washington,7427951,census_nst_est
+2018,Washington,7526793,census_nst_est
+2019,Washington,7614024,census_nst_est
+2020,Washington,7693612,census_nst_est
+2021,Washington,7741433,census_nst_est
+2022,Washington,7784477,census_nst_est
+2023,Washington,7812880,census_nst_est
+2020,West North Central,21624720,census_nst_est
+2021,West North Central,21662785,census_nst_est
+2022,West North Central,21684718,census_nst_est
+2023,West North Central,21763244,census_nst_est
+2010,West Region,72101630,census_nst_est
+2011,West Region,72791588,census_nst_est
+2012,West Region,73482530,census_nst_est
+2013,West Region,74173435,census_nst_est
+2014,West Region,74933166,census_nst_est
+2015,West Region,75751299,census_nst_est
+2016,West Region,76570256,census_nst_est
+2017,West Region,77267367,census_nst_est
+2018,West Region,77841481,census_nst_est
+2019,West Region,78300384,census_nst_est
+2020,West Region,78654756,census_nst_est
+2021,West Region,78602026,census_nst_est
+2022,West Region,78759506,census_nst_est
+2023,West Region,78896805,census_nst_est
+2020,West South Central,40865965,census_nst_est
+2021,West South Central,41208410,census_nst_est
+2022,West South Central,41683546,census_nst_est
+2023,West South Central,42198606,census_nst_est
+2000,West Virginia,0,census_intercensal
+2001,West Virginia,0,census_intercensal
+2002,West Virginia,1,census_intercensal
+2003,West Virginia,1,census_intercensal
+2004,West Virginia,1,census_intercensal
+2005,West Virginia,2,census_intercensal
+2006,West Virginia,3,census_intercensal
+2007,West Virginia,3,census_intercensal
+2008,West Virginia,3,census_intercensal
+2009,West Virginia,4,census_intercensal
+2010,West Virginia,4,census_intercensal
+2011,West Virginia,1856606,census_nst_est
+2012,West Virginia,1857446,census_nst_est
+2013,West Virginia,1854768,census_nst_est
+2014,West Virginia,1850569,census_nst_est
+2015,West Virginia,1843332,census_nst_est
+2016,West Virginia,1832435,census_nst_est
+2017,West Virginia,1818683,census_nst_est
+2018,West Virginia,1805953,census_nst_est
+2019,West Virginia,1795263,census_nst_est
+2020,West Virginia,1784787,census_nst_est
+2021,West Virginia,1785249,census_nst_est
+2022,West Virginia,1774035,census_nst_est
+2023,West Virginia,1770071,census_nst_est
+2000,Wisconsin,7,census_intercensal
+2001,Wisconsin,8,census_intercensal
+2002,Wisconsin,10,census_intercensal
+2003,Wisconsin,9,census_intercensal
+2004,Wisconsin,9,census_intercensal
+2005,Wisconsin,12,census_intercensal
+2006,Wisconsin,14,census_intercensal
+2007,Wisconsin,14,census_intercensal
+2008,Wisconsin,15,census_intercensal
+2009,Wisconsin,15,census_intercensal
+2010,Wisconsin,15,census_intercensal
+2011,Wisconsin,5705840,census_nst_est
+2012,Wisconsin,5720825,census_nst_est
+2013,Wisconsin,5738012,census_nst_est
+2014,Wisconsin,5753199,census_nst_est
+2015,Wisconsin,5762927,census_nst_est
+2016,Wisconsin,5775170,census_nst_est
+2017,Wisconsin,5793147,census_nst_est
+2018,Wisconsin,5809319,census_nst_est
+2019,Wisconsin,5824581,census_nst_est
+2020,Wisconsin,5832655,census_nst_est
+2021,Wisconsin,5879978,census_nst_est
+2022,Wisconsin,5890543,census_nst_est
+2023,Wisconsin,5910955,census_nst_est
+2000,Wyoming,1,census_intercensal
+2001,Wyoming,1,census_intercensal
+2002,Wyoming,1,census_intercensal
+2003,Wyoming,1,census_intercensal
+2004,Wyoming,1,census_intercensal
+2005,Wyoming,1,census_intercensal
+2006,Wyoming,2,census_intercensal
+2007,Wyoming,2,census_intercensal
+2008,Wyoming,2,census_intercensal
+2009,Wyoming,2,census_intercensal
+2010,Wyoming,2,census_intercensal
+2011,Wyoming,567491,census_nst_est
+2012,Wyoming,576656,census_nst_est
+2013,Wyoming,582620,census_nst_est
+2014,Wyoming,583159,census_nst_est
+2015,Wyoming,586389,census_nst_est
+2016,Wyoming,585243,census_nst_est
+2017,Wyoming,579994,census_nst_est
+2018,Wyoming,579054,census_nst_est
+2019,Wyoming,580116,census_nst_est
+2020,Wyoming,582328,census_nst_est
+2021,Wyoming,579548,census_nst_est
+2022,Wyoming,581629,census_nst_est
+2023,Wyoming,584057,census_nst_est
