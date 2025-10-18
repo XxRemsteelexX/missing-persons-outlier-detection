@@ -17,6 +17,9 @@ Built a system that finds anomalous crime patterns across the US using standard 
 
 ## Quick Start
 
+**Live Demo:** https://xxremsteelexx-missing-persons-outlier-dete-streamlit-app-dwe4j4.streamlit.app/
+
+Or run locally:
 ```bash
 cd /home/yeblad/Desktop/Geospatial_Crime_Analysis
 ./launch_dashboard.sh
