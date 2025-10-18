@@ -100,7 +100,7 @@ def load_outlier_data():
 
 def main():
     # Header
-    st.title("🔍 Geospatial Crime Pattern Analysis System")
+    st.title("Geospatial Crime Pattern Analysis System")
     st.markdown("**Multi-Tier Anomaly Detection for Serial Crime & Trafficking Networks**")
     st.markdown("---")
 
@@ -113,29 +113,29 @@ def main():
     st.sidebar.title("Navigation")
     page = st.sidebar.radio(
         "Select View",
-        ["📊 Overview", "🗺️ Raw Count Map", "🌡️ Std Dev Heat Map",
-         "📈 Temporal Trends", "🚨 Outlier Detection",
-         "🎯 Zone Forecasting", "✅ Validation"]
+        ["Overview", "Raw Count Map", "Std Dev Heat Map",
+         "Temporal Trends", "Outlier Detection",
+         "Zone Forecasting", "Validation"]
     )
 
-    if page == "📊 Overview":
+    if page == "Overview":
         show_overview(df_mp, df_bodies, df_outliers)
-    elif page == "🗺️ Raw Count Map":
+    elif page == "Raw Count Map":
         show_raw_count_map(df_mp, df_bodies)
-    elif page == "🌡️ Std Dev Heat Map":
+    elif page == "Std Dev Heat Map":
         show_stddev_heat_map(df_mp, df_bodies, df_outliers)
-    elif page == "📈 Temporal Trends":
+    elif page == "Temporal Trends":
         show_temporal(df_mp, df_bodies)
-    elif page == "🚨 Outlier Detection":
+    elif page == "Outlier Detection":
         show_outliers(df_outliers)
-    elif page == "🎯 Zone Forecasting":
+    elif page == "Zone Forecasting":
         show_forecasting(df_mp, df_bodies)
-    elif page == "✅ Validation":
+    elif page == "Validation":
         show_validation(df_outliers)
 
 def show_overview(df_mp, df_bodies, df_outliers):
     """Overview dashboard"""
-    st.header("📊 System Overview")
+    st.header("System Overview")
 
     # Key metrics
     col1, col2, col3, col4 = st.columns(4)
@@ -154,32 +154,32 @@ def show_overview(df_mp, df_bodies, df_outliers):
     st.markdown("---")
 
     # Top findings
-    st.subheader("🚨 Critical Findings")
+    st.subheader("Critical Findings")
 
     col1, col2 = st.columns(2)
 
     with col1:
-        st.markdown('<div class="alert-red">⚠️ I-35 CORRIDOR CRISIS</div>', unsafe_allow_html=True)
+        st.markdown('<div class="alert-red">I-35 CORRIDOR CRISIS</div>', unsafe_allow_html=True)
         st.write("**Accelerating trend:** +10.80 MP/year (recent)")
         st.write("**2020s:** 521 missing persons (vs 193 in 2010s)")
         st.write("**Status:** Human trafficking superhighway")
 
-        st.markdown('<div class="alert-orange">⚠️ TEXAS BORDER SURGE</div>', unsafe_allow_html=True)
+        st.markdown('<div class="alert-orange">TEXAS BORDER SURGE</div>', unsafe_allow_html=True)
         st.write("**2010s → 2020s:** +81% increase (727 → 1,317 MP)")
         st.write("**Only border state worsening**")
 
     with col2:
-        st.markdown('<div class="alert-orange">⚠️ PIMA COUNTY, AZ</div>', unsafe_allow_html=True)
+        st.markdown('<div class="alert-orange">PIMA COUNTY, AZ</div>', unsafe_allow_html=True)
         st.write("**Statistical outlier:** 44.75σ (529 bodies)")
         st.write("**Pattern:** Border/cartel dumping ground")
         st.write("**Unreported victims:** High bodies, low MP")
 
-        st.success("✅ CA/AZ Border Improving: -30% and -48% respectively")
+        st.success("CA/AZ Border Improving: -30% and -48% respectively")
 
     st.markdown("---")
 
     # Data coverage map
-    st.subheader("📍 Data Coverage")
+    st.subheader("Data Coverage")
 
     # Aggregate by state
     mp_by_state = df_mp.groupby('State').size().reset_index(name='mp_count')
@@ -206,7 +206,7 @@ def show_overview(df_mp, df_bodies, df_outliers):
 
 def show_geographic(df_mp, df_bodies):
     """Geographic analysis"""
-    st.header("🗺️ Geographic Distribution")
+    st.header("Geographic Distribution")
 
     # State selector
     states = sorted(df_mp['State'].unique())
@@ -258,7 +258,7 @@ def show_geographic(df_mp, df_bodies):
 
 def show_temporal(df_mp, df_bodies):
     """Temporal trends"""
-    st.header("📈 Temporal Trends Analysis")
+    st.header("Temporal Trends Analysis")
 
     # Year range selector
     min_year = int(df_mp['year'].min())
@@ -321,7 +321,7 @@ def show_temporal(df_mp, df_bodies):
     st.plotly_chart(fig, use_container_width=True)
 
     # Decade comparison
-    st.subheader("📊 Decade Comparison")
+    st.subheader("Decade Comparison")
 
     df_mp['decade'] = (df_mp['year'] // 10) * 10
     df_bodies['decade'] = (df_bodies['year'] // 10) * 10
@@ -348,7 +348,7 @@ def show_temporal(df_mp, df_bodies):
 
 def show_outliers(df_outliers):
     """Outlier detection results"""
-    st.header("🚨 Statistical Outlier Detection")
+    st.header("Statistical Outlier Detection")
 
     if df_outliers is None:
         st.warning("Outlier data not available. Run calculate_outlier_scores.py first.")
@@ -356,10 +356,10 @@ def show_outliers(df_outliers):
 
     st.markdown("""
     **Methodology:** Standard Deviation (σ) based classification
-    - 🔴 **RED**: >3σ (99.7%+ confidence - statistically impossible)
-    - 🟠 **ORANGE**: >2σ (95%+ confidence - significant outlier)
-    - 🟡 **YELLOW**: >1σ (68%+ confidence - moderate outlier)
-    - 🟢 **GREEN**: <1σ (normal variation)
+    - **RED**: >3σ (99.7%+ confidence - statistically impossible)
+    - **ORANGE**: >2σ (95%+ confidence - significant outlier)
+    - **YELLOW**: >1σ (68%+ confidence - moderate outlier)
+    - **GREEN**: <1σ (normal variation)
     """)
 
     # Alert distribution
@@ -370,21 +370,21 @@ def show_outliers(df_outliers):
 
     with col1:
         red = alert_counts.get('RED', 0)
-        st.metric("🔴 RED Alerts", red, f"{red/total*100:.1f}%")
+        st.metric("RED Alerts", red, f"{red/total*100:.1f}%")
     with col2:
         orange = alert_counts.get('ORANGE', 0)
-        st.metric("🟠 ORANGE Alerts", orange, f"{orange/total*100:.1f}%")
+        st.metric("ORANGE Alerts", orange, f"{orange/total*100:.1f}%")
     with col3:
         yellow = alert_counts.get('YELLOW', 0)
-        st.metric("🟡 YELLOW Alerts", yellow, f"{yellow/total*100:.1f}%")
+        st.metric("YELLOW Alerts", yellow, f"{yellow/total*100:.1f}%")
     with col4:
         green = alert_counts.get('GREEN', 0)
-        st.metric("🟢 GREEN", green, f"{green/total*100:.1f}%")
+        st.metric("GREEN", green, f"{green/total*100:.1f}%")
 
     st.markdown("---")
 
     # Top outliers
-    st.subheader("🚨 Top 20 Extreme Outliers")
+    st.subheader("Top 20 Extreme Outliers")
 
     df_outliers['max_sigma'] = df_outliers[['mp_sigma', 'bodies_sigma']].max(axis=1)
     top_outliers = df_outliers.sort_values('max_sigma', ascending=False).head(20)
@@ -420,7 +420,7 @@ def show_outliers(df_outliers):
 
 def show_forecasting(df_mp, df_bodies):
     """Zone forecasting"""
-    st.header("🎯 Geographic Zone Forecasting")
+    st.header("Geographic Zone Forecasting")
 
     zones = {
         'US-Mexico Border': ['CA', 'AZ', 'NM', 'TX'],
@@ -513,7 +513,7 @@ def show_forecasting(df_mp, df_bodies):
         st.metric("2030 Forecast", f"{int(mp_forecast[-1])} MP")
 
     # Show forecast table
-    st.subheader("📊 5-Year Forecast")
+    st.subheader("5-Year Forecast")
     forecast_df = pd.DataFrame({
         'Year': future_years,
         'Forecasted Missing Persons': mp_forecast.astype(int)
@@ -522,7 +522,7 @@ def show_forecasting(df_mp, df_bodies):
 
 def show_validation(df_outliers):
     """Validation with known serial killers"""
-    st.header("✅ System Validation - Known Serial Killers")
+    st.header("System Validation - Known Serial Killers")
 
     st.markdown("""
     Testing the outlier detection system against **known serial killers** to validate accuracy:
@@ -558,7 +558,7 @@ def show_validation(df_outliers):
     ]
 
     for test in tests:
-        st.subheader(f"🔍 {test['name']}")
+        st.subheader(f"{test['name']}")
 
         match = df_outliers[
             (df_outliers['State'] == test['state']) &
@@ -576,21 +576,20 @@ def show_validation(df_outliers):
             with col2:
                 st.metric("Unidentified Bodies", int(row['bodies_count']), f"{row['bodies_sigma']:.2f}σ")
             with col3:
-                alert_color = {'RED': '🔴', 'ORANGE': '🟠', 'YELLOW': '🟡', 'GREEN': '🟢'}
-                st.metric("Alert Level", f"{alert_color.get(row['alert'], '⚪')} {row['alert']}")
+                st.metric("Alert Level", row['alert'])
 
             if row['mp_sigma'] > 1 or row['bodies_sigma'] > 1:
-                st.success(f"✅ **DETECTED** as statistical outlier!")
+                st.success(f"**DETECTED** as statistical outlier!")
             else:
-                st.info(f"⚠️ Not flagged - {test['expected']}")
+                st.info(f"Not flagged - {test['expected']}")
         else:
-            st.error("❌ No data found for this location/time period")
+            st.error("No data found for this location/time period")
 
         st.markdown("---")
 
 def show_raw_count_map(df_mp, df_bodies):
     """Interactive map with raw counts - dots sized by cases, year slider"""
-    st.header("🗺️ Geographic Distribution - Raw Counts")
+    st.header("Geographic Distribution - Raw Counts")
 
     st.markdown("""
     **Interactive county-level map showing total cases over time**
@@ -749,7 +748,7 @@ def show_raw_count_map(df_mp, df_bodies):
     county_data['total'] = county_data['mp_count'] + county_data['bodies_count']
 
     # Summary stats
-    st.subheader("📊 Summary Statistics")
+    st.subheader("Summary Statistics")
     col1, col2, col3 = st.columns(3)
 
     with col1:
@@ -761,7 +760,7 @@ def show_raw_count_map(df_mp, df_bodies):
 
 def show_stddev_heat_map(df_mp, df_bodies, df_outliers):
     """Heat map showing standard deviation scores by county/state"""
-    st.header("🌡️ Statistical Outlier Heat Map")
+    st.header("Statistical Outlier Heat Map")
 
     st.markdown("""
     **Standard Deviation (σ) based heat map**
@@ -918,14 +917,14 @@ def show_stddev_heat_map(df_mp, df_bodies, df_outliers):
     # Legend
     st.markdown("""
     **Color Scale Interpretation:**
-    - 🟢 **Green/Low** (<1σ): Normal variation
-    - 🟡 **Yellow** (1-2σ): Moderate outlier - monitor
-    - 🟠 **Orange** (2-3σ): Significant outlier - investigate
-    - 🔴 **Red/High** (>3σ): Extreme outlier - urgent attention
+    - **Green/Low** (<1σ): Normal variation
+    - **Yellow** (1-2σ): Moderate outlier - monitor
+    - **Orange** (2-3σ): Significant outlier - investigate
+    - **Red/High** (>3σ): Extreme outlier - urgent attention
     """)
 
     # Top outliers table
-    st.subheader(f"🚨 Top 20 Outliers by {metric}")
+    st.subheader(f"Top 20 Outliers by {metric}")
     top_outliers = df_outliers_filtered.sort_values(sigma_col, ascending=False).head(20)
     display_cols = ['State', 'County', 'decade', 'mp_count', 'mp_sigma', 'bodies_count', 'bodies_sigma', 'alert']
     st.dataframe(top_outliers[display_cols], use_container_width=True, height=400)
