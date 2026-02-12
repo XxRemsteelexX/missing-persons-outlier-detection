@@ -85,19 +85,20 @@ def normalize_state(value):
         return upper
 
     # Try full-name lookup (case-insensitive)
-    title = value.title()
-    if title in STATE_ABBREV:
-        return STATE_ABBREV[title]
+    lower = value.lower()
+    for full_name, abbr in STATE_ABBREV.items():
+        if full_name.lower() == lower:
+            return abbr
 
-    # Common variants
+    # Common variants (case-insensitive)
     variants = {
-        'Dist. Of Columbia': 'DC',
-        'D.C.': 'DC',
-        'Us Virgin Islands': 'VI',
-        'U.S. Virgin Islands': 'VI',
+        'dist. of columbia': 'DC',
+        'd.c.': 'DC',
+        'us virgin islands': 'VI',
+        'u.s. virgin islands': 'VI',
     }
-    if title in variants:
-        return variants[title]
+    if lower in variants:
+        return variants[lower]
 
     return value
 
