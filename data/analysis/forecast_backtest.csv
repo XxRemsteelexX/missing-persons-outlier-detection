@@ -1,0 +1,13 @@
+zone,metric,linear_rmse,arima_rmse,better_model,improvement_pct
+US-Mexico Border,mp_count,51.2693,46.5753,arima,9.16
+US-Mexico Border,bodies_count,68.4318,68.5064,linear,0.11
+I-35 Corridor,mp_count,83.5007,74.6446,arima,10.61
+I-35 Corridor,bodies_count,3.2198,6.2314,linear,48.33
+Pacific Northwest,mp_count,2.4096,2.4596,linear,2.03
+Pacific Northwest,bodies_count,4.0522,3.8354,arima,5.35
+Midwest Metro,mp_count,8.9189,8.7235,arima,2.19
+Midwest Metro,bodies_count,4.2616,6.1367,linear,30.56
+Northeast Corridor,mp_count,10.1863,6.0933,arima,40.18
+Northeast Corridor,bodies_count,20.6043,10.6694,arima,48.22
+Southern California,mp_count,15.5641,80.4878,linear,80.66
+Southern California,bodies_count,14.7726,7.5132,arima,49.14

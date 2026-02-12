@@ -1,0 +1,13 @@
+zone,metric,adf_stat,adf_p,is_stationary,mk_z,mk_p,mk_trend,break_year,break_significance
+US-Mexico Border,mp,-0.870276,0.797603,False,6.150991,0.0,increasing,2022,True
+US-Mexico Border,bodies,-0.769914,0.8278,False,7.124309,0.0,increasing,2022,False
+I-35 Corridor,mp,2.705175,0.999087,False,6.582513,0.0,increasing,2020,True
+I-35 Corridor,bodies,-2.284834,0.176906,False,3.476372,0.000508,increasing,2012,False
+Pacific Northwest,mp,-4.21307,0.000626,True,3.76824,0.000164,increasing,2013,False
+Pacific Northwest,bodies,-3.916169,0.001919,True,1.340386,0.18012,no trend,2019,False
+Midwest Metro,mp,-1.843136,0.359266,False,6.024621,0.0,increasing,2017,False
+Midwest Metro,bodies,-1.904287,0.330047,False,-0.940146,0.347142,no trend,1987,True
+Northeast Corridor,mp,-1.001041,0.752885,False,4.083771,4.4e-05,increasing,2016,True
+Northeast Corridor,bodies,-2.241168,0.191645,False,-0.331519,0.740252,no trend,1987,True
+Southern California,mp,-1.928504,0.318773,False,6.040697,0.0,increasing,2016,True
+Southern California,bodies,-1.712579,0.424643,False,-5.555813,0.0,decreasing,1998,False

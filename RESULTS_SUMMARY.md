@@ -3,20 +3,23 @@
 **Project:** Multi-Tier Anomaly Detection for Serial Crime Patterns
 **Author:** Glenn Dalbey
 **Purpose:** Predictive Crime Pattern Analysis
-**Date:** October 2025
-**Status:** ✅ Validated with Real-World Data
+**Date:** February 2026
+**Status:** Full statistical + ML pipeline validated
 
 ---
 
 ## Executive Summary
 
-Built a statistical outlier detection system that identifies anomalous crime patterns across the United States using:
+Built a statistical and machine learning outlier detection system that identifies anomalous crime patterns across the United States using:
 - **41,200 total cases** (15,457 unidentified bodies + 25,743 missing persons)
 - **54 states/territories** with complete coverage
-- **Standard deviation (σ) methodology** for alert classification
-- **Multi-tier correlation** between missing persons and unidentified bodies
+- **7 statistical methods** (standard z, robust z, FDR, empirical Bayes, Poisson, NB, percentile)
+- **3 ML methods** (Isolation Forest, LOF, Random Forest)
+- **Spatial autocorrelation** (Moran's I, LISA clustering)
+- **ARIMA time series forecasting** with backtesting
+- **Population-normalized rates** (per 100K) using Census county data
 
-**Key Finding:** System successfully detects not only serial killers but also human trafficking corridors, cartel activity, and organized crime networks.
+**Key Finding:** Texas border counties (Kenedy, Brooks) are the most extreme outliers across every method tested. I-35 corridor is accelerating at +10.80 MP/year. All 6 geographic zones show increasing missing persons trends.
 
 ---
 
@@ -24,272 +27,175 @@ Built a statistical outlier detection system that identifies anomalous crime pat
 
 ### Known Serial Killers Tested
 
-| Killer | Location | Decade | MP σ | Bodies σ | Alert | Status |
+| Killer | Location | Decade | MP z | Bodies z | Alert | Status |
 |--------|----------|--------|------|----------|-------|--------|
-| **Gary Ridgway** (Green River Killer) | King County, WA | 1980s | **4.38σ** | -0.14σ | 🟠 ORANGE | ✅ **DETECTED** |
-| **John Wayne Gacy** | Cook County, IL | 1970s | **1.34σ** | -0.14σ | 🟡 YELLOW | ✅ **DETECTED** |
-| **Jeffrey Dahmer** | Milwaukee, WI | 1980s | 0.22σ | -0.14σ | 🟢 GREEN | ⚠️ Not flagged* |
+| **Gary Ridgway** (Green River Killer) | King County, WA | 1980s | **4.38** | -0.14 | ORANGE | **DETECTED** |
+| **John Wayne Gacy** | Cook County, IL | 1970s | **1.34** | -0.14 | YELLOW | **DETECTED** |
+| **Jeffrey Dahmer** | Milwaukee, WI | 1980s | 0.22 | -0.14 | GREEN | Not flagged* |
 
-*Dahmer destroyed bodies - validates need for **multi-tier system** (high MP + low bodies = "destroyer pattern")
+*Dahmer destroyed bodies -- validates the multi-tier "Destroyer Pattern" detection (high MP + low bodies).
 
 ---
 
 ## Top Outliers Discovered
 
-### 🚨 Extreme Outliers (>20σ)
+### Extreme Outliers (Covariate-Adjusted)
 
-1. **Pima County, Arizona** (2010s)
-   - **44.75σ** (529 unidentified bodies)
-   - Pattern: High bodies, LOW missing persons
-   - **Analysis:** US-Mexico border corridor, migrant deaths, cartel dumping ground
-   - **Alert:** 🟠 ORANGE - Transient Victim Pattern
+| Rank | County | State | Decade | MP/100K | Bodies/100K | Residual Z | ML Class |
+|------|--------|-------|--------|---------|-------------|------------|----------|
+| 1 | Kenedy | TX | 2020s | 4,617.6 | 2,597.4 | 46.80 | Extreme Anomaly |
+| 2 | Brooks | TX | 2010s | 793.1 | 3,214.2 | 8.08 | Extreme Anomaly |
+| 3 | Brooks | TX | 2020s | 751.1 | 2,267.8 | 7.63 | Extreme Anomaly |
+| 4 | Kenedy | TX | 2010s | 1,174.0 | 7,513.5 | 9.64 | Extreme Anomaly |
+| 5 | Dillingham | AK | 1990s | 1,200.2 | 0.0 | 5.23 | Extreme Anomaly |
 
-2. **Harris County, Texas** (Houston, 2020s)
-   - **40.33σ** (401 missing persons)
-   - Pattern: High missing, LOW bodies
-   - **Analysis:** Human trafficking hub, major metro area
-   - **Alert:** 🟠 ORANGE - Potential Destroyer/Trafficking Pattern
+These counties remain extreme outliers even after:
+- Empirical Bayes shrinkage (Kenedy: 4,617 -> 60/100K shrunk rate, weight=0.012)
+- Covariate adjustment (controlling for poverty, demographics, urbanization)
+- FDR multiple comparison correction
+- Random Forest nonlinear modeling
 
-3. **Dallas County, Texas** (2020s)
-   - **36.89σ** (367 missing persons)
-   - Pattern: High missing, LOW bodies
-   - **Analysis:** Major trafficking corridor (I-35), organized crime
-   - **Alert:** 🟠 ORANGE - Trafficking Network
+### Spatial Hotspot Clusters (LISA)
 
-4. **Los Angeles County, California** (1980s)
-   - **28.79σ** (341 unidentified bodies)
-   - Appears in **top 20 across 4 different decades** (1980s, 1990s, 2000s, 2010s)
-   - **Analysis:** Persistent outlier - homeless population, gang violence, serial activity
-   - **Alert:** 🟠 ORANGE - Multi-Decade Anomaly
+Texas border counties form statistically significant High-High (HH) spatial clusters:
+- Kenedy, Brooks, Jeff Davis, Hudspeth, Terrell, Dimmit, Maverick (all TX)
+- Alaska interior: Dillingham, Denali, Nome, Lake and Peninsula, Kodiak Island
 
-5. **Brooks County, Texas** (2010s)
-   - **19.46σ** (231 unidentified bodies)
-   - **Analysis:** Border county, human trafficking checkpoint, migrant deaths
-   - **Alert:** 🟠 ORANGE - Border Corridor
+Global Moran's I = 0.22 for 2000s missing persons rates (z=26.05, p < 0.001) -- spatial clustering is highly significant.
 
 ---
 
-## Alert Classification System
+## Alert Classification
 
-Using **standard deviation bands** (σ = sigma):
+### Statistical Alert Levels
 
-| Alert Level | Threshold | Meaning | Action Required |
-|-------------|-----------|---------|-----------------|
-| 🔴 **RED** | >3σ both metrics | **Extreme outlier** - statistically impossible by chance (99.7%+ confidence) | **URGENT** - Immediate investigation |
-| 🟠 **ORANGE** | >2σ either metric | **Significant outlier** - very unlikely by chance (95%+ confidence) | **High Priority** - Investigate within 30 days |
-| 🟡 **YELLOW** | >1σ either metric | **Moderate outlier** - worth monitoring (68%+ confidence) | **Monitor** - Review quarterly |
-| 🟢 **GREEN** | <1σ | **Normal variation** - within expected range | No action |
+| Alert Level | Threshold | Counties | Rate |
+|-------------|-----------|----------|------|
+| RED | >3 sigma both MP and bodies | 4 | 0.05% |
+| ORANGE | >2 sigma either metric | 27 | 0.37% |
+| YELLOW | >1 sigma either metric | 287 | 3.93% |
+| GREEN | <1 sigma | 6,984 | 95.64% |
 
-### Pattern Types Detected
+### After FDR Correction
+- 915 counties remain statistically significant at alpha=0.05
+- 16.5% of county-decades changed alert level with robust (Median/MAD) baselines
 
-1. **Classic Serial Killer**: Both MP + Bodies elevated
-2. **Destroyer Pattern**: High MP, low bodies (Dahmer-type)
-3. **Transient Victim Pattern**: High bodies, low MP (border/homeless)
-4. **Trafficking Network**: Very high MP in metro areas
+### ML Classification (Ensemble)
+- Normal: 6,560 (90.0%)
+- Suspicious: 364 (5.0%)
+- Anomalous: 292 (4.0%)
+- Extreme Anomaly: 73 (1.0%)
 
----
-
-## System Statistics
-
-### Data Coverage
-- ✅ **100% state coverage**: All 50 states + DC, Puerto Rico, Guam, Virgin Islands, N. Mariana Islands
-- ✅ **101-year historical range**: 1924-2025
-- ✅ **9,204 county-decade combinations** analyzed
-
-### Alert Distribution
-- 🔴 **RED**: 0 counties (0.0%) - None crossed 3σ threshold on BOTH metrics
-- 🟠 **ORANGE**: 269 counties (2.9%) - Significant outliers requiring investigation
-- 🟡 **YELLOW**: 287 counties (3.1%) - Moderate outliers for monitoring
-- 🟢 **GREEN**: 8,648 counties (94.0%) - Normal variation
-
-### National Baselines
-- **Missing Persons**: 2.79 ± 9.87 per county per decade
-- **Unidentified Bodies**: 1.68 ± 11.78 per county per decade
+Concordance: 100% of statistical RED/ORANGE alerts are captured by ML. ML additionally flags 698 counties not caught by z-scores alone.
 
 ---
 
-## Key Insights for FBI
+## Method Comparison
 
-### 1. Multi-Threat Detection
-System catches **more than just serial killers**:
-- ✅ Serial predators (Ridgway, Gacy)
-- ✅ Human trafficking corridors (TX border counties)
-- ✅ Cartel activity zones (Pima County, AZ)
-- ✅ Organized crime networks (major metro areas)
-- ✅ Missing children hotspots
+### Outlier Detection Methods
 
-### 2. Border Crisis Validation
-**Pima County, AZ showing 44.75σ** validates known border/trafficking crisis:
-- Consistent with CBP reports of migrant deaths
-- Matches known cartel dumping patterns
-- Supports resource allocation for border security
+| Method | Threshold | Counties Flagged | Notes |
+|--------|-----------|-----------------|-------|
+| Standard z > 2 | 2 sigma | ~320 | Inflated by right-skewed data |
+| Robust z > 2 | 2 MAD | ~280 | More conservative, resistant to outliers |
+| Log z > 2 | 2 sigma (log scale) | ~605 | Better for skewed distributions |
+| Poisson exceedance < 0.01 | p < 0.01 | ~990 | Count-appropriate model |
+| NB exceedance < 0.01 | p < 0.01 | ~180 | Handles overdispersion |
+| Percentile > 99th | top 1% | ~73 | Non-parametric |
+| FDR significant | BH-adjusted p < 0.05 | 915 | Multiple comparison corrected |
+| IF + LOF ensemble | top 1% | 73 | ML unsupervised |
 
-### 3. Human Trafficking Corridors Identified
-**I-35 corridor (Dallas, Houston)** showing extreme MP outliers:
-- Known trafficking superhighway
-- System independently detected this pattern
-- Suggests trafficking network activity
+### Empirical Bayes Shrinkage Effect
 
-### 4. Serial Killer Detection Works
-**Ridgway validated at 4.38σ** in King County:
-- System would have flagged him during active period
-- Multi-decade persistence detection
-- Validates use for cold case prioritization
+Small counties with extreme raw rates are shrunk toward the national mean:
+- Kenedy TX (pop=346): 4,617/100K -> 60.1/100K (weight=0.012)
+- Brooks TX (pop=7,187): 793/100K -> 698.5/100K (weight=0.198)
+- Large counties barely affected: Harris TX (pop=4.7M): weight=0.994
 
-### 5. Destroyer Pattern Detected
-**Dahmer NOT flagged** (only 0.22σ):
-- Validates need for **high MP + low bodies correlation**
-- System can detect "body destroyers" via missing persons spike
-- Future enhancement: Add this as distinct pattern type
+### Forecasting Comparison (ARIMA vs Linear)
 
----
+| Zone | Best Model (MP) | Improvement |
+|------|----------------|-------------|
+| US-Mexico Border | ARIMA (3,2,3) | 9.2% |
+| I-35 Corridor | ARIMA (0,2,1) | 10.6% |
+| Pacific Northwest | Linear | 2.0% |
+| Midwest Metro | ARIMA (3,1,3) | 2.2% |
+| Northeast Corridor | ARIMA (2,1,3) | 40.2% |
+| Southern California | Linear | 80.7% |
 
-## Technical Methodology
-
-### Standard Deviation Approach (Why σ > Mean)
-
-**User Insight:** "std dev would better than means because the further out it gets the more likely we have a value its based off of"
-
-**Validation:** Correct! Using σ-bands provides:
-
-1. **Confidence Levels:**
-   - 1σ = 68% of data (1 in 3 chance of random occurrence)
-   - 2σ = 95% of data (1 in 20 chance)
-   - 3σ = 99.7% of data (1 in 370 chance)
-   - **44σ = Statistically impossible** (Pima County)
-
-2. **Objective Thresholds:**
-   - No arbitrary cutoffs
-   - Based on statistical distribution
-   - Scales with data variance
-
-3. **Interpretability:**
-   - σ value = direct measure of "how unusual"
-   - Easy to explain to non-technical stakeholders
-   - Defensible in court/reports
-
-### Data Sources
-
-1. **NamUs (National Missing and Unidentified Persons System)**
-   - Public database managed by National Institute of Justice
-   - 15,457 unidentified bodies
-   - 25,743 missing persons
-   - Date range: 1924-2025
-
-2. **US Census Bureau**
-   - State population estimates (1980-2024)
-   - County population estimates (2020-2024)
-   - Used for normalization (future enhancement)
-
-### Processing Pipeline
-
-```
-Raw NamUs Data (CSV)
-    ↓
-Separate by Case Type (UP vs MP)
-    ↓
-Aggregate by County + Decade
-    ↓
-Calculate σ from National Baseline
-    ↓
-Classify Alert Level (Red/Orange/Yellow/Green)
-    ↓
-Validate with Known Cases
-    ↓
-Generate Priority List
-```
+Overall: ARIMA wins 7/12 comparisons across zones and metrics.
 
 ---
 
-## Limitations & Future Enhancements
+## Temporal Trends
 
-### Current Limitations
+### Mann-Kendall Trend Tests (All 6 Zones)
 
-1. **Population normalization not yet implemented**
-   - Currently using raw counts
-   - High-population counties naturally have more cases
-   - **Solution:** Per-capita rates (cases per 100K residents)
+| Zone | MP Trend | p-value | Bodies Trend | Structural Break |
+|------|----------|---------|-------------|-----------------|
+| US-Mexico Border | Increasing | < 0.001 | Increasing | 2022 |
+| I-35 Corridor | Increasing | < 0.001 | Increasing | 2020 |
+| Pacific Northwest | Increasing | < 0.001 | No trend | 2013 |
+| Midwest Metro | Increasing | < 0.001 | No trend | 2017 |
+| Northeast Corridor | Increasing | < 0.001 | No trend | 2016 |
+| Southern California | Increasing | < 0.001 | Decreasing | 1998 |
 
-2. **Decade-level aggregation**
-   - Smooths over year-to-year spikes
-   - May miss short-duration killers
-   - **Solution:** Add year-level analysis for recent data
-
-3. **Missing historical population data**
-   - Pre-2009 county population incomplete
-   - Relies on state-level estimates
-   - **Solution:** Interpolate from decennial census
-
-4. **No geographic clustering**
-   - Treats each county independently
-   - Doesn't detect multi-county patterns
-   - **Solution:** Add spatial autocorrelation (Moran's I)
-
-### Planned Enhancements
-
-1. ✅ **Per-capita normalization** - adjust for population density
-2. ✅ **Geographic clustering** - detect multi-county patterns (Circle Hypothesis)
-3. ✅ **Temporal forecasting** - predict future hotspots
-4. ✅ **Interactive dashboard** - Streamlit/Plotly map with filters
-5. ✅ **Correlation matrix** - identify MP+Bodies relationships
-6. ✅ **Victim profile analysis** - demographics, age patterns
-7. ✅ **Distance analysis** - body dump locations vs. urban centers
+All 6 zones show statistically significant increasing trends in missing persons. Only US-Mexico Border and I-35 Corridor show increasing body recovery trends. Southern California shows decreasing bodies (since structural break in 1998).
 
 ---
 
-## FBI Application Value Proposition
+## Covariate-Adjusted Analysis
 
-### Why This System Matters
+### OLS Regression (MP Rate ~ Covariates)
+- R-squared: 0.083
+- Strongest predictors: pct_foreign_born (t=11.69), log_population (t=-11.60)
+- 6 counties with extreme residuals (>3 sigma after adjustment)
 
-**Problem:** FBI has limited resources to investigate 25,743 open missing persons cases and 15,457 unidentified bodies.
-
-**Solution:** Statistical prioritization system that flags the **2.9% of counties** (269) most likely to have active serial crime patterns.
-
-**Impact:**
-- **Focus investigations** on highest-probability areas
-- **Allocate resources** based on data-driven priorities
-- **Detect patterns** that span multiple jurisdictions
-- **Identify trafficking corridors** for multi-agency task forces
-- **Cold case prioritization** - which cases to reopen first
-
-### Competitive Advantage
-
-**Unique capabilities vs. existing FBI tools:**
-1. **Multi-tier correlation** - combines MP + bodies (not just one)
-2. **Historical depth** - 101 years of data
-3. **Statistical rigor** - σ-based confidence levels
-4. **Validated accuracy** - tested against known killers
-5. **Scalable** - works at county/state/national level
-6. **Actionable** - color-coded priority system
-
-### Skills Demonstrated
-
-For **FBI Field Specialist Data Scientist** role:
-- ✅ Data acquisition from public sources (NamUs, Census)
-- ✅ Statistical analysis (σ-based outlier detection)
-- ✅ Python programming (pandas, numpy, scipy)
-- ✅ Geospatial analysis (county-level aggregation)
-- ✅ Validation methodology (known case testing)
-- ✅ Domain knowledge (criminology, trafficking patterns)
-- ✅ Communication (translating stats to actionable intelligence)
+### Random Forest Overperformance
+- Nonlinear model captures interactions OLS cannot
+- 5-fold CV R-squared assessed
+- Top overperformers remain Kenedy TX, Brooks TX even after RF adjustment
+- Feature importance: log_population and pct_foreign_born dominate
 
 ---
 
-## Conclusion
+## Pattern Types Detected
 
-This system demonstrates that **statistical anomaly detection can successfully identify active crime patterns** including:
-- Serial killers (Ridgway, Gacy validated)
-- Human trafficking corridors (I-35, border counties)
-- Cartel dumping grounds (Pima County)
-- Organized crime networks (major metro areas)
-
-The **standard deviation approach** provides objective, defensible thresholds for prioritizing investigations, allowing FBI to focus resources on the **269 counties (2.9%)** most likely to have active anomalous crime activity.
-
-**Next steps:** Build interactive dashboard for real-time monitoring and deploy as decision-support tool for FBI field offices.
+1. **Classic Serial:** High MP + High bodies (Ridgway)
+2. **Destroyer:** High MP + Low bodies (Dahmer-type)
+3. **Transient Victims:** Low MP + High bodies (border/unreported migrants)
+4. **Trafficking:** Very high MP in metro areas (I-35)
+5. **Spatial Cluster:** Neighboring counties all elevated (TX border HH cluster)
+6. **Accelerating Zone:** Trend slope increasing over time (I-35 structural break 2020)
 
 ---
 
-**Project Repository:** `/home/yeblad/Desktop/Geospatial_Crime_Analysis/`
-**Data Files:** 54 states/territories, 41,200 cases
-**Analysis Output:** `data/analysis/county_decade_outliers.csv`
-**Validated Accuracy:** 2/3 known serial killers detected (Dahmer validates multi-tier design)
+## Previously Listed Limitations -- Now Addressed
+
+| Limitation | Status | Solution |
+|-----------|--------|---------|
+| Population normalization | FIXED | County-level Census data (2000-2024), FIPS-based join |
+| Assumes normal distribution | FIXED | Log-z, Poisson, NB, percentile alternatives |
+| No multiple comparison correction | FIXED | Benjamini-Hochberg FDR (alpha=0.05) |
+| Small county bias | FIXED | Empirical Bayes shrinkage (James-Stein) |
+| No spatial analysis | FIXED | Moran's I (global + local LISA) |
+| No ML layer | FIXED | Isolation Forest, LOF, Random Forest, DBSCAN |
+| No covariate adjustment | FIXED | Census ACS covariates + OLS + RF regression |
+| Linear-only forecasting | FIXED | ARIMA with auto model selection |
+| 4 zones only | FIXED | 6 zones (added Midwest Metro + Northeast Corridor) |
+| No trend testing | FIXED | ADF stationarity, Mann-Kendall, CUSUM breaks |
+
+---
+
+## Technical Specifications
+
+- **Data:** 41,200 cases, 54 states, 7,302 county-decade observations
+- **Pipeline:** 15 Python scripts, 16 output CSVs, 37 columns in enriched dataset
+- **Statistical tests:** Chi-squared, Kruskal-Wallis, Poisson rate ratios, ADF, Mann-Kendall
+- **ML models:** Isolation Forest (200 trees), LOF (k=20), Random Forest (200 trees, depth=10), DBSCAN, Ward clustering
+- **Dashboard:** 11-page Streamlit app with Plotly visualizations
+- **Dependencies:** pandas, numpy, scipy, scikit-learn, statsmodels, streamlit, plotly
+
+---
+
+**Last Updated:** February 2026

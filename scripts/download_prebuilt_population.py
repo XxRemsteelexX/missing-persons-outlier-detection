@@ -2,227 +2,432 @@
 """
 Download Pre-Built Population Datasets
 Sources: Census.gov public data files, not requiring API key
+
+Fixes applied (Phase 0):
+  - 2000-2010 intercensal CSV: filter to total rows (SEX=0, ORIGIN=0, RACE=0,
+    AGEGRP=0) instead of iterating all demographic breakdown rows
+  - State names normalized to full names consistently
+  - County population download with FIPS codes for reliable merging
+  - Verification checks after download
 """
 import pandas as pd
+import numpy as np
 import requests
 import os
+import sys
 
-OUTPUT_DIR = "/home/yeblad/Desktop/Geospatial_Crime_Analysis/data/population"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+sys.path.insert(0, os.path.dirname(__file__))
+from utils import (
+    POP_DIR, STATE_ABBREV, STATE_FULL, STATE_FIPS, FIPS_STATE,
+    normalize_state, normalize_state_to_full,
+)
+
+os.makedirs(POP_DIR, exist_ok=True)
+
 
 def download_state_population_estimates():
     """
-    Download state population estimates from Census.gov
-    Uses NST-EST (National/State Population Totals)
+    Download state population estimates from Census.gov (2000-2024).
+    Returns a DataFrame with columns: year, state, state_abbrev, population, source
     """
     print("=" * 70)
-    print("DOWNLOADING STATE POPULATION ESTIMATES (1980-2024)")
+    print("DOWNLOADING STATE POPULATION ESTIMATES (2000-2024)")
     print("=" * 70)
-
-    # Census provides annual state population estimates as CSV
-    # https://www2.census.gov/programs-surveys/popest/tables/
 
     urls = {
         '2020-2024': 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/state/totals/NST-EST2023-ALLDATA.csv',
         '2010-2020': 'https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/state/totals/nst-est2020-alldata.csv',
         '2000-2010': 'https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/state/st-est00int-alldata.csv',
-        '1990-2000': 'https://www2.census.gov/programs-surveys/popest/tables/1990-2000/state/totals/st-99-03.txt',
-        '1980-1990': 'https://www2.census.gov/programs-surveys/popest/tables/1980-1990/state/asrh/st8090ts.txt'
     }
 
     all_data = []
 
-    # Download 2020-2024 estimates
+    # -------------------------------------------------------------------------
+    # 2020-2024 estimates (simple structure: one row per state)
+    # -------------------------------------------------------------------------
     print("\nDownloading 2020-2024 estimates...")
     try:
         df = pd.read_csv(urls['2020-2024'], encoding='latin1')
-        print(f"  ✓ Downloaded {len(df)} rows")
+        # Filter to states only (exclude US total, regions, divisions)
+        df = df[df['NAME'].isin(STATE_ABBREV.keys())]
+        print(f"  Downloaded {len(df)} state rows")
 
-        # Extract relevant columns
-        for idx, row in df.iterrows():
-            state_name = row.get('NAME', '')
+        for _, row in df.iterrows():
+            state_name = row['NAME']
+            state_abbrev = STATE_ABBREV.get(state_name, '')
             for year in range(2020, 2024):
                 pop_col = f'POPESTIMATE{year}'
                 if pop_col in df.columns:
                     all_data.append({
                         'year': year,
                         'state': state_name,
-                        'population': row[pop_col],
-                        'source': 'census_nst_est'
+                        'state_abbrev': state_abbrev,
+                        'population': int(row[pop_col]),
+                        'source': 'census_nst_est_2020'
                     })
     except Exception as e:
-        print(f"  ✗ Error: {e}")
+        print(f"  Error: {e}")
 
-    # Download 2010-2020 estimates
+    # -------------------------------------------------------------------------
+    # 2010-2020 estimates (simple structure: one row per state)
+    # -------------------------------------------------------------------------
     print("\nDownloading 2010-2020 estimates...")
     try:
         df = pd.read_csv(urls['2010-2020'], encoding='latin1')
-        print(f"  ✓ Downloaded {len(df)} rows")
+        df = df[df['NAME'].isin(STATE_ABBREV.keys())]
+        print(f"  Downloaded {len(df)} state rows")
 
-        for idx, row in df.iterrows():
-            state_name = row.get('NAME', '')
+        for _, row in df.iterrows():
+            state_name = row['NAME']
+            state_abbrev = STATE_ABBREV.get(state_name, '')
             for year in range(2010, 2021):
                 pop_col = f'POPESTIMATE{year}'
                 if pop_col in df.columns:
                     all_data.append({
                         'year': year,
                         'state': state_name,
-                        'population': row[pop_col],
-                        'source': 'census_nst_est'
+                        'state_abbrev': state_abbrev,
+                        'population': int(row[pop_col]),
+                        'source': 'census_nst_est_2010'
                     })
     except Exception as e:
-        print(f"  ✗ Error: {e}")
+        print(f"  Error: {e}")
 
-    # Download 2000-2010 intercensal estimates
-    print("\nDownloading 2000-2010 estimates...")
+    # -------------------------------------------------------------------------
+    # 2000-2010 intercensal estimates
+    # BUG FIX: This CSV has demographic breakdowns (SEX, ORIGIN, RACE, AGEGRP).
+    # Must filter to total population rows:
+    #   SEX=0 (both sexes), ORIGIN=0 (all origins),
+    #   RACE=0 (all races), AGEGRP=0 (all ages),
+    #   STATE>0 (exclude US total row)
+    # -------------------------------------------------------------------------
+    print("\nDownloading 2000-2010 intercensal estimates...")
     try:
         df = pd.read_csv(urls['2000-2010'], encoding='latin1')
-        print(f"  ✓ Downloaded {len(df)} rows")
+        print(f"  Downloaded {len(df)} total rows (with demographic breakdowns)")
 
-        for idx, row in df.iterrows():
-            state_name = row.get('NAME', '')
+        # Filter to total population rows per state
+        totals = df[
+            (df['SEX'] == 0) &
+            (df['ORIGIN'] == 0) &
+            (df['RACE'] == 0) &
+            (df['AGEGRP'] == 0) &
+            (df['STATE'] > 0)
+        ].copy()
+        print(f"  Filtered to {len(totals)} state-level total rows")
+
+        for _, row in totals.iterrows():
+            state_name = row['NAME']
+            state_abbrev = STATE_ABBREV.get(state_name, '')
             for year in range(2000, 2011):
                 pop_col = f'POPESTIMATE{year}'
                 if pop_col in df.columns:
                     all_data.append({
                         'year': year,
                         'state': state_name,
-                        'population': row[pop_col],
+                        'state_abbrev': state_abbrev,
+                        'population': int(row[pop_col]),
                         'source': 'census_intercensal'
                     })
     except Exception as e:
-        print(f"  ✗ Error: {e}")
+        print(f"  Error: {e}")
 
-    # Save combined data
+    # -------------------------------------------------------------------------
+    # Combine and deduplicate (prefer later sources for overlapping years)
+    # -------------------------------------------------------------------------
     if all_data:
         df_combined = pd.DataFrame(all_data)
-        df_combined = df_combined.sort_values(['state', 'year'])
-        df_combined = df_combined.drop_duplicates(subset=['state', 'year'], keep='last')
+        df_combined = df_combined.sort_values(['state', 'year', 'source'])
+        df_combined = df_combined.drop_duplicates(
+            subset=['state', 'year'], keep='last'
+        )
+        df_combined = df_combined.sort_values(['state', 'year']).reset_index(drop=True)
 
-        output_file = os.path.join(OUTPUT_DIR, "state_population_1980_2024.csv")
+        output_file = os.path.join(POP_DIR, "state_population_1980_2024.csv")
         df_combined.to_csv(output_file, index=False)
 
-        print(f"\n✅ Saved {len(df_combined)} records to {output_file}")
-        print(f"   {len(df_combined['state'].unique())} states")
-        print(f"   {len(df_combined['year'].unique())} years")
+        print(f"\nSaved {len(df_combined)} records to {output_file}")
+        print(f"   {df_combined['state'].nunique()} states/territories")
+        print(f"   Years: {df_combined['year'].min()}-{df_combined['year'].max()}")
+
+        # Verification
+        _verify_state_population(df_combined)
 
         return df_combined
     else:
-        print("\n❌ No data downloaded")
+        print("\nNo data downloaded")
         return None
+
+
+def _verify_state_population(df):
+    """Verify key population values are reasonable."""
+    print("\n--- Population Verification ---")
+    checks = [
+        ('Alabama', 2000, 4_000_000, 5_000_000),
+        ('Alabama', 2020, 4_800_000, 5_200_000),
+        ('California', 2000, 33_000_000, 35_000_000),
+        ('California', 2020, 38_000_000, 40_000_000),
+        ('Texas', 2000, 20_000_000, 22_000_000),
+        ('Texas', 2020, 28_000_000, 30_000_000),
+        ('Wyoming', 2000, 450_000, 550_000),
+    ]
+
+    all_pass = True
+    for state, year, low, high in checks:
+        row = df[(df['state'] == state) & (df['year'] == year)]
+        if len(row) == 0:
+            print(f"  FAIL: {state} {year} -- no data")
+            all_pass = False
+        else:
+            pop = row.iloc[0]['population']
+            ok = low <= pop <= high
+            status = "PASS" if ok else "FAIL"
+            print(f"  {status}: {state} {year} = {pop:,.0f} (expected {low:,.0f}-{high:,.0f})")
+            if not ok:
+                all_pass = False
+
+    if all_pass:
+        print("  All verification checks passed")
+    else:
+        print("  WARNING: Some verification checks failed")
+
 
 def download_county_population_estimates():
     """
-    Download county population estimates from Census.gov
+    Download county population estimates from Census.gov (2010-2024).
+    Includes FIPS codes for reliable merging with crime data.
     """
     print("\n" + "=" * 70)
-    print("DOWNLOADING COUNTY POPULATION ESTIMATES (2010-2024)")
+    print("DOWNLOADING COUNTY POPULATION ESTIMATES")
     print("=" * 70)
 
-    # County estimates (more limited time range)
-    url = 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/counties/totals/co-est2023-alldata.csv'
+    all_county_data = []
 
-    print("\nDownloading county estimates...")
+    # -------------------------------------------------------------------------
+    # 2020-2024 county estimates
+    # -------------------------------------------------------------------------
+    url_2020 = 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/counties/totals/co-est2023-alldata.csv'
+    print("\nDownloading 2020-2024 county estimates...")
     try:
-        df = pd.read_csv(url, encoding='latin1')
-        print(f"  ✓ Downloaded {len(df)} counties")
+        df = pd.read_csv(url_2020, encoding='latin1')
+        # Filter out state-level summary rows (COUNTY == 0)
+        df = df[df['COUNTY'] > 0]
+        print(f"  Downloaded {len(df)} county rows")
 
-        # Extract data by year
-        county_data = []
-        for idx, row in df.iterrows():
-            state_fips = str(row.get('STATE', '')).zfill(2)
-            county_fips = str(row.get('COUNTY', '')).zfill(3)
-            county_name = row.get('CTYNAME', '')
+        for _, row in df.iterrows():
+            state_fips = str(int(row['STATE'])).zfill(2)
+            county_fips = str(int(row['COUNTY'])).zfill(3)
+            full_fips = state_fips + county_fips
+            county_name = str(row.get('CTYNAME', '')).replace(' County', '').replace(' Parish', '').replace(' Borough', '').replace(' Census Area', '').replace(' Municipality', '').strip()
             state_name = row.get('STNAME', '')
+            state_abbrev = STATE_ABBREV.get(state_name, normalize_state(state_name))
 
             for year in range(2020, 2024):
                 pop_col = f'POPESTIMATE{year}'
                 if pop_col in df.columns:
-                    county_data.append({
+                    all_county_data.append({
                         'year': year,
                         'state': state_name,
+                        'state_abbrev': state_abbrev,
                         'county': county_name,
                         'state_fips': state_fips,
                         'county_fips': county_fips,
-                        'population': row[pop_col],
-                        'source': 'census_county_est'
+                        'fips': full_fips,
+                        'population': int(row[pop_col]),
+                        'source': 'census_county_est_2020'
                     })
+    except Exception as e:
+        print(f"  Error: {e}")
 
-        df_counties = pd.DataFrame(county_data)
-        output_file = os.path.join(OUTPUT_DIR, "county_population_2020_2024.csv")
+    # -------------------------------------------------------------------------
+    # 2010-2020 county estimates
+    # -------------------------------------------------------------------------
+    url_2010 = 'https://www2.census.gov/programs-surveys/popest/datasets/2010-2020/counties/totals/co-est2020-alldata.csv'
+    print("\nDownloading 2010-2020 county estimates...")
+    try:
+        df = pd.read_csv(url_2010, encoding='latin1')
+        df = df[df['COUNTY'] > 0]
+        print(f"  Downloaded {len(df)} county rows")
+
+        for _, row in df.iterrows():
+            state_fips = str(int(row['STATE'])).zfill(2)
+            county_fips = str(int(row['COUNTY'])).zfill(3)
+            full_fips = state_fips + county_fips
+            county_name = str(row.get('CTYNAME', '')).replace(' County', '').replace(' Parish', '').replace(' Borough', '').replace(' Census Area', '').replace(' Municipality', '').strip()
+            state_name = row.get('STNAME', '')
+            state_abbrev = STATE_ABBREV.get(state_name, normalize_state(state_name))
+
+            for year in range(2010, 2021):
+                pop_col = f'POPESTIMATE{year}'
+                if pop_col in df.columns:
+                    all_county_data.append({
+                        'year': year,
+                        'state': state_name,
+                        'state_abbrev': state_abbrev,
+                        'county': county_name,
+                        'state_fips': state_fips,
+                        'county_fips': county_fips,
+                        'fips': full_fips,
+                        'population': int(row[pop_col]),
+                        'source': 'census_county_est_2010'
+                    })
+    except Exception as e:
+        print(f"  Error: {e}")
+
+    # -------------------------------------------------------------------------
+    # 2000-2010 county intercensal estimates
+    # -------------------------------------------------------------------------
+    url_2000 = 'https://www2.census.gov/programs-surveys/popest/datasets/2000-2010/intercensal/county/co-est00int-tot.csv'
+    print("\nDownloading 2000-2010 county intercensal estimates...")
+    try:
+        df = pd.read_csv(url_2000, encoding='latin1')
+        print(f"  Downloaded {len(df)} rows")
+
+        # This file has a simpler structure: SUMLEV, STATE, COUNTY, STNAME, CTYNAME,
+        # ESTIMATESBASE2000, POPESTIMATE2000-2010
+        if 'COUNTY' in df.columns:
+            df = df[df['COUNTY'] > 0]
+
+        for _, row in df.iterrows():
+            state_fips = str(int(row['STATE'])).zfill(2)
+            county_fips = str(int(row['COUNTY'])).zfill(3)
+            full_fips = state_fips + county_fips
+            county_name = str(row.get('CTYNAME', '')).replace(' County', '').replace(' Parish', '').replace(' Borough', '').replace(' Census Area', '').replace(' Municipality', '').strip()
+            state_name = row.get('STNAME', '')
+            state_abbrev = STATE_ABBREV.get(state_name, normalize_state(state_name))
+
+            for year in range(2000, 2011):
+                pop_col = f'POPESTIMATE{year}'
+                if pop_col in df.columns:
+                    all_county_data.append({
+                        'year': year,
+                        'state': state_name,
+                        'state_abbrev': state_abbrev,
+                        'county': county_name,
+                        'state_fips': state_fips,
+                        'county_fips': county_fips,
+                        'fips': full_fips,
+                        'population': int(row[pop_col]),
+                        'source': 'census_county_intercensal'
+                    })
+    except Exception as e:
+        print(f"  Error downloading 2000-2010 county data: {e}")
+        print("  County data for 2000-2010 will be approximated from state-level data")
+
+    # -------------------------------------------------------------------------
+    # Combine and save
+    # -------------------------------------------------------------------------
+    if all_county_data:
+        df_counties = pd.DataFrame(all_county_data)
+        df_counties = df_counties.sort_values(['state', 'county', 'year', 'source'])
+        df_counties = df_counties.drop_duplicates(
+            subset=['state', 'county', 'year'], keep='last'
+        )
+        df_counties = df_counties.sort_values(
+            ['state', 'county', 'year']
+        ).reset_index(drop=True)
+
+        output_file = os.path.join(POP_DIR, "county_population_2000_2024.csv")
         df_counties.to_csv(output_file, index=False)
 
-        print(f"\n✅ Saved {len(df_counties)} records to {output_file}")
-        print(f"   {len(df_counties['county'].unique())} counties")
+        print(f"\nSaved {len(df_counties)} records to {output_file}")
+        print(f"   {df_counties['county'].nunique()} unique county names")
+        print(f"   {df_counties['state'].nunique()} states")
+        print(f"   Years: {df_counties['year'].min()}-{df_counties['year'].max()}")
+
+        # Verification
+        _verify_county_population(df_counties)
 
         return df_counties
-    except Exception as e:
-        print(f"  ✗ Error: {e}")
+    else:
+        print("\nNo county data downloaded")
         return None
+
+
+def _verify_county_population(df):
+    """Verify key county population values."""
+    print("\n--- County Population Verification ---")
+    checks = [
+        ('California', 'Los Angeles', 2020, 9_000_000, 11_000_000),
+        ('Texas', 'Harris', 2020, 4_000_000, 5_000_000),
+        ('Illinois', 'Cook', 2020, 5_000_000, 5_500_000),
+        ('Arizona', 'Pima', 2020, 900_000, 1_100_000),
+    ]
+
+    for state, county, year, low, high in checks:
+        row = df[
+            (df['state'] == state) &
+            (df['county'] == county) &
+            (df['year'] == year)
+        ]
+        if len(row) == 0:
+            print(f"  SKIP: {county}, {state} {year} -- no data found")
+        else:
+            pop = row.iloc[0]['population']
+            ok = low <= pop <= high
+            status = "PASS" if ok else "FAIL"
+            print(f"  {status}: {county}, {state} {year} = {pop:,.0f}")
+
 
 def create_interpolated_estimates(df_state):
     """
-    Create interpolated estimates for missing years (1980-1999)
+    Create interpolated estimates for missing years using available data.
+    Fills gaps between known data points with linear interpolation.
     """
     print("\n" + "=" * 70)
-    print("CREATING INTERPOLATED ESTIMATES (1980-1999)")
+    print("CREATING INTERPOLATED ESTIMATES FOR GAPS")
     print("=" * 70)
 
     if df_state is None or len(df_state) == 0:
         print("No state data available for interpolation")
         return None
 
-    # Get decennial census benchmarks
-    benchmarks = {
-        1980: {},  # Will need to add manually or estimate
-        1990: {},
-        2000: {}
-    }
-
-    # Extract 1990, 2000 from existing data
-    for state in df_state['state'].unique():
-        state_data = df_state[df_state['state'] == state]
-
-        for year in [1990, 2000]:
-            year_data = state_data[state_data['year'] == year]
-            if len(year_data) > 0:
-                benchmarks[year][state] = year_data.iloc[0]['population']
-
-    # Interpolate between decades
     interpolated = []
+    states = df_state['state'].unique()
 
-    for state in df_state['state'].unique():
-        # 1990-2000 interpolation
-        if state in benchmarks[1990] and state in benchmarks[2000]:
-            pop_1990 = benchmarks[1990][state]
-            pop_2000 = benchmarks[2000][state]
+    for state in states:
+        state_data = df_state[df_state['state'] == state].sort_values('year')
+        if len(state_data) < 2:
+            continue
 
-            for year in range(1990, 2000):
-                if not ((df_state['state'] == state) & (df_state['year'] == year)).any():
-                    ratio = (year - 1990) / (2000 - 1990)
-                    pop = int(pop_1990 + ratio * (pop_2000 - pop_1990))
+        min_year = int(state_data['year'].min())
+        max_year = int(state_data['year'].max())
+        existing_years = set(state_data['year'].values)
+        state_abbrev = state_data.iloc[0].get('state_abbrev', normalize_state(state))
 
-                    interpolated.append({
-                        'year': year,
-                        'state': state,
-                        'population': pop,
-                        'source': 'interpolated'
-                    })
+        # Interpolate gaps
+        years_array = state_data['year'].values
+        pops_array = state_data['population'].values
+
+        for year in range(min_year, max_year + 1):
+            if year not in existing_years:
+                pop = int(np.interp(year, years_array, pops_array))
+                interpolated.append({
+                    'year': year,
+                    'state': state,
+                    'state_abbrev': state_abbrev,
+                    'population': pop,
+                    'source': 'interpolated'
+                })
 
     if interpolated:
-        # Combine with existing data
         df_interp = pd.DataFrame(interpolated)
         df_combined = pd.concat([df_state, df_interp])
         df_combined = df_combined.sort_values(['state', 'year'])
-        df_combined = df_combined.drop_duplicates(subset=['state', 'year'], keep='first')
+        df_combined = df_combined.drop_duplicates(
+            subset=['state', 'year'], keep='first'
+        )
+        df_combined = df_combined.reset_index(drop=True)
 
-        output_file = os.path.join(OUTPUT_DIR, "state_population_complete_1990_2024.csv")
+        output_file = os.path.join(POP_DIR, "state_population_complete.csv")
         df_combined.to_csv(output_file, index=False)
 
-        print(f"✅ Created complete dataset: {len(df_combined)} records")
+        print(f"Added {len(interpolated)} interpolated records")
+        print(f"Saved complete dataset: {len(df_combined)} records to {output_file}")
         return df_combined
 
     return df_state
+
 
 if __name__ == "__main__":
     print("\n" + "=" * 70)
@@ -235,11 +440,11 @@ if __name__ == "__main__":
     # Download county data
     df_county = download_county_population_estimates()
 
-    # Create interpolated estimates
+    # Create interpolated estimates for any gaps
     if df_state is not None:
         create_interpolated_estimates(df_state)
 
     print("\n" + "=" * 70)
     print("DOWNLOAD COMPLETE")
     print("=" * 70)
-    print(f"\nData saved to: {OUTPUT_DIR}")
+    print(f"\nData saved to: {POP_DIR}")
